@@ -1,0 +1,12 @@
+[
+{
+            "op": "test",
+            "path": "/items/override/0/1/0/head/0/name",
+            "value": "mechpilothead"
+        },
+  {
+    "op": "replace",
+    "path": "/items/override/0/1/0/head/0/name",
+    "value": "iwunidrobe_mnkgpilothead"
+  }
+]
