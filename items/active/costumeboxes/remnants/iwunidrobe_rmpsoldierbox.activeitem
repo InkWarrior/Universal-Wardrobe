@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Uncommon",
   "category" : "iwuniCostumeSet",
-  "description" : "An armor kit once used by Protectorate apprentices.",
+  "description" : "An armor kit once used by Protectorate cadets training for combat.",
   "shortdescription" : "Rearguard Uniform Kit",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

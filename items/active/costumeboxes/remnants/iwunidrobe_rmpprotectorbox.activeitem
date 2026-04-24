@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Uncommon",
   "category" : "iwuniCostumeSet",
-  "description" : "A complete uniform for the members of the Terrene Protectorate.",
+  "description" : "A complete uniform for members of the Terrene Protectorate.",
   "shortdescription" : "Protector Uniform Kit",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

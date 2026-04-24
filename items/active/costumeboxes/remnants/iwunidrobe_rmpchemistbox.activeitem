@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Uncommon",
   "category" : "iwuniCostumeSet",
-  "description" : "A complete uniform for designated captains of Protectorate ships.",
+  "description" : "A uniform for Protectorate crewmembers specialized in chemistry.",
   "shortdescription" : "Chemist Crew Uniform",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

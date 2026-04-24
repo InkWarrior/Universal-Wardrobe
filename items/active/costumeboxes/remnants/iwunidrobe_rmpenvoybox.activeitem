@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Uncommon",
   "category" : "iwuniCostumeSet",
-  "description" : "A complete uniform for the members of the Astraeus Program.",
+  "description" : "A complete uniform for members of the Astraeus Program.",
   "shortdescription" : "Envoy Uniform Kit",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

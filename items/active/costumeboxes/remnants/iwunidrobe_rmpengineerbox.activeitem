@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Uncommon",
   "category" : "iwuniCostumeSet",
-  "description" : "A uniform for Protectorate crewmembers specialized in engineering skills.",
+  "description" : "A uniform for Protectorate crewmembers specialized in engineering.",
   "shortdescription" : "Engineer Crew Uniform",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

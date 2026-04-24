@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Uncommon",
   "category" : "iwuniCostumeSet",
-  "description" : "A unique take on the modern E.V.A. suit. Now it's yours!",
+  "description" : "A complete uniform for the designated captains of Protectorate ships.",
   "shortdescription" : "Captain Uniform Kit",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

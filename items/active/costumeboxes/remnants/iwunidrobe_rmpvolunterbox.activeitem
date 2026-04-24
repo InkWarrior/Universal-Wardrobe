@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Uncommon",
   "category" : "iwuniCostumeSet",
-  "description" : "A complete uniform for Volunteers of the Terrene Protectorate. Let's go help!",
+  "description" : "A complete uniform for Volunteers of the Terrene Protectorate. Let's go help out!",
   "shortdescription" : "Volunteer Uniform",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
