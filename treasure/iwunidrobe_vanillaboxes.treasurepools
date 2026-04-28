@@ -111,7 +111,8 @@
       "fill" : [
         {"weight" : 1, "item" : "pilothead"},
         {"weight" : 1, "item" : "pilotchest"},
-        {"weight" : 1, "item" : "pilotlegs"}
+        {"weight" : 1, "item" : "pilotlegs"},
+        {"weight" : 1, "item" : "pilotback"}
       ]
     }
    ]
@@ -121,7 +122,8 @@
     [0, {
       "fill" : [
         {"weight" : 1, "item" : "pixelherodemochest"},
-        {"weight" : 1, "item" : "pixelherodemolegs"}
+        {"weight" : 1, "item" : "pixelherodemolegs"},
+        {"weight" : 1, "item" : "simplecapeback"}
       ]
     }
    ]
@@ -343,18 +345,6 @@
         {"weight" : 1, "item" : "firelordhead"},
         {"weight" : 1, "item" : "firelordchest"},
         {"weight" : 1, "item" : "firelordlegs"}
-      ]
-    }
-   ]
-  ],
-
-  "iwunidrobe_foundryboxloot" : [
-    [0, {
-      "fill" : [
-        {"weight" : 1, "item" : "foundryhardhathead"},
-        {"weight" : 1, "item" : "foundrychest"},
-        {"weight" : 1, "item" : "foundrylegs"},
-        {"weight" : 1, "item" : "foundryback"}
       ]
     }
    ]
