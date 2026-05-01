@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_apexspecialistbox",
+  "price" : 250,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "A standard issue uniform for Apex specialists.",
+  "shortdescription" : "Specialist Clothes",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_apexspecialistbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "apexboxicon.png",
+  "animation" : "iwunidrobe_apexbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_apexspecialistboxloot",
+    "level" : 1
+  }
+}

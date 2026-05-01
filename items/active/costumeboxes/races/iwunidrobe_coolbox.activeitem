@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_coolbox",
+  "price" : 250,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "It's always the point to look this good.",
+  "shortdescription" : "Stylish Outfit",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_humancoolbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "humanboxicon.png",
+  "animation" : "iwunidrobe_humanbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_coolboxloot",
+    "level" : 1
+  }
+}

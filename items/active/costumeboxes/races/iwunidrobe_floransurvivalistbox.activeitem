@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_floransurvivalistbox",
+  "price" : 250,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "The wild is not forgiving to anyone, not even the Floran.",
+  "shortdescription" : "Survivalist Attire",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_floransurvivalistbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "floranboxicon.png",
+  "animation" : "iwunidrobe_floranbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_floransurvivalistboxloot",
+    "level" : 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_buzzybox",
+  "price" : 3000,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Rare",
+  "category" : "iwuniCostumeSet",
+  "description" : "Ever heard of the sad saga of the boy and the bee? Sad indeed.",
+  "shortdescription" : "Buzzy Costume",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_buccaneerbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "biomebagicon.png",
+  "animation" : "iwunidrobe_biomebag.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_buzzyboxloot",
+    "level" : 1
+  }
+}

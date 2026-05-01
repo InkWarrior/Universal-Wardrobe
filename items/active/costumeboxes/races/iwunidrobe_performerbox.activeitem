@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_performerbox",
+  "price" : 250,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "Some nice and elegant garments for Hylotl entertainers.",
+  "shortdescription" : "Performer Garments",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_performerbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "hylotlboxicon.png",
+  "animation" : "iwunidrobe_hylotlbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_performerboxloot",
+    "level" : 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_startrackbox",
+  "price" : 4500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "iwuniCostumeSet",
+  "description" : "A costume of a famous sci-fi series.",
+  "shortdescription" : "Space Uniform Costume",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_startrackbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "clothingbagicon.png",
+  "animation" : "iwunidrobe_clothingbag.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_startrackboxloot",
+    "level" : 1
+  }
+}

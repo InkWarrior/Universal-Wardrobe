@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_dress1box",
+  "price" : 4500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "iwuniCostumeSet",
+  "description" : "A pretty peach dress.",
+  "shortdescription" : "Peach Dress",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_dress1box.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "clothingbagicon.png",
+  "animation" : "iwunidrobe_clothingbag.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_dress1boxloot",
+    "level" : 1
+  }
+}

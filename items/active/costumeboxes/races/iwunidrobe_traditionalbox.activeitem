@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_traditionalbox",
+  "price" : 250,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "Simple and elegant, an style from another time.",
+  "shortdescription" : "Traditional Hylotl Clothes",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_hylotltraditionalbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "hylotlboxicon.png",
+  "animation" : "iwunidrobe_hylotlbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_traditionalboxloot",
+    "level" : 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_cyclopsyetibox",
+  "price" : 3000,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Rare",
+  "category" : "iwuniCostumeSet",
+  "description" : "The rule is real simple: if you think you saw it, no you didn't.",
+  "shortdescription" : "Cyclops Yeti Costume",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_cyclopsyetibox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "biomebagicon.png",
+  "animation" : "iwunidrobe_biomebag.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_cyclopsyetiboxloot",
+    "level" : 1
+  }
+}

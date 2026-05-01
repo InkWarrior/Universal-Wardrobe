@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_hylotlmonkbox",
+  "price" : 250,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "Used as a traditional fit for Hylotl monks.",
+  "shortdescription" : "Hylotl Monk Clothes",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_hylotlmonkbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "hylotlboxicon.png",
+  "animation" : "iwunidrobe_hylotlbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_hylotlmonkboxloot",
+    "level" : 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_prismbox",
+  "price" : 3000,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Rare",
+  "category" : "iwuniCostumeSet",
+  "description" : "Not as shiny as a real prism shard, but pretty nonetheless.",
+  "shortdescription" : "Prism Costume",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_prismbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "biomebagicon.png",
+  "animation" : "iwunidrobe_biomebag.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_prismboxloot",
+    "level" : 1
+  }
+}

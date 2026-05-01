@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_sweatervestbox",
+  "price" : 250,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "A light Human fit for breezy days.",
+  "shortdescription" : "Sweater and Shorts",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_humansweaterbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "humanboxicon.png",
+  "animation" : "iwunidrobe_humanbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_sweatervestboxloot",
+    "level" : 1
+  }
+}

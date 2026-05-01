@@ -2,6 +2,319 @@
   [
     {
       "op": "add",
+      "path": "/iwuni_clothingmerchantboxes",
+      "value": [
+        [
+          0,
+          [
+            {
+              "item": {
+                "name": "iwunidrobe_alpacabox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_anatomybox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_beachcreeperbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_bedouinbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_bioluminbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_bucaneerbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_buzzybox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_copperbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_darkdisguisebox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_deadbeatleatherbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_deadbeatspandexbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_deadbeatstrapbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_eyeballbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_firelordbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_flowerybox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_geodeloot"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_hawaiianbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_hazmatbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_hikerbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_hunterbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_icearmorbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_lagoonbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_larvabox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_mutantbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_prehistoricbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_prismbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_rainbowwoodbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_rockbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_slimebox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_snowinfantrybox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_steamspringbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_tarbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_toughbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_wildfungusbox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_bettybox"
+              },
+              "rarity": 0.05
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_chefbox"
+              },
+              "rarity": 0.05
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_cowboybox"
+              },
+              "rarity": 0.05
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_dress1box"
+              },
+              "rarity": 0.05
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_fairybox"
+              },
+              "rarity": 0.05
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_jumpsuitbox"
+              },
+              "rarity": 0.05
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_moneybagsbox"
+              },
+              "rarity": 0.05
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_neobox"
+              },
+              "rarity": 0.05
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_pilotbox"
+              },
+              "rarity": 0.05
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_pixelherobox"
+              },
+              "rarity": 0.05
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_smartbox"
+              },
+              "rarity": 0.05
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_startrackbox"
+              },
+              "rarity": 0.05
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_strapbox"
+              },
+              "rarity": 0.05
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_summerbox"
+              },
+              "rarity": 0.05
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_wedding1box"
+              },
+              "rarity": 0.05
+            },
+            {
+              "item": {
+                "name": "iwunidrobe_wedding2box"
+              },
+              "rarity": 0.05
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "op": "add",
       "path": "/shroommerchant/0/1/-",
       "value": {
         "item": {
@@ -863,6 +1176,60 @@
           "name": "iwunidrobe_bigapexpack"
         }
       }
+    },
+    {
+      "op": "add",
+      "path": "/apexclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_alphabox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/apexclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_epsilonbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/apexclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_apexcommanderbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/apexclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_apexnavybox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/apexclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_apexofficerbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/apexclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_apexspecialistbox"
+        }
+      }
     }
   ],
   [
@@ -1423,6 +1790,60 @@
           "name": "iwunidrobe_bigavianpack"
         }
       }
+    },
+    {
+      "op": "add",
+      "path": "/avianclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_warriorbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/avianclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_traderbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/avianclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_avianadventurerbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/avianclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_aviancommonerbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/avianclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_avianfancybox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/avianclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_avianworkerbox"
+        }
+      }
     }
   ],
   [
@@ -1966,6 +2387,69 @@
       "value": {
         "item": {
           "name": "iwunidrobe_bigfloranpack"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_butcherbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_sawbonesbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_floranfurnivourbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_floranhunterbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_floranleafbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_floranpeltbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_floransurvivalistbox"
         }
       }
     }
@@ -2567,6 +3051,60 @@
           "name": "iwunidrobe_bigglitchpack"
         }
       }
+    },
+    {
+      "op": "add",
+      "path": "/glitchclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_minstrelbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/glitchclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_monkbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/glitchclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_noblebox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/glitchclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_craftsmenbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/glitchclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_merchantbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/glitchclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_peasantbox"
+        }
+      }
     }
   ],
   [
@@ -3077,6 +3615,60 @@
       "value": {
         "item": {
           "name": "iwunidrobe_mk7outriderbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/humanclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_climberbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/humanclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_camperbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/humanclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_coolbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/humanclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_conceptbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/humanclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_sweatervestbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/humanclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_workoutbox"
         }
       }
     }
@@ -3622,6 +4214,60 @@
       "value": {
         "item": {
           "name": "iwunidrobe_bighylotlpack"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/hylotlclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_performerbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/hylotlclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_calligrapherbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/hylotlclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_traineebox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/hylotlclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_traditionalbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/hylotlclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_hylotlmonkbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/hylotlclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_kimonobox"
         }
       }
     }
@@ -4308,6 +4954,60 @@
       "value": {
         "item": {
           "name": "iwunidrobe_trapperbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/novakidclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_diggerbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/novakidclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_farmerbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/novakidclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_novakidfancybox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/novakidclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_novakidjacketbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/novakidclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_novakidsuspendersbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/novakidclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_novakidwaistcoatbox"
         }
       }
     }

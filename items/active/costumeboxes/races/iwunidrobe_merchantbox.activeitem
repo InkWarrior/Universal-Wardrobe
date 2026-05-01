@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_merchantbox",
+  "price" : 250,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "A great choice for Glitch traders and whatnot.",
+  "shortdescription" : "Merchant Garments",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_glitchmerchantbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "glitchboxicon.png",
+  "animation" : "iwunidrobe_glitchbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_merchantboxloot",
+    "level" : 1
+  }
+}

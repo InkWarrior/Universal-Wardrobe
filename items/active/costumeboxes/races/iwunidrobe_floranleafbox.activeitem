@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_floranleafbox",
+  "price" : 250,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "A bunch of Floran clothing made with living leaves.",
+  "shortdescription" : "Floran Leaf Attire",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_floranleafbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "floranboxicon.png",
+  "animation" : "iwunidrobe_floranbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_floranleafboxloot",
+    "level" : 1
+  }
+}

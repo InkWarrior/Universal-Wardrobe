@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_bettybox",
+  "price" : 4500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "iwuniCostumeSet",
+  "description" : "I bet you can't recognize me, can you?",
+  "shortdescription" : "Disguise Costume",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_bettybox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "clothingbagicon.png",
+  "animation" : "iwunidrobe_clothingbag.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_bettyboxloot",
+    "level" : 1
+  }
+}

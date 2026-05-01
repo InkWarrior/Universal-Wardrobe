@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_conceptbox",
+  "price" : 250,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "A common fit used by Humans.",
+  "shortdescription" : "Casual Outfit",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_humanconceptbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "humanboxicon.png",
+  "animation" : "iwunidrobe_humanbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_conceptboxloot",
+    "level" : 1
+  }
+}

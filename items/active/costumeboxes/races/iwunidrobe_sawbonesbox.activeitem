@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_sawbonesbox",
+  "price" : 250,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "Leather clothing for any kind of Floran that loves bones.",
+  "shortdescription" : "Sawbones Attire",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_butcherbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "floranboxicon.png",
+  "animation" : "iwunidrobe_floranbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_sawbonesboxloot",
+    "level" : 1
+  }
+}

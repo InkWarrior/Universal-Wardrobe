@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_deadbeatstrapbox",
+  "price" : 3000,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Rare",
+  "category" : "iwuniCostumeSet",
+  "description" : "An exact replica of the kind of straps Deadbeats love to use.",
+  "shortdescription" : "Deadbeat Straps",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_deadbeatstrapbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "biomebagicon.png",
+  "animation" : "iwunidrobe_biomebag.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_deadbeatstrapboxloot",
+    "level" : 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_novakidsuspendersbox",
+  "price" : 250,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "A comfy fit for Novakid villager.",
+  "shortdescription" : "Novakid Suspenders",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_novakidsuspenderbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "novakidboxicon.png",
+  "animation" : "iwunidrobe_novakidbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_novakidsuspendersboxloot",
+    "level" : 1
+  }
+}

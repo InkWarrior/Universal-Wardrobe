@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_climberbox",
+  "price" : 250,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "Light clothes, the best choice for climbing mountains.",
+  "shortdescription" : "Climber Outfit",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_climberbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "humanboxicon.png",
+  "animation" : "iwunidrobe_humanbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_climberboxloot",
+    "level" : 1
+  }
+}

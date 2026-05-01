@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_diggerbox",
+  "price" : 250,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "It kinda makes you look like an archeologist.",
+  "shortdescription" : "Digger Clothes",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_diggerbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "novakidboxicon.png",
+  "animation" : "iwunidrobe_novakidbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_diggerboxloot",
+    "level" : 1
+  }
+}

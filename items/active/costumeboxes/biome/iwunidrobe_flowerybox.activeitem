@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_flowerybox",
+  "price" : 3000,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Rare",
+  "category" : "iwuniCostumeSet",
+  "description" : "Just like a real one!",
+  "shortdescription" : "Flowry Costume",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_flowerybox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "biomebagicon.png",
+  "animation" : "iwunidrobe_biomebag.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_floweryboxloot",
+    "level" : 1
+  }
+}

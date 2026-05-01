@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_novakidfancybox",
+  "price" : 250,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "A fit for rookies.",
+  "shortdescription" : "Gunslinger Clothes",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_novakidfancybox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "novakidboxicon.png",
+  "animation" : "iwunidrobe_novakidbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_novakidfancyboxloot",
+    "level" : 1
+  }
+}

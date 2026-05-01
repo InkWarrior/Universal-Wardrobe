@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_noblebox",
+  "price" : 250,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "The most luxurious garments a Glitch Noble can wear.",
+  "shortdescription" : "Noble Garments",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_glitchnoblebox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "glitchboxicon.png",
+  "animation" : "iwunidrobe_glitchbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_nobleboxloot",
+    "level" : 1
+  }
+}

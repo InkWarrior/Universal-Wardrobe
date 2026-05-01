@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_warriorbox",
+  "price" : 250,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "A common attire for the warrior caste of Avian society.",
+  "shortdescription" : "Warrior Garments",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_warriorbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "avianboxicon.png",
+  "animation" : "iwunidrobe_avianbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_warriorboxloot",
+    "level" : 1
+  }
+}

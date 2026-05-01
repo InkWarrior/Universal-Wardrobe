@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_novakidjacketbox",
+  "price" : 250,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "Going somewhere? Besides jail?",
+  "shortdescription" : "Rustler Clothes",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_novakidrustlerbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "novakidboxicon.png",
+  "animation" : "iwunidrobe_novakidbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_novakidjacketboxloot",
+    "level" : 1
+  }
+}

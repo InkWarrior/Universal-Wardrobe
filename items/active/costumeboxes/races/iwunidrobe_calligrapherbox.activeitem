@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_calligrapherbox",
+  "price" : 250,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "Some nice and elegant garments for when you need to redact a letter.",
+  "shortdescription" : "Calligrapher Garments",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_calligrapherbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "hylotlboxicon.png",
+  "animation" : "iwunidrobe_hylotlbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_calligrapherboxloot",
+    "level" : 1
+  }
+}
