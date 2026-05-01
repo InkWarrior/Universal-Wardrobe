@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Common",
   "category" : "iwuniCostumeSet",
-  "description" : "Used as a traditional fit for Hylotl monks.",
+  "description" : "Used as the traditional fit for Hylotl monks.",
   "shortdescription" : "Hylotl Monk Clothes",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

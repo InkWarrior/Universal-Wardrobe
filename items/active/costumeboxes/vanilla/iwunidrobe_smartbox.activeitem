@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Legendary",
   "category" : "iwuniCostumeSet",
-  "description" : "Not feeling smart enough? Try put on some glasses!",
+  "description" : "Not feeling smart enough? Try putting on some glasses!",
   "shortdescription" : "Smart Dress",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

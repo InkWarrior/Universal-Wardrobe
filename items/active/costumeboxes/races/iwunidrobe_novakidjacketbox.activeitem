@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Common",
   "category" : "iwuniCostumeSet",
-  "description" : "Going somewhere? Besides jail?",
+  "description" : "Going somewhere besides jail?",
   "shortdescription" : "Rustler Clothes",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

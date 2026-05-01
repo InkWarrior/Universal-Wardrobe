@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Rare",
   "category" : "iwuniCostumeSet",
-  "description" : "Covering yourself in tar would be easier... if you don't mind at all.",
+  "description" : "Covering yourself in tar would be easier... If you wouldn't mind it that is.",
   "shortdescription" : "Tar Costume",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Rare",
   "category" : "iwuniCostumeSet",
-  "description" : "Thanfully is not real slime, otherwise you'll never stop bouncing.",
+  "description" : "Thanfully it's not made of real slime, otherwise you'd never stop bouncing.",
   "shortdescription" : "Slime Costume",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

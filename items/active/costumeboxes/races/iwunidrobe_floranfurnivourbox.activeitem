@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Common",
   "category" : "iwuniCostumeSet",
-  "description" : "Fur clothing wore proudly by Floran hunters.",
+  "description" : "Fur clothing worn proudly by Floran hunters.",
   "shortdescription" : "Furnivour Attire",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

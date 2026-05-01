@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Rare",
   "category" : "iwuniCostumeSet",
-  "description" : "Good for exccentric inventors who live in the cold.",
+  "description" : "Good for eccentric inventors who live in the cold.",
   "shortdescription" : "Steamspring Clothes",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

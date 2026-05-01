@@ -6,7 +6,7 @@
   "rarity" : "Rare",
   "category" : "iwuniCostumeSet",
   "description" : "Almost looks like a real one!",
-  "shortdescription" : "Alpaca Costume",
+  "shortdescription" : "Larva Costume",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
     "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_larvabox.png"

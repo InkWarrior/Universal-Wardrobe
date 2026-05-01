@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Rare",
   "category" : "iwuniCostumeSet",
-  "description" : "A fully sealed suit to protect from contaminants.",
+  "description" : "A fully sealed suit to protect you from contaminants with.",
   "shortdescription" : "Hazmat Set",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
