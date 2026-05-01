@@ -304,7 +304,7 @@
    ]
   ],
 
-  "iwunidrobe_bedouinlootbox" : [
+  "iwunidrobe_bedouinboxloot" : [
     [0, {
       "fill" : [
         {"weight" : 1, "item" : "bedouinhead"},
@@ -406,7 +406,7 @@
    ]
   ],
 
-  "iwunidrobe_hunterlootbox" : [
+  "iwunidrobe_hunterboxloot" : [
     [0, {
       "fill" : [
         {"weight" : 1, "item" : "hunterchest"},
@@ -428,7 +428,7 @@
    ]
   ],
 
-  "iwunidrobe_lagoonlootbox" : [
+  "iwunidrobe_lagoonboxloot" : [
     [0, {
       "fill" : [
         {"weight" : 1, "item" : "lagoonhead"},
@@ -474,7 +474,7 @@
    ]
   ],
 
-  "iwunidrobe_prismlootbox" : [
+  "iwunidrobe_prismboxloot" : [
     [0, {
       "fill" : [
         {"weight" : 1, "item" : "prismhead"},
