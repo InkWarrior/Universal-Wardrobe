@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Common",
   "category" : "iwuniCostumeSet",
-  "description" : "A comfy fit for Novakid villager.",
+  "description" : "A comfy fit for Novakid villagers.",
   "shortdescription" : "Novakid Suspenders",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

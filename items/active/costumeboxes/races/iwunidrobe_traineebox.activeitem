@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Common",
   "category" : "iwuniCostumeSet",
-  "description" : "Use for combat training by the Hylotl.",
+  "description" : "Used for combat training by the Hylotl.",
   "shortdescription" : "Trainee Clothes",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

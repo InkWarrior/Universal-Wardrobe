@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Common",
   "category" : "iwuniCostumeSet",
-  "description" : "Some nice and elegant garments for when you need to redact a letter.",
+  "description" : "Some nice and elegant garments for when you need to write a letter.",
   "shortdescription" : "Calligrapher Garments",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

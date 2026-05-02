@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Rare",
   "category" : "iwuniCostumeSet",
-  "description" : "To warm you from the worst colds in the galaxy.",
+  "description" : "To protect you from the worst colds in the galaxy.",
   "shortdescription" : "Snow Infantry Set",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

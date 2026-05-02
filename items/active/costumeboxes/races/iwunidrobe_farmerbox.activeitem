@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Common",
   "category" : "iwuniCostumeSet",
-  "description" : "A simple attire for a simple life on the plains.",
+  "description" : "Simple attire for a simple life on the plains.",
   "shortdescription" : "Farmer Clothes",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
