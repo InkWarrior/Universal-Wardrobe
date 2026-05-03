@@ -136,5 +136,22 @@
         [1, 1]
       ]
     }]
+  ],
+
+  "iwunidrobe_lairBoxReward" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.0003, "item" : "iwunidrobe_banditlootbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_reaverbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_hijackerbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_looterbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_malefactorbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_plundererbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_wandererbox"}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ]
+    }]
   ]
 }

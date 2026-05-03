@@ -58,7 +58,7 @@
   "iwuni_criminalLairHeadwear" : [
     [0, {
       "fill" : [
-        {"item" : "iwunidrobe_banditlootbox"}
+        {"item" : "iwunidrobe_lairBoxReward"}
       ],
       "poolRounds" : [
         [0.2, 3],
