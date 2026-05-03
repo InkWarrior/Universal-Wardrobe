@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Common",
   "category" : "iwuniCostumeSet",
-  "description" : "Leather-made clothes for Avian travellers.",
+  "description" : "Leather clothes for Avian travellers.",
   "shortdescription" : "Avian Leather Clothes",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

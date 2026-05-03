@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Common",
   "category" : "iwuniCostumeSet",
-  "description" : "Clothing used by Floran initiated on hunting.",
+  "description" : "Clothing used by Floran initiating a hunt.",
   "shortdescription" : "Savage Attire",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

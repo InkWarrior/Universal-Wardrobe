@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Rare",
   "category" : "iwuniCostumeSet",
-  "description" : "Just as creepy as the real ones.",
+  "description" : "Just as creepy as the real thing.",
   "shortdescription" : "Creepling Costume",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

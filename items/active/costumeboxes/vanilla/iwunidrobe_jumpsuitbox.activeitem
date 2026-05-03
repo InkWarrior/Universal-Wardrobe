@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Legendary",
   "category" : "iwuniCostumeSet",
-  "description" : "Anyway, where is my parachute?",
+  "description" : "Where is my parachute anyways?",
   "shortdescription" : "Jump Suit",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

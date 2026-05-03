@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Common",
   "category" : "iwuniCostumeSet",
-  "description" : "Simple and elegant, an style from another time.",
+  "description" : "Simple and elegant, a style from another time.",
   "shortdescription" : "Traditional Hylotl Clothes",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

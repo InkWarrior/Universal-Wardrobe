@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Rare",
   "category" : "iwuniCostumeSet",
-  "description" : "The rule is real simple: if you think you saw it, no you didn't.",
+  "description" : "The rule is real simple: if you think you saw it, you didn't.",
   "shortdescription" : "Cyclops Yeti Costume",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
