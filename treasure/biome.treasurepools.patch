@@ -173,6 +173,14 @@
             "op": "add",
             "path": "/oceanFloorTreasure/0/1/pool/-",
             "value": {
+                "weight": 0.1,
+                "item": "sensorysquidhathead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/oceanFloorTreasure/0/1/pool/-",
+            "value": {
                 "weight": 0.4,
                 "item": "iwunidrobe_bucaneerbox"
             }
