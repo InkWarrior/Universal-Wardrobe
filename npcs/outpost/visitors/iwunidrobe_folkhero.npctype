@@ -1,0 +1,42 @@
+{
+  "type" : "iwunidrobe_folkhero",
+  "baseType" : "outpostvisitor",
+  "displayTitle" : "Folk Hero",
+
+  "scriptConfig" : {
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "It is I, the great and mythical Robin Cog!",
+            "The rumours are right, I take the gold of those greedy nobles and give it to the common folk!",
+            "I'm hiding, the sheriff of NottingRAM was close to capture me!",
+            "Even a mighty hero needs to buy arrows from time to time.",
+            "You don't know me? I have like 10 different movies!"
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "iwunidrobe_glitchhat3b", "parameters" : { "colorIndex" : 7 } }
+            ],
+            "chest" : [
+              { "name" : "peasantchest", "parameters" : { "colorIndex" : 7 } }
+            ],
+            "legs" : [
+              { "name" : "peasantlegs", "parameters" : { "colorIndex" : 7 } }
+            ],
+            "back" : [
+              { "name" : "quiverback", "parameters" : { "colorIndex" : 0 } }
+            ]
+          }
+        ] ]
+    ]
+  }
+}

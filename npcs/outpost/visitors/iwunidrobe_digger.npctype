@@ -1,0 +1,62 @@
+{
+  "type" : "iwunidrobe_digger",
+  "baseType" : "outpostvisitor",
+  "displayTitle" : "Gold Digger",
+
+  "scriptConfig" : {
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "I'm gonna get rich!",
+            "I'm going to sell all of the iron I got yesterday, I don't really need that stuff.",
+            "Last time I sold a chunk o' gold I got to drink on the bar the whole day!",
+            "Are ya lookin' for gold too?",
+            "My pickaxe broke, I'm lookin' for a new one.",
+            "I got a weird lookin' fossil, maybe I'll get a buck or two for it.",
+            "Don't mind me, I'm gonna sell my gold!",
+            "I'm lookin' for some \"bear\" fellows here, I heard they could buy my gold."
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "iwunidrobe_prospectorhead", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "chest" : [
+              { "name" : "iwunidrobe_prospectorchest", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "legs" : [
+              { "name" : "iwunidrobe_prospectorpants", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "back" : [
+              { "name" : "iwunidrobe_minerbackpackalt", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "lanternstickback", "parameters" : { "colorIndex" : 0 } }
+            ],
+          },
+          {
+            "head" : [
+              { "name" : "iwunidrobe_prospectorhead", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "mininghathead", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "chest" : [
+              { "name" : "iwunidrobe_diggerchest", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "legs" : [
+              { "name" : "iwunidrobe_diggerpants", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "back" : [
+              { "name" : "iwunidrobe_minerbackpackalt", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "iwunidrobe_minerbackpack", "parameters" : { "colorIndex" : 0 } }
+            ],
+          }
+        ] ]
+    ]
+  }
+}

@@ -1,184 +1,36 @@
 [
     [
-      //Ocean
+      //Forest
         {
             "op": "add",
-            "path": "/oceanTreasure/0/1/pool/-",
+            "path": "/forestTreasure/0/1/pool/-",
             "value": {
-                "weight": 0.05,
-                "item": "iwunidrobe_oldbreatheppback"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/oceanFloorTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.05,
-                "item": "iwunidrobe_oldbreatheppback"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/oceanFloorTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.05,
-                "item": "iwunidrobe_hawaiishirt"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/oceanFloorTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.05,
-                "item": "sensorysquidhathead"
+                "weight": 0.4,
+                "item": "iwunidrobe_hikerbox"
             }
         }
     ],
 
     [
-      //Alien
+      //Desert
         {
             "op": "add",
-            "path": "/alienTreasure/0/1/pool/-",
+            "path": "/desertTreasure/0/1/pool/-",
             "value": {
-                "weight": 0.3,
-                "item": "iwunidrobe_oldradiationeppback"
+                "weight": 0.4,
+                "item": "iwunidrobe_bedouinbox"
             }
         }
     ],
 
     [
-      //Toxic
+      //Savannah
         {
             "op": "add",
-            "path": "/toxicTreasure/0/1/pool/-",
+            "path": "/savannahTreasure/0/1/pool/-",
             "value": {
-                "weight": 0.3,
-                "item": "iwunidrobe_oldradiationeppback"
-            }
-        }
-    ],
-
-    [
-      //Midnight
-        {
-            "op": "add",
-            "path": "/shadowTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.1,
-                "item": "demonwingsback"
-            }
-        }
-    ],
-
-    [
-      //Volcanic
-        {
-            "op": "add",
-            "path": "/volcanicTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.3,
-                "item": "firelordback"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/volcanicTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.3,
-                "item": "iwunidrobe_oldheateppback"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/volcanicTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.3,
-                "item": "iwunidrobe_weldervisor"
-            }
-        }
-    ],
-
-    [
-      //Bone
-        {
-            "op": "test",
-            "path": "/boneTreasure/0/1/pool"
-        },
-        {
-            "op": "add",
-            "path": "/boneTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.1,
-                "item": "iwunidrobe_skullagaranhead"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/boneTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.1,
-                "item": "iwunidrobe_skullalpacahead"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/boneTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.1,
-                "item": "iwunidrobe_skulldeadbeathead"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/boneTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.1,
-                "item": "iwunidrobe_skullfeneroxhead"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/boneTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.1,
-                "item": "iwunidrobe_skullfrogghead"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/boneTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.1,
-                "item": "iwunidrobe_skullshadowhead"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/boneTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.02,
-                "item": "iwunidrobe_vicrattlehead"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/boneTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.03,
-                "item": "iwunidrobe_wildlinglootbox"
-            }
-        }
-    ],
-
-    [
-      //Swamp
-        {
-            "op": "add",
-            "path": "/swampTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.05,
-                "item": "iwunidrobe_oldbreatheppback"
+                "weight": 0.4,
+                "item": "iwunidrobe_hunterbox"
             }
         }
     ],
@@ -268,6 +120,426 @@
                 "weight": 0.3,
                 "item": "iwunidrobe_coldpants"
             }
+        },
+        {
+            "op": "add",
+            "path": "/snowTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_snowinfantrybox"
+            }
+        }
+    ],
+
+    [
+      //Ocean
+        {
+            "op": "add",
+            "path": "/oceanTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": "iwunidrobe_oldbreatheppback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/oceanTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.1,
+                "item": "iwunidrobe_hawaiianbox"
+            }
+        }
+    ],
+
+    [
+      //Ocean Floor
+        {
+            "op": "add",
+            "path": "/oceanFloorTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": "iwunidrobe_oldbreatheppback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/oceanFloorTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.2,
+                "item": "iwunidrobe_hawaiishirt"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/oceanFloorTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_bucaneerbox"
+            }
+        }
+    ],
+
+    [
+      //Jungle
+        {
+            "op": "add",
+            "path": "/jungleTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_toughbox"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/jungleTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_hazmatbox"
+            }
+        }
+    ],
+
+    [
+      //Alien
+        {
+            "op": "add",
+            "path": "/alienTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.3,
+                "item": "iwunidrobe_oldradiationeppback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/alienTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_hazmatbox"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/alienTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_beachcreeperbox"
+            }
+        }
+    ],
+
+    [
+      //Toxic
+        {
+            "op": "add",
+            "path": "/toxicTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.3,
+                "item": "iwunidrobe_oldradiationeppback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/toxicTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_hazmatbox"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/toxicTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_mutantbox"
+            }
+        }
+    ],
+
+    [
+      //Midnight
+        {
+            "op": "add",
+            "path": "/shadowTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.1,
+                "item": "demonwingsback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/shadowTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.2,
+                "item": "iwunidrobe_darkdisguisebox"
+            }
+        }
+    ],
+
+    [
+      //Volcanic
+        {
+            "op": "add",
+            "path": "/volcanicTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.3,
+                "item": "firelordback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/volcanicTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.3,
+                "item": "iwunidrobe_oldheateppback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/volcanicTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.3,
+                "item": "iwunidrobe_weldervisor"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/volcanicTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_firelordbox"
+            }
+        }
+    ],
+
+    [
+      //Scorched City
+        {
+            "op": "add",
+            "path": "/scorchedcityTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.2,
+                "item": "iwunidrobe_deadbeatleatherbox"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/scorchedcityTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.2,
+                "item": "iwunidrobe_deadbeatspandexbox"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/scorchedcityTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.2,
+                "item": "iwunidrobe_deadbeatstrapbox"
+            }
+        }
+    ],
+
+    [
+      //Mushroom Patch
+        {
+            "op": "add",
+            "path": "/mushroomTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_wildfungusbox"
+            }
+        }
+    ],
+
+    [
+      //Spring
+        {
+            "op": "add",
+            "path": "/springTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_flowerybox"
+            }
+        }
+    ],
+
+    [
+      //Tar
+        {
+            "op": "add",
+            "path": "/tarTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_prehistoricbox"
+            }
+        }
+    ],
+
+    [
+      //Colourful
+        {
+            "op": "add",
+            "path": "/rainbowChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_rainbowwoodbox"
+            }
+        }
+    ],
+
+    [
+      //Bone
+        {
+            "op": "test",
+            "path": "/boneTreasure/0/1/pool"
+        },
+        {
+            "op": "add",
+            "path": "/boneTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.1,
+                "item": "iwunidrobe_skullagaranhead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/boneTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.1,
+                "item": "iwunidrobe_skullalpacahead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/boneTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.1,
+                "item": "iwunidrobe_skulldeadbeathead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/boneTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.1,
+                "item": "iwunidrobe_skullfeneroxhead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/boneTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.1,
+                "item": "iwunidrobe_skullfrogghead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/boneTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.1,
+                "item": "iwunidrobe_skullshadowhead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/boneTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_vicrattlehead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/boneTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.03,
+                "item": "iwunidrobe_wildlinglootbox"
+            }
+        }
+    ],
+
+    [
+      //Alpine
+        {
+            "op": "add",
+            "path": "/alpineTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.1,
+                "item": "iwunidrobe_alpacabox"
+            }
+        }
+    ],
+
+    [
+      //Bioluminiscense
+        {
+            "op": "add",
+            "path": "/bioluminescenceTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_bioluminbox"
+            }
+        }
+    ],
+
+    [
+      //Giant Flowers
+        {
+            "op": "add",
+            "path": "/giantflowerTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_buzzybox"
+            }
+        }
+    ],
+
+    [
+      //Swamp
+        {
+            "op": "add",
+            "path": "/swampTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": "iwunidrobe_oldbreatheppback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/swampTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": "iwunidrobe_oldbreatheppback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/swampTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.2,
+                "item": "iwunidrobe_hazmatbox"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/swampTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.2,
+                "item": "iwunidrobe_lagoonbox"
+            }
+        }
+    ],
+
+    [
+      //Eyeball
+        {
+            "op": "add",
+            "path": "/eyeTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": "iwunidrobe_eyeballbox"
+            }
         }
     ],
 
@@ -332,6 +604,22 @@
                 "weight": 0.3,
                 "item": "iwunidrobe_oldcoldeppback"
             }
+        },
+        {
+            "op": "add",
+            "path": "/iceTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_cyclopsyetibox"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/iceTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_snowinfantrybox"
+            }
         }
     ],
 
@@ -343,6 +631,14 @@
             "value": {
                 "weight": 0.3,
                 "item": "iwunidrobe_oldcoldeppback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/steamspringTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_steamspringbox"
             }
         }
     ],
@@ -356,6 +652,14 @@
                 "weight": 0.3,
                 "item": "crystalbackpackback"
             }
+        },
+        {
+            "op": "add",
+            "path": "/prismTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_prismbox"
+            }
         }
     ],
 
@@ -367,6 +671,14 @@
             "value": {
                 "weight": 0.3,
                 "item": "iwunidrobe_oldcoldeppback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/hiveTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_larvabox"
             }
         }
     ],
@@ -387,6 +699,90 @@
             "value": {
                 "weight": 0.3,
                 "item": "iwunidrobe_bigscrappack"
+            }
+        }
+    ],
+
+    [
+      //Geode
+        {
+            "op": "add",
+            "path": "/geodeTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_geodeloot"
+            }
+        }
+    ],
+
+    [
+      //Underground Wilderness
+        {
+            "op": "add",
+            "path": "/wildernessTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_copperbox"
+            }
+        }
+    ],
+
+    [
+      //Underground Tar
+        {
+            "op": "add",
+            "path": "/tarUndergroundTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_tarbox"
+            }
+        }
+    ],
+
+    [
+      //Underground Ice Cave
+        {
+            "op": "add",
+            "path": "/iceCaveTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_icearmorbox"
+            }
+        }
+    ],
+
+    [
+      //Underground Stone Cave
+        {
+            "op": "add",
+            "path": "/stoneCaveTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_rockbox"
+            }
+        }
+    ],
+
+    [
+      //Underground Flesh
+        {
+            "op": "add",
+            "path": "/fleshTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.2,
+                "item": "iwunidrobe_anatomybox"
+            }
+        }
+    ],
+
+    [
+      //Underground Slime
+        {
+            "op": "add",
+            "path": "/slimeTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.1,
+                "item": "iwunidrobe_slimebox"
             }
         }
     ]

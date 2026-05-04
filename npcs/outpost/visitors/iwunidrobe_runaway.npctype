@@ -1,0 +1,52 @@
+{
+  "type" : "iwunidrobe_runaway",
+  "baseType" : "outpostvisitor",
+  "displayTitle" : "Runaway",
+
+  "scriptConfig" : {
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "Oh, my uniform? It's just a costume!",
+            "Don't mind me! Just on my way to a costume party I swear!",
+            "Aaah! Sorry, I thought you were a sheriff. Not for any particular reason...",
+            "Hey, do you know where I can grab a ship? askin' for a friend.",
+            "Oh this is just my pijamas, I love them stripped!",
+            "Hey, can you say that you ain't see me?",
+            "Sorry pal, I'm quite busy lookin' for a ride."
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "iwunidrobe_jailbirdhead", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "chest" : [
+              { "name" : "iwunidrobe_jailbirdchest", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "legs" : [
+              { "name" : "iwunidrobe_jailbirdlegs", "parameters" : { "colorIndex" : 0 } }
+            ]
+          },
+          {
+            "head" : [
+              { "name" : "iwunidrobe_jailbirdhead", "parameters" : { "colorIndex" : 3 } }
+            ],
+            "chest" : [
+              { "name" : "iwunidrobe_jailbirdchest", "parameters" : { "colorIndex" : 3 } }
+            ],
+            "legs" : [
+              { "name" : "iwunidrobe_jailbirdlegs", "parameters" : { "colorIndex" : 3 } }
+            ]
+          }
+        ] ]
+    ]
+  }
+}

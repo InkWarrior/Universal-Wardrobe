@@ -1,0 +1,52 @@
+{
+  "type" : "iwunidrobe_sheriff",
+  "baseType" : "outpostvisitor",
+  "displayTitle" : "Town Sheriff",
+
+  "scriptConfig" : {
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "The Law never rests.",
+            "I'm lookin' for a group of vandals, have you seen any by chance?",
+            "Sometimes the Law needs a quick rest.",
+            "I'm going to hang some announcements here, mostly for rewards.",
+            "I have a reward of 15000 pixels for an annoying rustler, are you interested?",
+            "Nah, I ain't got any wanted bandits ",
+            "There are some gold diggers I've been lookin' for, have you seen any?"
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "novatier4head", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "chest" : [
+              { "name" : "novatier4chest", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "legs" : [
+              { "name" : "novatier4pants", "parameters" : { "colorIndex" : 0 } }
+            ]
+          },
+          {
+            "head" : [
+              { "name" : "novatier1head", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "chest" : [
+              { "name" : "novatier1chest", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "legs" : [
+              { "name" : "novatier1pants", "parameters" : { "colorIndex" : 0 } }
+            ]
+          }
+        ] ]
+    ]
+  }
+}

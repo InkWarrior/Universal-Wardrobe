@@ -57,6 +57,12 @@
             },
             {
               "item": {
+                "name": "iwunidrobe_cyclopsyetibox"
+              },
+              "rarity": 0.2
+            },
+            {
+              "item": {
                 "name": "iwunidrobe_darkdisguisebox"
               },
               "rarity": 0.2
@@ -310,7 +316,1332 @@
           ]
         ]
       ]
-    }
+    },
+  {
+    "op": "add",
+    "path": "/iwuni_apexclothes",
+    "value": [
+      [
+        0,
+        [
+          {
+            "item": {
+              "name": "apexcommanderjacket"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "apexcommanderpants"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "apexnavyjacket"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "apexnavypants"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "apexofficerjacket"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "apexofficerpants"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "apexspecialistjacket"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "apexspecialistpants"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_alphachest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_alphapants"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_epsilonchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_epsilonpants"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_apexmerchanthead"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_bigapexpack"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_alphabox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_epsilonbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_apexcommanderbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_apexnavybox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_apexofficerbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_apexspecialistbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_apexrebeldhat1"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_apexrebeldhat2"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_apexrebeldhat3"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_apexrebeldhat4"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_apexrebeldhat5"
+            },
+            "rarity": 0.05
+          }
+        ]
+      ]
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/iwuni_avianclothes",
+    "value": [
+      [
+        0,
+        [
+          {
+            "item": {
+              "name": "avianadventurershirt"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "avianadventurerpants"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "aviancommonershirt"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "aviancommonerlegs"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "avianfancyshirt"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "avianfancyskirt"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "avianworkershirt"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "avianworkerpants"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_traderchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_traderpants"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_warriorchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_warriorpants"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_avianmerchanthead"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_bigavianpack"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_warriorbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_traderbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_avianadventurerbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_aviancommonerbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_avianfancybox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_avianworkerbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_avianhat1"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_avianhat2"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_avianhat3"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_avianhat4"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_avianhat5"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_avianhat6"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_avianhat7"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_avianhat8"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_avianhat9"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_avianhat10"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_avianhat11"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_avianhat12"
+            },
+            "rarity": 0.05
+          }
+        ]
+      ]
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/iwuni_floranclothes",
+    "value": [
+      [
+        0,
+        [
+          {
+            "item": {
+              "name": "floranfurnivourchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "floranfurnivourlegs"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "floranhunterchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "floranhunterlegs"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "floranpeltchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "floranpeltlegs"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "floranleafchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "floranleaflegs"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "floransurvivalistchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "floransurvivalistlegs"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_butcherchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_butcherpants"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_sawboneschest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_sawbonespants"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranmerchanthead"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_bigfloranpack"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_butcherbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_sawbonesbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranfurnivourbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranhunterbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranleafbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranpeltbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floransurvivalistbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranhat1"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranhat2"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranhat3"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranhat4"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranhat5"
+            },
+            "rarity": 0.05
+          }
+        ]
+      ]
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/iwuni_glitchclothes",
+    "value": [
+      [
+        0,
+        [
+          {
+            "item": {
+              "name": "craftsmenchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "craftsmenlegs"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "merchantchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "merchantlegs"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "noblechest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "noblelegs"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "peasantchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "peasantlegs"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_minstrelchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_minstrelpants"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_monkchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_monkpants"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_glitchmerchanthead"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_bigglitchpack"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_minstrelbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_monkbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_noblebox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_craftsmenbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_merchantbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_peasantbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_glitchhat1"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_glitchhat2"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_glitchhat3"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_glitchhat4"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_glitchhat5"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_glitchhat6"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_glitchhat7"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_glitchhat8"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_glitchhat9"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_glitchhat10"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_glitchhat11"
+            },
+            "rarity": 0.05
+          }
+        ]
+      ]
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/iwuni_humanclothes",
+    "value": [
+      [
+        0,
+        [
+          {
+            "item": {
+              "name": "conceptchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "conceptlegs"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "coolchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "hoodiechest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "hoodie2chest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "coollegs"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "jeans1legs"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "jeans2legs"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "jeans3legs"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "sweatervestchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "sweatervestlegs"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "workoutchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "workoutlegs"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_camperchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_camperpants"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_climberchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_climberpants"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_humanmerchanthead"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_bigbackpack"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_mk7outriderbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_climberbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_camperbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_coolbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_conceptbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_sweatervestbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_workoutbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "caphead"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "winterscarfhead"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_hovertruckercap"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_sunvisor1"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_sunvisorlarge1"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_hardworkingheadband"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_headscarf"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_openheadscarf"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_thinheadwrap"
+            },
+            "rarity": 0.05
+          }
+        ]
+      ]
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/iwuni_hylotlclothes",
+    "value": [
+      [
+        0,
+        [
+          {
+            "item": {
+              "name": "kimonochest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "kimonolegs"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "monkchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "monklegs"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "traditionalchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "traditionallegs"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "traineechest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "traineelegs"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_calligrapherchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_calligrapherlegs"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_performerchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_performerlegs"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_hylotlmerchanthead"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_bighylotlpack"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_performerbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_calligrapherbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_traineebox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_traditionalbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_hylotlmonkbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_kimonobox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_hylotlhat1"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_hylotlhat2"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_hylotlhat3"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_hylotlhat4"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_hylotlhat5"
+            },
+            "rarity": 0.05
+          }
+        ]
+      ]
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/iwuni_novakidclothes",
+    "value": [
+      [
+        0,
+        [
+          {
+            "item": {
+              "name": "novakidfancychest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "novakidfancypants"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "novakidjacket"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "novakidjacketpants"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "novakidsuspenders"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "novakidsuspenderspants"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "novakidwaistcoat"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "novakidblackpants"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_diggerchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_diggerpants"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_farmerchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_farmerpants"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_blacksmithchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_blacksmithpants"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_novakidmerchanthead"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_bignovapack"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_diggerbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_farmerbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_novakidfancybox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_novakidjacketbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_novakidsuspendersbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_novakidwaistcoatbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_jailbirdbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_prospectorbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_trapperbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_novahat1alt"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_novahat2alt"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_novahat3alt"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_novahat4alt"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_novahat5alt"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_novahat6alt"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_novahat7"
+            },
+            "rarity": 0.05
+          }
+        ]
+      ]
+    ]
+  }
   ],
   [
     {
@@ -3669,6 +5000,15 @@
       "value": {
         "item": {
           "name": "iwunidrobe_workoutbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/humanclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_humanmerchanthead"
         }
       }
     }

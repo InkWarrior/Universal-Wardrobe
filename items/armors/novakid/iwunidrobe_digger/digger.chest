@@ -20,8 +20,8 @@
     "frontSleeve" : "fsleeve.png"
   },
   "colorOptions" : [
-    // DEFAULT - SPACE BLUE
-    { "ffca8a" : "4c59b4", "e0975c" : "283283", "a85636" : "181f58", "6f2919" : "0a0d31" },
+    // DEFAULT - OLD BLUE
+    { "ffca8a" : "8488bf", "e0975c" : "595296", "a85636" : "3a3564", "6f2919" : "1b192e" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

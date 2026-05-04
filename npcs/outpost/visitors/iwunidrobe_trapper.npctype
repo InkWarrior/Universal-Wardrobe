@@ -1,0 +1,43 @@
+{
+  "type" : "iwunidrobe_trapper",
+  "baseType" : "outpostvisitor",
+  "displayTitle" : "Monster Trapper",
+
+  "scriptConfig" : {
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "I have some pelts for trade.",
+            "Poptops are very tough, never got an adult one.",
+            "Well yeah I hunt like Florans do, but in ways the Floran don't.",
+            "My hardest catch? Definitely an Oogler.",
+            "Believe it or not, Bobfaes love to steal your stuff, they stole mine last time!",
+            "Oh, this limp? A Capricoat launched me from a mountain cliff!",
+            "I hate Scaverans, their smell stays with you for months.",
+            "I never hunt Spookits, what I'm going to do with a bunch of ectoplasm?",
+            "I once saw a Nutmidge with a hat and coat, nobody believes me!"
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "iwunidrobe_trapperheada", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "chest" : [
+              { "name" : "iwunidrobe_trapperchest", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "legs" : [
+              { "name" : "iwunidrobe_trapperlegs", "parameters" : { "colorIndex" : 0 } }
+            ]
+          }
+        ] ]
+    ]
+  }
+}

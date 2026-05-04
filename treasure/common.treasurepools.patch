@@ -7,6 +7,182 @@
         "op": "add",
         "path": "/costume/0/1/pool/-",
         "value": {
+            "weight": 0.003,
+            "item": [
+                "iwunidrobe_bettybox",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.003,
+            "item": [
+                "iwunidrobe_chefbox",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.003,
+            "item": [
+                "iwunidrobe_cowboybox",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.003,
+            "item": [
+                "iwunidrobe_dress1box",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.003,
+            "item": [
+                "iwunidrobe_fairybox",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.003,
+            "item": [
+                "iwunidrobe_jumpsuitbox",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.003,
+            "item": [
+                "iwunidrobe_moneybagsbox",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.003,
+            "item": [
+                "iwunidrobe_neobox",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.003,
+            "item": [
+                "iwunidrobe_pilotbox",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.003,
+            "item": [
+                "iwunidrobe_pixelherobox",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.003,
+            "item": [
+                "iwunidrobe_smartbox",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.003,
+            "item": [
+                "iwunidrobe_startrackbox",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.003,
+            "item": [
+                "iwunidrobe_strapbox",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.003,
+            "item": [
+                "iwunidrobe_summerbox",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.003,
+            "item": [
+                "iwunidrobe_wedding1box",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.003,
+            "item": [
+                "iwunidrobe_wedding2box",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
             "weight": 0.0003,
             "item": [
                 "soldierhead",

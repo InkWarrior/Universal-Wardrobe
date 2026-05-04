@@ -48,6 +48,8 @@
         "type": "iwunidrobe_biker"
       }
     },
+
+
     {
       "op": "add",
       "path": "/npctypes/-",
@@ -94,6 +96,216 @@
           "hylotl"
         ],
         "type": "iwunidrobe_spacepilot"
+      }
+    },
+
+
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "novakid"
+        ],
+        "type": "iwunidrobe_digger"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "novakid"
+        ],
+        "type": "iwunidrobe_digger"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "novakid"
+        ],
+        "type": "iwunidrobe_digger"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "novakid"
+        ],
+        "type": "iwunidrobe_digger"
+      }
+    },
+
+
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "novakid"
+        ],
+        "type": "iwunidrobe_sheriff"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "novakid"
+        ],
+        "type": "iwunidrobe_sheriff"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "novakid"
+        ],
+        "type": "iwunidrobe_sheriff"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "novakid"
+        ],
+        "type": "iwunidrobe_sheriff"
+      }
+    },
+
+
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "novakid"
+        ],
+        "type": "iwunidrobe_runaway"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "novakid"
+        ],
+        "type": "iwunidrobe_runaway"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "novakid"
+        ],
+        "type": "iwunidrobe_runaway"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "novakid"
+        ],
+        "type": "iwunidrobe_runaway"
+      }
+    },
+
+
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "novakid"
+        ],
+        "type": "iwunidrobe_trapper"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "novakid"
+        ],
+        "type": "iwunidrobe_trapper"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "novakid"
+        ],
+        "type": "iwunidrobe_trapper"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "novakid"
+        ],
+        "type": "iwunidrobe_trapper"
+      }
+    },
+
+
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "glitch"
+        ],
+        "type": "iwunidrobe_folkhero"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "glitch"
+        ],
+        "type": "iwunidrobe_folkhero"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "glitch"
+        ],
+        "type": "iwunidrobe_folkhero"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "glitch"
+        ],
+        "type": "iwunidrobe_folkhero"
       }
     }
   ]
