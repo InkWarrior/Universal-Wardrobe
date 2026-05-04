@@ -1,0 +1,86 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/metadata/anchor"
+    },
+    {
+      "op": "add",
+      "path": "/metadata/anchor/-",
+      "value": "iwuni_clothingmerchant1"
+    },
+    {
+      "op": "add",
+      "path": "/metadata/anchor/-",
+      "value": "iwuni_clothingmerchant2"
+    },
+    {
+      "op": "add",
+      "path": "/metadata/anchor/-",
+      "value": "iwuni_clothingmerchant3"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/parts"
+    },
+    {
+      "op": "add",
+      "path": "/parts/-",
+      "value": {
+        "def": [
+          "tmx",
+          "iwuni_clothingmerchant1.json"
+        ],
+        "name": "iwuni_clothingmerchant1",
+        "rules": [
+          [
+            "maxSpawnCount",
+            [
+              1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/parts/-",
+      "value": {
+        "def": [
+          "tmx",
+          "iwuni_clothingmerchant2.json"
+        ],
+        "name": "iwuni_clothingmerchant2",
+        "rules": [
+          [
+            "maxSpawnCount",
+            [
+              1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/parts/-",
+      "value": {
+        "def": [
+          "tmx",
+          "iwuni_clothingmerchant3.json"
+        ],
+        "name": "iwuni_clothingmerchant3",
+        "rules": [
+          [
+            "maxSpawnCount",
+            [
+              1
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+]
