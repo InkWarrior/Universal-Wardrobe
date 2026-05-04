@@ -85,6 +85,38 @@
         {"weight" : 0.65, "pool" : "commonSpaceItem"}
       ]
     }]
-  ]
+  ],
+
+  "iwuni_cultistLairSet" : [
+    [0, {
+      "fill" : [
+        {"item" : "iwunidrobe_purpurebox"}
+      ],
+      "poolRounds" : [
+        [0.2, 3],
+        [0.5, 4]
+      ],
+      "pool" : [
+        {"weight" : 0.32, "pool" : "chestMoney"},
+        {"weight" : 0.65, "pool" : "commonSpaceItem"}
+      ]
+    }]
+  ],
+
+  "iwuni_cultistLairHeadwear" : [
+    [0, {
+      "fill" : [
+        {"item" : "iwunidrobe_cultistLairBoxReward"}
+      ],
+      "poolRounds" : [
+        [0.2, 3],
+        [0.5, 4]
+      ],
+      "pool" : [
+        {"weight" : 0.32, "pool" : "chestMoney"},
+        {"weight" : 0.65, "pool" : "commonSpaceItem"}
+      ]
+    }]
+  ],
 }
 

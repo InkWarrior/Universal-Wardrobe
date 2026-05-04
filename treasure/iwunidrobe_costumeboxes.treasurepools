@@ -883,6 +883,17 @@
    ]
   ],
 
+  "iwunidrobe_purpureboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwunidrobe_purpurehead"},
+        {"weight" : 1, "item" : "iwunidrobe_purpurechest"},
+        {"weight" : 1, "item" : "iwunidrobe_purpurepants"}
+      ]
+    }
+   ]
+  ],
+
   // ================================
   //      Races - Unique Boxes
   // ================================  

@@ -153,5 +153,22 @@
         [1, 1]
       ]
     }]
+  ],
+
+  "iwunidrobe_cultistLairBoxReward" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.0003, "item" : "iwunidrobe_cultistlootbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_devoteebox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_dogmatistbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_fanaticbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_radicalbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_sectarianbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_zealotbox"}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ]
+    }]
   ]
 }
