@@ -6,7 +6,8 @@
     ],
     "anchor" : [
 	  "iwuni_abandonedpkstation",
-	  "iwuni_derelictcriminalhideout"
+	  "iwuni_derelictcriminalhideout",
+	  "iwuni_oldcultisthideout"
     ],
     "gravity" : 40,
     "breathable" : true,
@@ -460,6 +461,12 @@
       "name" : "iwuni_derelictcriminalhideout",
       "rules" : [],
       "def" : [ "tmx", "iwuni_derelictcriminalhideout.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "iwuni_oldcultisthideout",
+      "rules" : [],
+      "def" : [ "tmx", "iwuni_oldcultisthideout.json" ],
       "chance" : 1
     }
   ]

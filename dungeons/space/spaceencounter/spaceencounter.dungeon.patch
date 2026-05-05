@@ -13,6 +13,11 @@
       "op": "add",
       "path": "/metadata/anchor/-",
       "value": "iwuni_derelictcriminalhideout"
+    },
+    {
+      "op": "add",
+      "path": "/metadata/anchor/-",
+      "value": "iwuni_oldcultisthideout"
     }
   ],
   [
@@ -43,6 +48,19 @@
           "iwuni_derelictcriminalhideout.json"
         ],
         "name": "iwuni_derelictcriminalhideout",
+        "rules": []
+      }
+    },
+    {
+      "op": "add",
+      "path": "/parts/-",
+      "value": {
+        "chance": 1,
+        "def": [
+          "tmx",
+          "iwuni_oldcultisthideout.json"
+        ],
+        "name": "iwuni_oldcultisthideout",
         "rules": []
       }
     }
