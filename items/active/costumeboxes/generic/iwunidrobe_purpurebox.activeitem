@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Legendary",
   "category" : "iwuniCostumeSet",
-  "description" : "An old mining armor, once used by Occasus.",
+  "description" : "Some old mining armor, once used by the Occasus.",
   "shortdescription" : "Purpure Armor Case",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
