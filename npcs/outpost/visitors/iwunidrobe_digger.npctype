@@ -38,7 +38,7 @@
             "back" : [
               { "name" : "iwunidrobe_minerbackpackalt", "parameters" : { "colorIndex" : 0 } },
               { "name" : "lanternstickback", "parameters" : { "colorIndex" : 0 } }
-            ],
+            ]
           },
           {
             "head" : [
@@ -54,7 +54,7 @@
             "back" : [
               { "name" : "iwunidrobe_minerbackpackalt", "parameters" : { "colorIndex" : 0 } },
               { "name" : "iwunidrobe_minerbackpack", "parameters" : { "colorIndex" : 0 } }
-            ],
+            ]
           }
         ] ]
     ]
