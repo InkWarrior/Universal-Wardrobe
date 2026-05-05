@@ -8,11 +8,11 @@
       "converse" : {
         "default" : {
           "default" : [
-            "It is I, the great and mythical Robin Cog!",
-            "The rumours are right, I take the gold of those greedy nobles and give it to the common folk!",
-            "I'm hiding, the sheriff of NottingRAM was close to capture me!",
-            "Even a mighty hero needs to buy arrows from time to time.",
-            "You don't know me? I have like 10 different movies!"
+            "Boastful. It is I, the great and mythical Robin Cog!",
+            "Boastful. The rumours are right, I take the gold of those greedy nobles and give it to the common folk!",
+            "Cautious. I'm hiding, the sheriff of NottingRAM was close to capturing me!",
+            "Humble. Even a mighty hero needs to buy arrows from time to time.",
+            "Bewildered. You don't know me? I have like 10 different movies!"
           ]
         }
       }
