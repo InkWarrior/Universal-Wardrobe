@@ -9,12 +9,12 @@
   "shortdescription" : "Buzzy Costume",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
-    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_buccaneerbox.png"
+    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_buzzybox.png"
   },
   "twoHanded" : true,
 
-  "inventoryIcon" : "biomebagicon.png",
-  "animation" : "iwunidrobe_biomebag.animation",
+  "inventoryIcon" : "giantflowerboxicon.png",
+  "animation" : "iwunidrobe_giantflowerbox.animation",
   "animationCustom" : {},
   "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
 

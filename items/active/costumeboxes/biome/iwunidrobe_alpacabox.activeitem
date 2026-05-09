@@ -13,8 +13,8 @@
   },
   "twoHanded" : true,
 
-  "inventoryIcon" : "biomebagicon.png",
-  "animation" : "iwunidrobe_biomebag.animation",
+  "inventoryIcon" : "alpineboxicon.png",
+  "animation" : "iwunidrobe_alpinebox.animation",
   "animationCustom" : {},
   "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
 

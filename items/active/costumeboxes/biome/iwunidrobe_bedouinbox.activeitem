@@ -13,8 +13,8 @@
   },
   "twoHanded" : true,
 
-  "inventoryIcon" : "biomebagicon.png",
-  "animation" : "iwunidrobe_biomebag.animation",
+  "inventoryIcon" : "desertboxicon.png",
+  "animation" : "iwunidrobe_desertbox.animation",
   "animationCustom" : {},
   "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
 
@@ -22,7 +22,7 @@
   "fireOffset" : [1.0, 0.0],
 
   "treasure" : {
-    "pool" : "iwunidrobe_bedouinlootbox",
+    "pool" : "iwunidrobe_bedouinboxloot",
     "level" : 1
   }
 }

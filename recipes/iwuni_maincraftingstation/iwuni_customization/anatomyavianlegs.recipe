@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "anatomylegs", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "anatomyavianlegs", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}

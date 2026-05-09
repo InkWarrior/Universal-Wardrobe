@@ -9,12 +9,12 @@
   "shortdescription" : "Buccaneer Costume",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
-    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_anatomybox.png"
+    "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_buccaneerbox.png"
   },
   "twoHanded" : true,
 
-  "inventoryIcon" : "biomebagicon.png",
-  "animation" : "iwunidrobe_biomebag.animation",
+  "inventoryIcon" : "barrelboxicon.png",
+  "animation" : "iwunidrobe_barrelbox.animation",
   "animationCustom" : {},
   "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
 

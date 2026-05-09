@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "anatomyhead", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "anatomyhylotlhead", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}

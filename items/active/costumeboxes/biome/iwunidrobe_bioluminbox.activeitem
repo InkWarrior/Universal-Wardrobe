@@ -6,7 +6,7 @@
   "rarity" : "Rare",
   "category" : "iwuniCostumeSet",
   "description" : "Glowy!",
-  "shortdescription" : "Geode Costume",
+  "shortdescription" : "Glow Costume",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
     "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_bioluminbox.png"

@@ -123,7 +123,7 @@
       "fill" : [
         {"weight" : 1, "item" : "pixelherodemochest"},
         {"weight" : 1, "item" : "pixelherodemolegs"},
-        {"weight" : 1, "item" : "simplecapeback"}
+        {"weight" : 1, "item" : [ "simplecapeback", 1, { "colorIndex" : 4 }] }
       ]
     }
    ]
@@ -344,7 +344,8 @@
       "fill" : [
         {"weight" : 1, "item" : "firelordhead"},
         {"weight" : 1, "item" : "firelordchest"},
-        {"weight" : 1, "item" : "firelordlegs"}
+        {"weight" : 1, "item" : "firelordlegs"},
+        {"weight" : 1, "item" : "firelordback"}
       ]
     }
    ]

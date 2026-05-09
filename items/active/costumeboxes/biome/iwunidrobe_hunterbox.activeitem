@@ -13,8 +13,8 @@
   },
   "twoHanded" : true,
 
-  "inventoryIcon" : "biomebagicon.png",
-  "animation" : "iwunidrobe_biomebag.animation",
+  "inventoryIcon" : "savannahboxicon.png",
+  "animation" : "iwunidrobe_savannahbox.animation",
   "animationCustom" : {},
   "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
 
@@ -22,7 +22,7 @@
   "fireOffset" : [1.0, 0.0],
 
   "treasure" : {
-    "pool" : "iwunidrobe_hunterlootbox",
+    "pool" : "iwunidrobe_hunterboxloot",
     "level" : 1
   }
 }

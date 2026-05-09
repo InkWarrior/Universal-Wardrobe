@@ -6,15 +6,15 @@
   "rarity" : "Rare",
   "category" : "iwuniCostumeSet",
   "description" : "Just like a real one!",
-  "shortdescription" : "Flowry Costume",
+  "shortdescription" : "Flowery Costume",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
     "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_flowerybox.png"
   },
   "twoHanded" : true,
 
-  "inventoryIcon" : "biomebagicon.png",
-  "animation" : "iwunidrobe_biomebag.animation",
+  "inventoryIcon" : "springboxicon.png",
+  "animation" : "iwunidrobe_springbox.animation",
   "animationCustom" : {},
   "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
 

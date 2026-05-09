@@ -9,7 +9,7 @@
   "shortdescription" : "Sawbones Attire",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
-    "objectImage" : "/interface/iwuni_costumebox/iwuni_butcherbox.png"
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_sawbonesbox.png"
   },
   "twoHanded" : true,
 

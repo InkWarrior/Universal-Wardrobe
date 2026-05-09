@@ -5,7 +5,7 @@
   "rarity" : "Legendary",
   "category" : "backwear",
   "description" : "A reinforced backpack, for combat purposes.",
-  "shortdescription" : "Corporate Trooper Canister",
+  "shortdescription" : "Corporate Trooper Pack",
   "tooltipKind" : "back",
 
   "maleFrames" : "back.png",

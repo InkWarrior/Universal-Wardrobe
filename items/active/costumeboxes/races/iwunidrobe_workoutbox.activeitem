@@ -5,8 +5,8 @@
   "maxStack" : 1000,
   "rarity" : "Common",
   "category" : "iwuniCostumeSet",
-  "description" : "A light Human fit for breezy days.",
-  "shortdescription" : "Sweater and Shorts",
+  "description" : "Ideal for intensive exercise.",
+  "shortdescription" : "Workout Outfit",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
     "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_humanworkoutbox.png"
