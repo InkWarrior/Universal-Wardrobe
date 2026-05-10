@@ -15,7 +15,7 @@
             "mode" : "transition",
             "transition" : "confetti",
             "properties" : {
-              "immediateSound" : "/sfx/objects/bigjar_container_open.ogg",
+              "immediateSound" : "/sfx/objects/fleshdoor_open.ogg",
               "particleEmittersOff" : [ "confetti" ]
             },
             "frameProperties" : {
@@ -38,7 +38,7 @@
       "gun" : {
         "properties" : {
           "centered" : true,
-          "image" : "prismbox.png",
+          "image" : "glowbox.png",
           "offset" : [0.0, 0.0]
         }
       }

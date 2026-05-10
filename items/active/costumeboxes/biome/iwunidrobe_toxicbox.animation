@@ -38,7 +38,7 @@
       "gun" : {
         "properties" : {
           "centered" : true,
-          "image" : "fleshbox.png",
+          "image" : "toxicbox.png",
           "offset" : [0.0, 0.0]
         }
       }

@@ -6,7 +6,7 @@
   "rarity" : "Rare",
   "category" : "iwuniCostumeSet",
   "description" : "Great for going on long hikes.",
-  "shortdescription" : "Hiker Clothings",
+  "shortdescription" : "Hiker Clothes",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
     "objectImage" : "/interface/iwuni_costumebox/vanilla/iwuni_hikerbox.png"
