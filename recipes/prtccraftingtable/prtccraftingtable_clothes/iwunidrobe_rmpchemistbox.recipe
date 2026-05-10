@@ -4,5 +4,5 @@
   ],
   "duration" : 0,
   "output" : { "item" : "iwunidrobe_rmpchemistbox", "count" : 1 },
-  "groups" : [ "iwrmp_prtccraftingtable", "iwrmp_envoysailunit", "prtccraftingtable_clothes", "all" ]
+  "groups" : [ "iwrmp_prtccraftingtable", "iwrmp_prtcsailunit", "prtccraftingtable_clothes", "all" ]
 }
