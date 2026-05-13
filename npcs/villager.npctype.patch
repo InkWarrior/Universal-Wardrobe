@@ -429,6 +429,36 @@
   },
   {
     "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "glasses4head",
+      "parameters": {
+        "colorIndex": 8
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "glasses5head",
+      "parameters": {
+        "colorIndex": 8
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "sunglasses1head",
+      "parameters": {
+        "colorIndex": 8
+      }
+    }
+  },
+  {
+    "op": "add",
     "path": "/items/human/0/1/0/chest/-",
     "value": {
       "name": "iwunidrobe_blouse",
@@ -965,40 +995,6 @@
     "op": "add",
     "path": "/items/avian/0/1/-",
     "value": {
-      "head": [
-        "",
-        "",
-        {
-          "name": "iwunidrobe_avianhat1",
-          "parameters": {
-            "colorIndex": 0
-          }
-        },
-        {
-          "name": "iwunidrobe_avianhat4",
-          "parameters": {
-            "colorIndex": 0
-          }
-        },
-        {
-          "name": "iwunidrobe_avianhat7",
-          "parameters": {
-            "colorIndex": 0
-          }
-        },
-        {
-          "name": "iwunidrobe_avianhat10",
-          "parameters": {
-            "colorIndex": 0
-          }
-        },
-        {
-          "name": "featherhead",
-          "parameters": {
-            "colorIndex": 0
-          }
-        }
-      ],
       "chest": [
         {
           "name": "avianadventurershirt",
@@ -1057,6 +1053,52 @@
           }
         }
       ],
+      "head": [
+        "",
+        "",
+        {
+          "name": "glasses5head",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "glasses4head",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_avianhat1",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_avianhat4",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_avianhat7",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_avianhat10",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "featherhead",
+          "parameters": {
+            "colorIndex": 0
+          }
+        }
+      ],
       "legs": [
         {
           "name": "avianadventurerpants",
@@ -1107,8 +1149,212 @@
     "op": "add",
     "path": "/items/avian/0/1/-",
     "value": {
+      "chest": [
+        {
+          "name": "avianadventurershirt",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "aviancommonershirt",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "avianfancyshirt",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "avianworkershirt",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        }
+      ],
       "head": [
         "",
+        "",
+        {
+          "name": "glasses5head",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "glasses4head",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_avianhat1",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_avianhat4",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_avianhat7",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_avianhat10",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "featherhead",
+          "parameters": {
+            "colorIndex": 0
+          }
+        }
+      ],
+      "legs": [
+        {
+          "name": "avianadventurerpants",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "aviancommonerlegs",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "avianfancyskirt",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/avian/0/1/-",
+    "value": {
+      "chest": [
+        {
+          "name": "iwunidrobe_traderchest",
+          "parameters": {
+            "colorIndex": 4
+          }
+        },
+        {
+          "name": "iwunidrobe_traderchest",
+          "parameters": {
+            "colorIndex": 5
+          }
+        },
+        {
+          "name": "iwunidrobe_traderchest",
+          "parameters": {
+            "colorIndex": 6
+          }
+        },
+        {
+          "name": "iwunidrobe_traderchest",
+          "parameters": {
+            "colorIndex": 7
+          }
+        },
+        {
+          "name": "iwunidrobe_traderchest",
+          "parameters": {
+            "colorIndex": 8
+          }
+        },
+        {
+          "name": "iwunidrobe_traderchest",
+          "parameters": {
+            "colorIndex": 9
+          }
+        }
+      ],
+      "head": [
+        "",
+        {
+          "name": "glasses5head",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "glasses4head",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
         {
           "name": "iwunidrobe_avianhat2",
           "parameters": {
@@ -1167,44 +1413,6 @@
           }
         }
       ],
-      "chest": [
-        {
-          "name": "iwunidrobe_traderchest",
-          "parameters": {
-            "colorIndex": 4
-          }
-        },
-        {
-          "name": "iwunidrobe_traderchest",
-          "parameters": {
-            "colorIndex": 5
-          }
-        },
-        {
-          "name": "iwunidrobe_traderchest",
-          "parameters": {
-            "colorIndex": 6
-          }
-        },
-        {
-          "name": "iwunidrobe_traderchest",
-          "parameters": {
-            "colorIndex": 7
-          }
-        },
-        {
-          "name": "iwunidrobe_traderchest",
-          "parameters": {
-            "colorIndex": 8
-          }
-        },
-        {
-          "name": "iwunidrobe_traderchest",
-          "parameters": {
-            "colorIndex": 9
-          }
-        }
-      ],
       "legs": [
         {
           "name": "iwunidrobe_traderpants",
@@ -1249,8 +1457,32 @@
     "op": "add",
     "path": "/items/avian/0/1/-",
     "value": {
+      "chest": [
+        {
+          "name": "iwunidrobe_warriorchest",
+          "parameters": {
+            "colorIndex": [
+              4,
+              5,
+              6
+            ]
+          }
+        }
+      ],
       "head": [
         "",
+        {
+          "name": "glasses5head",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "glasses4head",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
         {
           "name": "iwunidrobe_avianhat3",
           "parameters": {
@@ -1298,18 +1530,6 @@
           }
         }
       ],
-      "chest": [
-        {
-          "name": "iwunidrobe_warriorchest",
-          "parameters": {
-            "colorIndex": [
-              4,
-              5,
-              6
-            ]
-          }
-        }
-      ],
       "legs": [
         {
           "name": "iwunidrobe_warriorpants",
@@ -1328,51 +1548,6 @@
     "op": "add",
     "path": "/items/apex/0/1/-",
     "value": {
-      "head": [
-        "",
-        "",
-        {
-          "name": "iwunidrobe_apexmerchanthead",
-          "parameters": {
-            "colorIndex": [
-              1,
-              3
-            ]
-          }
-        },
-        {
-          "name": "iwunidrobe_mnkgglasseshead",
-          "parameters": {
-            "colorIndex": [
-              1,
-              2,
-              3
-            ]
-          }
-        },
-        {
-          "name": "iwunidrobe_mnkgcaphead",
-          "parameters": {
-            "colorIndex": 2
-          }
-        },
-        {
-          "name": "iwunidrobe_avianhat12",
-          "parameters": {
-            "colorIndex": [
-              0,
-              1,
-              11
-            ]
-          }
-        },
-        {
-          "name": "featherhead",
-          "parameters": {
-            "colorIndex": 0
-          }
-        }
-      ],
       "chest": [
         {
           "name": "apexcommanderjacket",
@@ -1417,6 +1592,35 @@
               8,
               9
             ]
+          }
+        }
+      ],
+      "head": [
+        "",
+        "",
+        {
+          "name": "iwunidrobe_apexmerchanthead",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_mnkgglasseshead",
+          "parameters": {
+            "colorIndex": [
+              1,
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_mnkgcaphead",
+          "parameters": {
+            "colorIndex": 2
           }
         }
       ],
@@ -1473,9 +1677,33 @@
     "op": "add",
     "path": "/items/apex/0/1/-",
     "value": {
+      "chest": [
+        {
+          "name": "iwunidrobe_alphachest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              2,
+              3
+            ]
+          }
+        }
+      ],
       "head": [
         "",
         "",
+        {
+          "name": "glasses5head",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "glasses2head",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
         {
           "name": "iwunidrobe_flatcaphead",
           "parameters": {
@@ -1498,18 +1726,6 @@
         },
         {
           "name": "fedora",
-          "parameters": {
-            "colorIndex": [
-              1,
-              2,
-              3
-            ]
-          }
-        }
-      ],
-      "chest": [
-        {
-          "name": "iwunidrobe_alphachest",
           "parameters": {
             "colorIndex": [
               1,
@@ -1545,11 +1761,28 @@
     "op": "add",
     "path": "/items/apex/0/1/-",
     "value": {
+      "chest": [
+        {
+          "name": "iwunidrobe_epsilonchest"
+        }
+      ],
       "head": [
         "",
         "",
         "",
         "",
+        {
+          "name": "glasses5head",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "glasses4head",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
         {
           "name": "iwunidrobe_flatcaphead",
           "parameters": {
@@ -1567,11 +1800,6 @@
           "parameters": {
             "colorIndex": 3
           }
-        }
-      ],
-      "chest": [
-        {
-          "name": "iwunidrobe_epsilonchest"
         }
       ],
       "legs": [
@@ -1661,77 +1889,6 @@
     "op": "add",
     "path": "/items/floran/0/1/-",
     "value": {
-      "head": [
-        "",
-        {
-          "name": "iwunidrobe_floranhat1",
-          "parameters": {
-            "colorIndex": [
-              0,
-              11
-            ]
-          }
-        },
-        {
-          "name": "iwunidrobe_floranhat2",
-          "parameters": {
-            "colorIndex": [
-              3,
-              5,
-              7,
-              11
-            ]
-          }
-        },
-        {
-          "name": "iwunidrobe_floranhat3",
-          "parameters": {
-            "colorIndex": 0
-          }
-        },
-        {
-          "name": "iwunidrobe_floranhat3a",
-          "parameters": {
-            "colorIndex": [
-              0,
-              11
-            ]
-          }
-        },
-        {
-          "name": "iwunidrobe_floranhat4",
-          "parameters": {
-            "colorIndex": [
-              0,
-              11
-            ]
-          }
-        },
-        {
-          "name": "iwunidrobe_floranhat4b",
-          "parameters": {
-            "colorIndex": [
-              0,
-              11
-            ]
-          }
-        },
-        {
-          "name": "iwunidrobe_floranhat4d",
-          "parameters": {
-            "colorIndex": [
-              0,
-              11
-            ]
-          }
-        },
-        {
-          "name": "iwunidrobe_floranhat5",
-          "parameters": {
-            "colorIndex": 0
-          }
-        }
-      ],
       "chest": [
         {
           "name": "floranfurnivourchest",
@@ -1821,6 +1978,77 @@
               8,
               9
             ]
+          }
+        }
+      ],
+      "head": [
+        "",
+        {
+          "name": "iwunidrobe_floranhat1",
+          "parameters": {
+            "colorIndex": [
+              0,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_floranhat2",
+          "parameters": {
+            "colorIndex": [
+              3,
+              5,
+              7,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_floranhat3",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_floranhat3a",
+          "parameters": {
+            "colorIndex": [
+              0,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_floranhat4",
+          "parameters": {
+            "colorIndex": [
+              0,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_floranhat4b",
+          "parameters": {
+            "colorIndex": [
+              0,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_floranhat4d",
+          "parameters": {
+            "colorIndex": [
+              0,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_floranhat5",
+          "parameters": {
+            "colorIndex": 0
           }
         }
       ],
@@ -1926,6 +2154,24 @@
       "",
       "",
       "",
+      {
+        "name": "glasses5head",
+        "parameters": {
+          "colorIndex": 0
+        }
+      },
+      {
+        "name": "glasses4head",
+        "parameters": {
+          "colorIndex": 0
+        }
+      },
+      {
+        "name": "glasses2head",
+        "parameters": {
+          "colorIndex": 0
+        }
+      },
       {
         "name": "iwunidrobe_polkadothood",
         "parameters": {
@@ -2188,11 +2434,399 @@
     "op": "add",
     "path": "/items/glitch/0/1/-",
     "value": {
+      "chest": [
+        {
+          "name": "noblechest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "peasantchest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "craftsmenchest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        }
+      ],
       "head": [
         "",
         "",
         "",
         "",
+        {
+          "name": "glasses5head",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "glasses4head",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "glasses2head",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_polkadothood",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_thinheadwrap",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "plainhoodhead",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat2",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat3",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat3a",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat4",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat4a",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat6",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat7",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat7",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat7a",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat7a",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat7b",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat7b",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat7open",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat7open",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat1",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat1alt",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              11
+            ]
+          }
+        }
+      ],
+      "legs": [
+        {
+          "name": "noblelegs",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "peasantlegs",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "craftsmenlegs",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/glitch/0/1/-",
+    "value": {
+      "chest": [
+        {
+          "name": "noblechest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "craftsmenchest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_minstrelchest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        }
+      ],
+      "head": [
+        "",
+        "",
+        "",
+        "",
+        {
+          "name": "glasses2head",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
         {
           "name": "iwunidrobe_polkadothood",
           "parameters": {
@@ -2388,50 +3022,6 @@
           }
         }
       ],
-      "chest": [
-        {
-          "name": "noblechest",
-          "parameters": {
-            "colorIndex": [
-              1,
-              4,
-              5,
-              6,
-              7,
-              8,
-              9
-            ]
-          }
-        },
-        {
-          "name": "craftsmenchest",
-          "parameters": {
-            "colorIndex": [
-              1,
-              4,
-              5,
-              6,
-              7,
-              8,
-              9
-            ]
-          }
-        },
-        {
-          "name": "iwunidrobe_minstrelchest",
-          "parameters": {
-            "colorIndex": [
-              1,
-              4,
-              5,
-              6,
-              7,
-              8,
-              9
-            ]
-          }
-        }
-      ],
       "legs": [
         {
           "name": "noblelegs",
@@ -2482,11 +3072,40 @@
     "op": "add",
     "path": "/items/glitch/0/1/-",
     "value": {
+      "chest": [
+        {
+          "name": "peasantchest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              11
+            ]
+          }
+        }
+      ],
       "head": [
         "",
         "",
         "",
         "",
+        {
+          "name": "glasses5head",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "glasses4head",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
         {
           "name": "iwunidrobe_polkadothood",
           "parameters": {
@@ -2634,23 +3253,6 @@
           }
         }
       ],
-      "chest": [
-        {
-          "name": "peasantchest",
-          "parameters": {
-            "colorIndex": [
-              1,
-              4,
-              5,
-              6,
-              7,
-              8,
-              9,
-              11
-            ]
-          }
-        }
-      ],
       "legs": [
         {
           "name": "peasantlegs",
@@ -2674,11 +3276,30 @@
     "op": "add",
     "path": "/items/glitch/0/1/-",
     "value": {
+      "chest": [
+        {
+          "name": "iwunidrobe_monkchest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              11
+            ]
+          }
+        }
+      ],
       "head": [
         "",
         "",
         "",
         "",
+        {
+          "name": "glasses2head",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
         {
           "name": "plainhoodhead",
           "parameters": {
@@ -2692,19 +3313,6 @@
         },
         {
           "name": "phrygiancaphead",
-          "parameters": {
-            "colorIndex": [
-              1,
-              3,
-              4,
-              11
-            ]
-          }
-        }
-      ],
-      "chest": [
-        {
-          "name": "iwunidrobe_monkchest",
           "parameters": {
             "colorIndex": [
               1,
@@ -2829,37 +3437,6 @@
     "op": "add",
     "path": "/items/hylotl/0/1/-",
     "value": {
-      "head": [
-        "",
-        "",
-        {
-          "name": "iwunidrobe_hylotlhat1",
-          "parameters": {
-            "colorIndex": 0
-          }
-        },
-        {
-          "name": "iwunidrobe_hylotlhat2",
-          "parameters": {
-            "colorIndex": 0
-          }
-        },
-        {
-          "name": "iwunidrobe_hylotlhat4",
-          "parameters": {
-            "colorIndex": [
-              1,
-              3,
-              4,
-              5,
-              6,
-              7,
-              8,
-              9
-            ]
-          }
-        }
-      ],
       "chest": [
         {
           "name": "traditionalchest",
@@ -2904,6 +3481,55 @@
               8,
               9
             ]
+          }
+        }
+      ],
+      "head": [
+        "",
+        "",
+        {
+          "name": "iwunidrobe_hylotlhat1",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_hylotlhat2",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_hylotlhat4",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "glasses3eyes",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_glasses4eyes",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_glasses5eyes",
+          "parameters": {
+            "colorIndex": 0
           }
         }
       ],
@@ -2960,6 +3586,53 @@
     "op": "add",
     "path": "/items/hylotl/0/1/-",
     "value": {
+      "chest": [
+        {
+          "name": "kimonochest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "monkchest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_calligrapherchest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        }
+      ],
       "head": [
         "",
         "",
@@ -3013,52 +3686,23 @@
           "parameters": {
             "colorIndex": 0
           }
-        }
-      ],
-      "chest": [
+        },
         {
-          "name": "kimonochest",
+          "name": "iwunidrobe_glasses4eyes",
           "parameters": {
-            "colorIndex": [
-              1,
-              3,
-              4,
-              5,
-              6,
-              7,
-              8,
-              9
-            ]
+            "colorIndex": 0
           }
         },
         {
-          "name": "monkchest",
+          "name": "iwunidrobe_glasses5eyes",
           "parameters": {
-            "colorIndex": [
-              1,
-              3,
-              4,
-              5,
-              6,
-              7,
-              8,
-              9
-            ]
+            "colorIndex": 0
           }
         },
         {
-          "name": "iwunidrobe_calligrapherchest",
+          "name": "iwunidrobe_sunglasses1eyes",
           "parameters": {
-            "colorIndex": [
-              1,
-              3,
-              4,
-              5,
-              6,
-              7,
-              8,
-              9
-            ]
+            "colorIndex": 0
           }
         }
       ],
@@ -3197,75 +3841,6 @@
     "op": "add",
     "path": "/items/novakid/0/1/-",
     "value": {
-      "head": [
-        "",
-        "",
-        "",
-        {
-          "name": "iwunidrobe_novahat1alt",
-          "parameters": {
-            "colorIndex": [
-              1
-            ]
-          }
-        },
-        {
-          "name": "iwunidrobe_novahat1alt",
-          "parameters": {
-            "colorIndex": [
-              11
-            ]
-          }
-        },
-        {
-          "name": "iwunidrobe_novahat3alt",
-          "parameters": {
-            "colorIndex": [
-              1
-            ]
-          }
-        },
-        {
-          "name": "iwunidrobe_novahat3alt",
-          "parameters": {
-            "colorIndex": [
-              11
-            ]
-          }
-        },
-        {
-          "name": "iwunidrobe_novahat4alt",
-          "parameters": {
-            "colorIndex": [
-              1
-            ]
-          }
-        },
-        {
-          "name": "iwunidrobe_novahat4alt",
-          "parameters": {
-            "colorIndex": [
-              11
-            ]
-          }
-        },
-        {
-          "name": "iwunidrobe_novahat5alt",
-          "parameters": {
-            "colorIndex": [
-              1
-            ]
-          }
-        },
-        {
-          "name": "iwunidrobe_novahat5alt",
-          "parameters": {
-            "colorIndex": [
-              11
-            ]
-          }
-        }
-      ],
       "chest": [
         {
           "name": "novakidfancychest",
@@ -3356,6 +3931,75 @@
               7,
               8,
               9,
+              11
+            ]
+          }
+        }
+      ],
+      "head": [
+        "",
+        "",
+        "",
+        {
+          "name": "iwunidrobe_novahat1alt",
+          "parameters": {
+            "colorIndex": [
+              1
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_novahat1alt",
+          "parameters": {
+            "colorIndex": [
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_novahat3alt",
+          "parameters": {
+            "colorIndex": [
+              1
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_novahat3alt",
+          "parameters": {
+            "colorIndex": [
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_novahat4alt",
+          "parameters": {
+            "colorIndex": [
+              1
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_novahat4alt",
+          "parameters": {
+            "colorIndex": [
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_novahat5alt",
+          "parameters": {
+            "colorIndex": [
+              1
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_novahat5alt",
+          "parameters": {
+            "colorIndex": [
               11
             ]
           }

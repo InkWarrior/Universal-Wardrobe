@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "sunglasses1head", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_sunglasses1eyes", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}

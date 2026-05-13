@@ -120,8 +120,8 @@
   "iwunidrobe_rmpprotectorboxloot" : [
     [0, {
       "fill" : [
-        {"weight" : 1, "item" : "iwrmp_envoyuniformchest"},
-        {"weight" : 1, "item" : "iwrmp_envoyuniformpants"}
+        {"weight" : 1, "item" : "protectoratechest"},
+        {"weight" : 1, "item" : "protectoratepants"}
       ]
     }
    ]
@@ -130,8 +130,8 @@
   "iwunidrobe_rmpenvoyboxloot" : [
     [0, {
       "fill" : [
-        {"weight" : 1, "item" : "protectoratechest"},
-        {"weight" : 1, "item" : "protectoratepants"}
+        {"weight" : 1, "item" : "iwrmp_envoyuniformchest"},
+        {"weight" : 1, "item" : "iwrmp_envoyuniformpants"}
       ]
     }
    ]

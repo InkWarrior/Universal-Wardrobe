@@ -58,7 +58,7 @@
   "iwuni_criminalLairHeadwear" : [
     [0, {
       "fill" : [
-        {"item" : "iwunidrobe_lairBoxReward"}
+        {"pool" : "iwunidrobe_lairBoxReward"}
       ],
       "poolRounds" : [
         [0.2, 3],
@@ -106,7 +106,7 @@
   "iwuni_cultistLairHeadwear" : [
     [0, {
       "fill" : [
-        {"item" : "iwunidrobe_cultistLairBoxReward"}
+        {"pool" : "iwunidrobe_cultistLairBoxReward"}
       ],
       "poolRounds" : [
         [0.2, 3],
