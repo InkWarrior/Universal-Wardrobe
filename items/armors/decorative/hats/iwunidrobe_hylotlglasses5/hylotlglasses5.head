@@ -7,7 +7,7 @@
   "rarity" : "Legendary",
   "category" : "headwear",
   "description" : "^blue;Hylotl^reset;. The original and the best.",
-  "shortdescription" : "Simple Glasses",
+  "shortdescription" : "^#68afe9;Simple Glasses",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

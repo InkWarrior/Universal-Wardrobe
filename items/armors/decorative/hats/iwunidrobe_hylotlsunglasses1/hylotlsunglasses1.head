@@ -7,7 +7,7 @@
   "rarity" : "Rare",
   "category" : "headwear",
   "description" : "^blue;Hylotl^reset;. These will fashionably protect my eyes from the bright sun.",
-  "shortdescription" : "Sunglasses",
+  "shortdescription" : "^#68afe9;Sunglasses",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

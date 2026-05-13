@@ -7,7 +7,7 @@
   "rarity" : "Legendary",
   "category" : "headwear",
   "description" : "^blue;Hylotl^reset;. For those who are rather short-sighted.",
-  "shortdescription" : "Huge Glasses",
+  "shortdescription" : "^#68afe9;Huge Glasses",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
