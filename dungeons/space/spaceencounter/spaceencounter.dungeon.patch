@@ -18,6 +18,16 @@
       "op": "add",
       "path": "/metadata/anchor/-",
       "value": "iwuni_oldcultisthideout"
+    },
+    {
+      "op": "add",
+      "path": "/metadata/anchor/-",
+      "value": "iwuni_uscmbunker1"
+    },
+    {
+      "op": "add",
+      "path": "/metadata/anchor/-",
+      "value": "iwuni_uscmbunker2"
     }
   ],
   [
@@ -61,6 +71,32 @@
           "iwuni_oldcultisthideout.json"
         ],
         "name": "iwuni_oldcultisthideout",
+        "rules": []
+      }
+    },
+    {
+      "op": "add",
+      "path": "/parts/-",
+      "value": {
+        "chance": 1,
+        "def": [
+          "tmx",
+          "iwuni_uscmbunker1.json"
+        ],
+        "name": "iwuni_uscmbunker1",
+        "rules": []
+      }
+    },
+    {
+      "op": "add",
+      "path": "/parts/-",
+      "value": {
+        "chance": 1,
+        "def": [
+          "tmx",
+          "iwuni_uscmbunker2.json"
+        ],
+        "name": "iwuni_uscmbunker2",
         "rules": []
       }
     }

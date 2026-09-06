@@ -7,7 +7,9 @@
     "anchor" : [
 	  "iwuni_abandonedpkstation",
 	  "iwuni_derelictcriminalhideout",
-	  "iwuni_oldcultisthideout"
+	  "iwuni_oldcultisthideout",
+	  "iwuni_uscmbunker1",
+	  "iwuni_uscmbunker2"
     ],
     "gravity" : 40,
     "breathable" : true,
@@ -467,6 +469,18 @@
       "name" : "iwuni_oldcultisthideout",
       "rules" : [],
       "def" : [ "tmx", "iwuni_oldcultisthideout.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "iwuni_uscmbunker1",
+      "rules" : [],
+      "def" : [ "tmx", "iwuni_uscmbunker1.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "iwuni_uscmbunker2",
+      "rules" : [],
+      "def" : [ "tmx", "iwuni_uscmbunker2.json" ],
       "chance" : 1
     }
   ]

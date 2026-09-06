@@ -7,6 +7,7 @@
   //        Space Encounters
   // ================================
 
+  //PEACEKEEPER STATION
   "iwuni_pkstationBastionSet" : [
     [0, {
       "fill" : [
@@ -39,6 +40,7 @@
     }]
   ],
 
+  //CRIMINAL LAIR
   "iwuni_criminalLairSet" : [
     [0, {
       "fill" : [
@@ -87,6 +89,7 @@
     }]
   ],
 
+  //CULTIST LAIR
   "iwuni_cultistLairSet" : [
     [0, {
       "fill" : [
@@ -115,6 +118,107 @@
       "pool" : [
         {"weight" : 0.32, "pool" : "chestMoney"},
         {"weight" : 0.65, "pool" : "commonSpaceItem"}
+      ]
+    }]
+  ],
+
+  //USCM BUNKERS
+  "iwuni_uscmBunkerSet" : [
+    [0, {
+      "fill" : [
+        {"pool" : "iwunidrobe_uscmLairBoxReward"}
+      ],
+      "poolRounds" : [
+        [0.2, 3],
+        [0.5, 4]
+      ],
+      "pool" : [
+        {"weight" : 0.32, "pool" : "chestMoney"},
+        {"weight" : 0.65, "pool" : "commonSpaceItem"}
+      ]
+    }]
+  ],
+
+  "iwuni_uscmBunkerHeadwear" : [
+    [0, {
+      "fill" : [
+        {"item" : "iwunidrobe_uscmheadwearbox"}
+      ],
+      "poolRounds" : [
+        [0.2, 3],
+        [0.5, 4]
+      ],
+      "pool" : [
+        {"weight" : 0.32, "pool" : "chestMoney"},
+        {"weight" : 0.65, "pool" : "commonSpaceItem"}
+      ]
+    }]
+  ],
+
+  // ================================
+  //         DUNGEON POOLS
+  // ================================
+
+  "iwunidrobe_lairHelmetReward" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.0003, "item" : "iwunidrobe_digitalvisor"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_hazardminer"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_spacebiker"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_spacepilot"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_outlandishvisor"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_stranglerwrap"}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ]
+    }]
+  ],
+
+  "iwunidrobe_lairBoxReward" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.0003, "item" : "iwunidrobe_banditlootbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_reaverbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_hijackerbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_looterbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_malefactorbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_plundererbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_wandererbox"}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ]
+    }]
+  ],
+
+  "iwunidrobe_cultistLairBoxReward" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.0003, "item" : "iwunidrobe_cultistlootbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_devoteebox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_dogmatistbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_fanaticbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_radicalbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_sectarianbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_zealotbox"}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ]
+    }]
+  ],
+
+  "iwunidrobe_uscmLairBoxReward" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.0003, "item" : "iwunidrobe_defectorbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_mutineerbox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_runawaybox"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_stalwartbox"}
+      ],
+      "poolRounds" : [
+        [1, 1]
       ]
     }]
   ]
