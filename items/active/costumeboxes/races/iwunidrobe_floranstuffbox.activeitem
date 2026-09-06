@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Common",
   "category" : "iwuniCostumeSet",
-  "description" : "Fruits and plants that could become into a fancy hat.",
+  "description" : "Fruits and plants that can be fashioned into a fancy hat.",
   "shortdescription" : "Floran Hat Box",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
