@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "money", "count" : 125 }
-  ],
-  "duration" : 0,
-  "output" : { "item" : "iwuni_livelywooddye", "count" : 1 },
-  "groups" : [ "iwuni_maincraftingstation", "iwuni_dyes" ]
-}
