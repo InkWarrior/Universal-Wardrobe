@@ -190,7 +190,7 @@
                     "npcshotgun",
                     "npcsniperrifle",
                     "npcrocketlauncher",
-                    "commongrenadelauncher",
+                    "npcgrenadelauncher",
                     "r-npcflamethrower"
                 ],
                 "sheathedprimary": [
