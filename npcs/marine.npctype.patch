@@ -1,313 +1,352 @@
 [
-    [
-        {
-            "op": "add",
-            "path": "/dropPools/-",
-            "value": "iwunidrobe_uscmThreatBaseTreasure"
-        }
-    ],
-    [
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_banditvisor7"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_cultistvisor2"
-            }
-        }
-    ],
-    [
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/back/0/name",
-            "value": "iwunidrobe_haversack1back"
-        }
-    ],
-    [
-        {
-            "op": "add",
-            "path": "/items/override/0/1/1/head/-",
-            "value": {
-                "name": "iwunidrobe_uscmhead5"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/1/head/-",
-            "value": {
-                "name": "iwunidrobe_uscmhead5open"
-            }
-        }
-    ],
-    [
-        {
-            "op": "replace",
-            "path": "/items/override/0/1/1/back/0/name",
-            "value":  "iwunidrobe_rucksack1back"
-        }
-    ],
-    [
-        {
-            "op": "add",
-            "path": "/items/override/0/1/2/head",
-            "value": [
-                {
-                    "name": "iwunidrobe_defectorhead"
-                },
-                {
-                    "name": "iwunidrobe_uscmhead6"
-                },
-                {
-                    "name": "iwunidrobe_uscmhead11"
-                },
-                {
-                    "name": "iwunidrobe_uscmhead12"
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "op": "add",
-            "path": "/items/override/0/1/2/alt",
-            "value": [
-                "r-uscmriotshield"
-            ]
-        }
-    ],
-    [
-        {
-            "op": "remove",
-            "path": "/items/override/0/1/2/chest/0/count"
-        }
-    ],
-    [
-        {
-            "op": "remove",
-            "path": "/items/override/0/1/2/chest/0/parameters"
-        }
-    ],
-    [
-        {
-            "op": "replace",
-            "path": "/items/override/0/1/2/chest/0/name",
-            "value": "iwunidrobe_defectorchest"
-        }
-    ],
-    [
-        {
-            "op": "add",
-            "path": "/items/override/0/1/2/back/0/name",
-            "value": "iwunidrobe_rucksack1back"
-        }
-    ],
-    [
-        {
-            "op": "remove",
-            "path": "/items/override/0/1/2/legs/0/count"
-        }
-    ],
-    [
-        {
-            "op": "remove",
-            "path": "/items/override/0/1/2/legs/0/parameters"
-        }
-    ],
-    [
-        {
-            "op": "replace",
-            "path": "/items/override/0/1/2/legs/0/name",
-            "value": "iwunidrobe_defectorpants"
-        }
-    ],
-    [
-        {
-            "op": "replace",
-            "path": "/items/override/0/1/2/primary/0",
-            "value": "commongrenadelauncher"
-        }
-    ],
-    [
-        {
-            "op": "remove",
-            "path": "/items/override/0/1/2/primary/1"
-        }
-    ],
-    [
-        {
-            "op": "add",
-            "path": "/items/override/0/1/2/sheathedprimary/-",
-            "value": "npcpistol"
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/2/sheathedprimary/-",
-            "value": "npcmachinepistol"
-        }
-    ],
-    [
-        {
-            "op": "add",
-            "path": "/items/override/0/1/-",
-            "value": {
-                "head": [
-                    {
-                        "name": "iwunidrobe_runawayhead"
-                    },
-                    {
-                        "name": "iwunidrobe_uscmhead9"
-                    },
-                    {
-                        "name": "iwunidrobe_uscmhead9alt"
-                    },
-                    {
-                        "name": "iwunidrobe_uscmhead10"
-                    }
-                ],
-                "chest": [
-                    {
-                        "name": "iwunidrobe_runawaychest"
-                    }
-                ],
-                "back": [
-                    {
-                        "name": "iwunidrobe_radiobackpack"
-                    }
-                ],
-                "legs": [
-                    {
-                        "name": "iwunidrobe_runawaypants"
-                    }
-                ],
-                "primary": [
-                    "npcassaultrifle",
-                    "npcshotgun",
-                    "npcsniperrifle",
-                    "npcrocketlauncher",
-                    "commongrenadelauncher",
-                    "r-npcflamethrower"
-                ],
-                "sheathedprimary": [
-                    "npcshortsword",
-                    "npcpistol",
-                    "npcmachinepistol"
-                ],
-                "alt": [
-                    "r-uscmriotshield"
-                ]
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/-",
-            "value": {
-                "head": [
-                    {
-                        "name": "iwunidrobe_stalwarthead"
-                    },
-                    {
-                        "name": "iwunidrobe_uscmhead1"
-                    },
-                    {
-                        "name": "iwunidrobe_uscmhead1open"
-                    },
-                    {
-                        "name": "iwunidrobe_uscmhead2"
-                    },
-                    {
-                        "name": "iwunidrobe_uscmhead2open"
-                    },
-                    {
-                        "name": "iwunidrobe_uscmhead3"
-                    },
-                    {
-                        "name": "iwunidrobe_uscmhead4"
-                    },
-                    {
-                        "name": "iwunidrobe_uscmhead7"
-                    },
-                    {
-                        "name": "iwunidrobe_uscmhead8"
-                    }
-                ],
-                "chest": [
-                    {
-                        "name": "iwunidrobe_stalwartchest"
-                    }
-                ],
-                "back": [
-                    {
-                        "name": "iwunidrobe_combatplss",
-                        "count": 1,
-                        "parameters": {
-                            "directives": "?replace;ffca8a=afb47e;e0975c=888d59;a85636=4c592a;6f2919=2c3711"
-                        }
-                    }
-                ],
-                "legs": [
-                    {
-                        "name": "iwunidrobe_stalwartpants"
-                    }
-                ],
-                "primary": [
-                    "npcpulserailgun"
-                ],
-                "sheathedprimary": [
-                    "npcshortsword"
-                ]
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/-",
-            "value": {
-                "head": [
-                    {
-                        "name": "iwunidrobe_mutineerhead"
-                    },
-                    {
-                        "name": "iwunidrobe_mutineerheada"
-                    },
-                    {
-                        "name": "iwunidrobe_mutineerheadb"
-                    },
-                    {
-                        "name": "iwunidrobe_uscmhead13"
-                    },
-                    {
-                        "name": "iwunidrobe_uscmhead13alt"
-                    },
-                    {
-                        "name": "iwunidrobe_uscmhead14"
-                    },
-                    {
-                        "name": "iwunidrobe_uscmhead14alt"
-                    }
-                ],
-                "chest": [
-                    {
-                        "name": "iwunidrobe_mutineerchest"
-                    }
-                ],
-                "legs": [
-                    {
-                        "name": "iwunidrobe_mutineerpants"
-                    }
-                ],
-                "primary": [
-                    "npcpistol",
-                    "npcmachinepistol"
-                ],
-                "sheathedprimary": [
-                    "npcshortsword"
-                ]
-            }
-        }
+  {
+    "op": "add",
+    "path": "/dropPools/-",
+    "value": "iwunidrobe_uscmThreatBaseTreasure"
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_banditvisor7"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_cultistvisor2"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/1/head/-",
+    "value": {
+      "name": "iwunidrobe_uscmhead5"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/1/head/-",
+    "value": {
+      "name": "iwunidrobe_uscmhead5open"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/1/back/-",
+    "value": {
+      "name": "iwunidrobe_haversack1back",
+      "parameters": {
+        "colorIndex": [
+          0,
+          1,
+          11
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/1/back/-",
+    "value": {
+      "name": "iwunidrobe_rucksack1back",
+      "parameters": {
+        "colorIndex": [
+          0,
+          1,
+          11
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/2/head",
+    "value": [
+      {
+        "name": "iwunidrobe_defectorhead"
+      },
+      {
+        "name": "iwunidrobe_uscmhead6"
+      },
+      {
+        "name": "iwunidrobe_uscmhead11"
+      },
+      {
+        "name": "iwunidrobe_uscmhead12"
+      }
     ]
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/2/back",
+    "value": [
+      {
+        "name": "survivalgearback",
+        "parameters": {
+          "colorIndex": 0
+        }
+      },
+      {
+        "name": "iwunidrobe_haversack1back",
+        "parameters": {
+          "colorIndex": [
+            0,
+            1,
+            11
+          ]
+        }
+      },
+      {
+        "name": "iwunidrobe_rucksack1back",
+        "parameters": {
+          "colorIndex": [
+            0,
+            1,
+            11
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/2/alt",
+    "value": [
+      "r-uscmriotshield"
+    ]
+  },
+  {
+    "op": "remove",
+    "path": "/items/override/0/1/2/chest/0/count"
+  },
+  {
+    "op": "remove",
+    "path": "/items/override/0/1/2/chest/0/parameters"
+  },
+  {
+    "op": "replace",
+    "path": "/items/override/0/1/2/chest/0/name",
+    "value": "iwunidrobe_defectorchest"
+  },
+  {
+    "op": "remove",
+    "path": "/items/override/0/1/2/legs/0/count"
+  },
+  {
+    "op": "remove",
+    "path": "/items/override/0/1/2/legs/0/parameters"
+  },
+  {
+    "op": "replace",
+    "path": "/items/override/0/1/2/legs/0/name",
+    "value": "iwunidrobe_defectorpants"
+  },
+  {
+    "op": "replace",
+    "path": "/items/override/0/1/2/primary/0",
+    "value": "commongrenadelauncher"
+  },
+  {
+    "op": "remove",
+    "path": "/items/override/0/1/2/primary/1"
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/2/sheathedprimary/-",
+    "value": "npcpistol"
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/2/sheathedprimary/-",
+    "value": "npcmachinepistol"
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/-",
+    "value": {
+      "head": [
+        {
+          "name": "iwunidrobe_runawayhead"
+        },
+        {
+          "name": "iwunidrobe_uscmhead9"
+        },
+        {
+          "name": "iwunidrobe_uscmhead9alt"
+        },
+        {
+          "name": "iwunidrobe_uscmhead10"
+        }
+      ],
+      "chest": [
+        {
+          "name": "iwunidrobe_runawaychest"
+        }
+      ],
+      "back": [
+        {
+          "name": "iwunidrobe_radiobackpack"
+        }
+      ],
+      "legs": [
+        {
+          "name": "iwunidrobe_runawaypants"
+        }
+      ],
+      "primary": [
+        "npcassaultrifle",
+        "npcshotgun",
+        "npcsniperrifle",
+        "npcrocketlauncher",
+        "commongrenadelauncher",
+        "r-npcflamethrower"
+      ],
+      "sheathedprimary": [
+        "npcshortsword",
+        "npcpistol",
+        "npcmachinepistol"
+      ],
+      "alt": [
+        "r-uscmriotshield"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/-",
+    "value": {
+      "head": [
+        {
+          "name": "iwunidrobe_stalwarthead"
+        },
+        {
+          "name": "iwunidrobe_uscmhead1"
+        },
+        {
+          "name": "iwunidrobe_uscmhead1open"
+        },
+        {
+          "name": "iwunidrobe_uscmhead2"
+        },
+        {
+          "name": "iwunidrobe_uscmhead2open"
+        },
+        {
+          "name": "iwunidrobe_uscmhead3"
+        },
+        {
+          "name": "iwunidrobe_uscmhead4"
+        },
+        {
+          "name": "iwunidrobe_uscmhead7"
+        },
+        {
+          "name": "iwunidrobe_uscmhead8"
+        }
+      ],
+      "chest": [
+        {
+          "name": "iwunidrobe_stalwartchest"
+        }
+      ],
+      "back": [
+        {
+          "name": "iwunidrobe_combatplss",
+          "count": 1,
+          "parameters": {
+            "directives": "?replace;ffca8a=afb47e;e0975c=888d59;a85636=4c592a;6f2919=2c3711"
+          }
+        }
+      ],
+      "legs": [
+        {
+          "name": "iwunidrobe_stalwartpants"
+        }
+      ],
+      "primary": [
+        "npcpulserailgun"
+      ],
+      "sheathedprimary": [
+        "npcshortsword"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/-",
+    "value": {
+      "head": [
+        {
+          "name": "iwunidrobe_mutineerhead"
+        },
+        {
+          "name": "iwunidrobe_mutineerheada"
+        },
+        {
+          "name": "iwunidrobe_mutineerheadb"
+        },
+        {
+          "name": "iwunidrobe_uscmhead13"
+        },
+        {
+          "name": "iwunidrobe_uscmhead13alt"
+        },
+        {
+          "name": "iwunidrobe_uscmhead14"
+        },
+        {
+          "name": "iwunidrobe_uscmhead14alt"
+        }
+      ],
+      "chest": [
+        {
+          "name": "iwunidrobe_mutineerchest"
+        }
+      ],
+      "back": [
+        {
+          "name": "survivalgearback",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_haversack1back",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_rucksack1back",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              11
+            ]
+          }
+        },
+        "",
+        ""
+      ],
+      "legs": [
+        {
+          "name": "iwunidrobe_mutineerpants"
+        }
+      ],
+      "primary": [
+        "npcpistol",
+        "npcmachinepistol"
+      ],
+      "sheathedprimary": [
+        "npcshortsword"
+      ]
+    }
+  }
 ]
