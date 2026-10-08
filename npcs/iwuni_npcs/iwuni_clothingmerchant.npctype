@@ -20,7 +20,13 @@
       },
       "buyFactorRange" : [ 0.9, 1.2 ],
       "sellFactorRange" : [ 0.2, 0.2 ],
-      "numItems" : 8
+      "numItems" : 12,
+      "paneLayoutOverride" : {
+        "windowtitle" : {
+          "title" : "  Clothing Merchant",
+          "subtitle" : "  ^#b9b5b2;Only the best clothes for you!"
+        }
+      }
     }
   },
 
