@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Common",
   "category" : "iwuniCostumeSet",
-  "description" : "Cotton clothing and a thick leather apron, ideal for smithing.",
+  "description" : "Cotton clothing that comes with a thick leather apron, ideal for smithing.",
   "shortdescription" : "Blacksmith Clothes",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "headwear",
-  "description" : "A scrap heavy respirator, it keeps you safe even in space.",
+  "description" : "A heavy respirator made of scrap, it keeps you safe even in space.",
   "shortdescription" : "^#96cbe7;Heavy Respirator Helm^reset;",
   "tooltipKind" : "armor",
 
