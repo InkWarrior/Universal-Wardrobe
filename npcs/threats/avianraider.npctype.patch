@@ -1,178 +1,205 @@
 [
-    [
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_novahat1alt",
-                "parameters": {
-                    "colorIndex": [
-                        0,
-                        11
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_novahat3",
-                "parameters": {
-                    "colorIndex": [
-                        0,
-                        11
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_novahat4",
-                "parameters": {
-                    "colorIndex": [
-                        0,
-                        11
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_novahat5",
-                "parameters": {
-                    "colorIndex": [
-                        0,
-                        11
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_novahat5alt",
-                "parameters": {
-                    "colorIndex": [
-                        0,
-                        11
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_stranglerwrapalt",
-                "parameters": {
-                    "colorIndex": [
-                        0,
-                        1,
-                        2,
-                        4,
-                        5,
-                        11
-                    ]
-                }
-            }
+  [
+    {
+      "op": "test",
+      "path": "/dropPools"
+    },
+    {
+      "op": "add",
+      "path": "/dropPools/-",
+      "value": "iwunidrobe_avianthreatBaseTreasure"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/head"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novahat1alt",
+        "parameters": {
+          "colorIndex": [
+            0,
+            11
+          ]
         }
-    ],
-    [
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/back/-",
-            "value": {
-                "name": "iwunidrobe_copperlanternback",
-                "parameters": {
-                    "colorIndex": 0
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/back/-",
-            "value": {
-                "name": "iwunidrobe_minerbackpack",
-                "parameters": {
-                    "colorIndex": 0
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/back/-",
-            "value": {
-                "name": "iwunidrobe_minerbackpackalt",
-                "parameters": {
-                    "colorIndex": 0
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/back/-",
-            "value": ""
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/back/-",
-            "value": ""
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/back/-",
-            "value": ""
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/back/-",
-            "value": ""
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novahat3",
+        "parameters": {
+          "colorIndex": [
+            0,
+            11
+          ]
         }
-    ],
-    [
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_dustychest",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        2,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9,
-                        10,
-                        11
-                    ]
-                }
-            }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novahat4",
+        "parameters": {
+          "colorIndex": [
+            0,
+            11
+          ]
         }
-    ],
-    [
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/legs/-",
-            "value": {
-                "name": "iwunidrobe_prospectorpants",
-                "parameters": {
-                    "colorIndex": [
-                        0,
-                        1,
-                        11
-                    ]
-                }
-            }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novahat5",
+        "parameters": {
+          "colorIndex": [
+            0,
+            11
+          ]
         }
-    ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novahat5alt",
+        "parameters": {
+          "colorIndex": [
+            0,
+            11
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_stranglerwrapalt",
+        "parameters": {
+          "colorIndex": [
+            0,
+            1,
+            2,
+            4,
+            5,
+            11
+          ]
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/back"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_copperlanternback",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_minerbackpack",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_minerbackpackalt",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": ""
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": ""
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": ""
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/chest"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_dustychest",
+        "parameters": {
+          "colorIndex": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/legs"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_prospectorpants",
+        "parameters": {
+          "colorIndex": [
+            0,
+            1,
+            11
+          ]
+        }
+      }
+    }
+  ]
 ]

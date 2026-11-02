@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "Searching for life-threatening experiences, huh?",
-  "shortdescription" : "Speedseeker Helmet",
+  "shortdescription" : "^#ffe287;Speedseeker Helmet^reset;",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

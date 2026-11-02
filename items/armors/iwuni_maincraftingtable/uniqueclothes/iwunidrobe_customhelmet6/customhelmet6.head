@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "A scrap heavy respirator, it keeps you safe even in space.",
-  "shortdescription" : "Heavy Respirator Helm",
+  "shortdescription" : "^#96cbe7;Heavy Respirator Helm^reset;",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

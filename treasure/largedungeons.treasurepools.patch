@@ -193,6 +193,14 @@
             "path": "/apexcampChestTreasure/0/1/pool/-",
             "value": {
                 "weight": 0.02,
+                "item": "iwunidrobe_ambusherbox"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/apexcampChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
                 "item": "iwunidrobe_haversack1back"
             }
         },
@@ -210,6 +218,40 @@
             "value": {
                 "weight": 0.02,
                 "item": "iwunidrobe_rucksack1back"
+            }
+        }
+    ],
+
+    [
+	  //Avian Temple
+        {
+            "op": "add",
+            "path": "/aviantempleTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.001,
+                "item": "iwunidrobe_renegadebox"
+            }
+        },
+
+
+        {
+            "op": "add",
+            "path": "/aviantempleChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_renegadebox"
+            }
+        }
+    ],
+
+    [
+	  //Avian Tomb
+        {
+            "op": "add",
+            "path": "/aviantombChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_renegadebox"
             }
         }
     ],
@@ -441,38 +483,6 @@
             "path": "/floranhuntinggroundsTreasure/0/1/pool/-",
             "value": {
                 "weight": 0.04,
-                "item": "iwunidrobe_floranhat3b"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/floranhuntinggroundsTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.04,
-                "item": "iwunidrobe_floranhat4a"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/floranhuntinggroundsTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.04,
-                "item": "iwunidrobe_floranhat4c"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/floranhuntinggroundsTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.04,
-                "item": "iwunidrobe_floranhat5a"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/floranhuntinggroundsTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.04,
                 "item": "iwunidrobe_floranbandithead1"
             }
         },
@@ -659,6 +669,22 @@
             "op": "add",
             "path": "/floranhuntinggroundsChestTreasure/0/1/pool/-",
             "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_hemiparasitebox"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranhuntinggroundsChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_barkplatebox"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranhuntinggroundsChestTreasure/0/1/pool/-",
+            "value": {
                 "weight": 0.02,
                 "item": "iwunidrobe_bighamback"
             }
@@ -676,6 +702,30 @@
             "path": "/floranhuntinggroundsChestTreasure/0/1/pool/-",
             "value": {
                 "weight": 0.02,
+                "item": "iwunidrobe_leafcapeback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranhuntinggroundsChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_jarplantback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranhuntinggroundsChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_jarplantaltback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranhuntinggroundsChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
                 "item": "iwunidrobe_glowfruitback"
             }
         }
@@ -683,38 +733,6 @@
 
     [
 	  //Floran Canyon
-        {
-            "op": "add",
-            "path": "/florancanyonTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.04,
-                "item": "iwunidrobe_floranhat3b"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/florancanyonTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.04,
-                "item": "iwunidrobe_floranhat4a"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/florancanyonTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.04,
-                "item": "iwunidrobe_floranhat4c"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/florancanyonTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.04,
-                "item": "iwunidrobe_floranhat5a"
-            }
-        },
         {
             "op": "add",
             "path": "/florancanyonTreasure/0/1/pool/-",
@@ -906,6 +924,22 @@
             "op": "add",
             "path": "/florancanyonChestTreasure/0/1/pool/-",
             "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_hemiparasitebox"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/florancanyonChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_barkplatebox"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/florancanyonChestTreasure/0/1/pool/-",
+            "value": {
                 "weight": 0.02,
                 "item": "iwunidrobe_bighamback"
             }
@@ -916,6 +950,30 @@
             "value": {
                 "weight": 0.02,
                 "item": "iwunidrobe_floranbannerback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/florancanyonChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_leafcapeback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/florancanyonChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_jarplantback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/florancanyonChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_jarplantaltback"
             }
         },
         {
@@ -959,31 +1017,7 @@
             "path": "/floranvillagetowerTreasure/0/1/pool/-",
             "value": {
                 "weight": 0.04,
-                "item": "iwunidrobe_floranhat3a"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/floranvillagetowerTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.04,
                 "item": "iwunidrobe_floranhat4"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/floranvillagetowerTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.04,
-                "item": "iwunidrobe_floranhat4b"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/floranvillagetowerTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.04,
-                "item": "iwunidrobe_floranhat4d"
             }
         },
         {
@@ -1162,6 +1196,30 @@
             "value": {
                 "weight": 0.01,
                 "item": "iwunidrobe_floranbannerback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranvillagetowerChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_leafcapeback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranvillagetowerChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_jarplantback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranvillagetowerChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_jarplantaltback"
             }
         },
         {
@@ -1205,31 +1263,7 @@
             "path": "/floranhutvillageTreasure/0/1/pool/-",
             "value": {
                 "weight": 0.04,
-                "item": "iwunidrobe_floranhat3a"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/floranhutvillageTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.04,
                 "item": "iwunidrobe_floranhat4"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/floranhutvillageTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.04,
-                "item": "iwunidrobe_floranhat4b"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/floranhutvillageTreasure/0/1/pool/-",
-            "value": {
-                "weight": 0.04,
-                "item": "iwunidrobe_floranhat4d"
             }
         },
         {
@@ -1415,6 +1449,30 @@
             "path": "/floranhutvillageChestTreasure/0/1/pool/-",
             "value": {
                 "weight": 0.01,
+                "item": "iwunidrobe_leafcapeback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranhutvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_jarplantback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranhutvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_jarplantaltback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranhutvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
                 "item": "iwunidrobe_glowfruitback"
             }
         }
@@ -1428,6 +1486,26 @@
             "value": {
                 "weight": 0.02,
                 "item": "iwunidrobe_glitchhat3b"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/dungeoncrawlerChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_roguebox"
+            }
+        }
+    ],
+
+    [
+	  //Glitch Evil Fortress
+        {
+            "op": "add",
+            "path": "/evilfortressChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_roguebox"
             }
         }
     ],

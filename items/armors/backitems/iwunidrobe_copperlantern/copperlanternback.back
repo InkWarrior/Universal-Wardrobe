@@ -1,7 +1,7 @@
 {
   //Made by Tea-Loving Lad
   "itemName" : "iwunidrobe_copperlanternback",
-  "price" : 100,
+  "price" : 250,
   "inventoryIcon" : "icon.png",
   "maxStack" : 1,
   "rarity" : "Common",

@@ -8,16 +8,18 @@
   },
   "category" : "crafting",
   "price" : 150,
-  "description" : "A metallic desk where you can customize your equipment.",
+  "description" : "A work station where you can customize your equipment and accesories.",
   "shortdescription" : "^orange;Customization Desk^white;",
   "race" : "generic",
 
+  "radioMessagesOnPickup" : [ "iwunidrobe_craftingtable1" ],
+
   "apexDescription" : "I can customize some of my equipment here.",
-  "avianDescription" : "A desk of metal where I can decorate my equipment.",
-  "floranDescription" : "Floran wantss to paint armor stuff!",
-  "glitchDescription" : "Curious. A desk where I can express my artistic skills.",
+  "avianDescription" : "A desk of metal where I can decorate my clothes.",
+  "floranDescription" : "Floran wantss to paint clothes!",
+  "glitchDescription" : "Observant. A desk where I can express my artistic skills.",
   "humanDescription" : "I'm going to have a lot of fun with this desk!",
-  "hylotlDescription" : "I can freely express myself while working on the desk.",
+  "hylotlDescription" : "I can customize my garments as I wish with this desk.",
   "novakidDescription" : "I'll have tons o' fun with this here desk!",
 
   "inventoryIcon" : "icon.png",

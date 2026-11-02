@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/layers/3/objects/2/properties/typeName",
+    "value": "iwuni_human_clothingmerchant"
+  }
+]

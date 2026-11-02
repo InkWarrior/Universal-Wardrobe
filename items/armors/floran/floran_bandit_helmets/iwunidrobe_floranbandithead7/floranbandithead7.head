@@ -14,8 +14,8 @@
   "mask" : "mask.png",
 
   "colorOptions" : [
-    // DEFAULT - SPACE ORANGE
-    { "ffca8a" : "fba336", "e0975c" : "ec720c", "a85636" : "ad3c00", "6f2919" : "6c1e00" },
+    // DEFAULT - YELLOW
+    { "ffca8a" : "ffffa7", "e0975c" : "e2c344", "a85636" : "a46e06", "6f2919" : "642f00" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

@@ -1,10 +1,10 @@
 {
   //Made by Tea-Loving Lad
   "itemName" : "iwunidrobe_minerbackpackalt",
-  "price" : 100,
+  "price" : 500,
   "inventoryIcon" : "icons.png:back",
   "maxStack" : 1,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "category" : "backwear",
   "description" : "Holds all necessary tools for a mining trip. The tools seem to be stuck in place though...",
   "shortdescription" : "Prospector Full Equipment",

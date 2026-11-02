@@ -959,6 +959,28 @@
    ]
   ],
 
+  "iwunidrobe_hemiparasiteboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwunidrobe_hemiparasitehead"},
+        {"weight" : 1, "item" : "iwunidrobe_hemiparasitechest"},
+        {"weight" : 1, "item" : "iwunidrobe_hemiparasitepants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_barkplateboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwunidrobe_barkplatehead"},
+        {"weight" : 1, "item" : "iwunidrobe_barkplatechest"},
+        {"weight" : 1, "item" : "iwunidrobe_barkplatepants"}
+      ]
+    }
+   ]
+  ],
+
   // ================================
   //         THEME - HYLOTL
   // ================================ 
@@ -1018,6 +1040,17 @@
    ]
   ],
 
+  "iwunidrobe_renegadeboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwunidrobe_renegadehead"},
+        {"weight" : 1, "item" : "iwunidrobe_renegadechest"},
+        {"weight" : 1, "item" : "iwunidrobe_renegadepants"}
+      ]
+    }
+   ]
+  ],
+
   // ================================
   //          THEME - APEX
   // ================================ 
@@ -1042,6 +1075,17 @@
    ]
   ],
 
+  "iwunidrobe_ambusherboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwunidrobe_ambusherhead"},
+        {"weight" : 1, "item" : "iwunidrobe_ambusherchest"},
+        {"weight" : 1, "item" : "iwunidrobe_ambusherpants"}
+      ]
+    }
+   ]
+  ],
+
   // ================================
   //         THEME - NOVAKID
   // ================================ 
@@ -1061,6 +1105,16 @@
       "fill" : [
         {"weight" : 1, "item" : "iwunidrobe_farmerchest"},
         {"weight" : 1, "item" : "iwunidrobe_farmerpants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_blacksmithboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwunidrobe_blacksmithchest"},
+        {"weight" : 1, "item" : "iwunidrobe_blacksmithpants"}
       ]
     }
    ]
@@ -1130,6 +1184,17 @@
       "fill" : [
         {"weight" : 1, "item" : "iwunidrobe_minstrelchest"},
         {"weight" : 1, "item" : "iwunidrobe_minstrelpants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_rogueboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwunidrobe_roguehead"},
+        {"weight" : 1, "item" : "iwunidrobe_roguechest"},
+        {"weight" : 1, "item" : "iwunidrobe_roguepants"}
       ]
     }
    ]

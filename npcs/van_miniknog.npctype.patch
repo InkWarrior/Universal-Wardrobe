@@ -1,0 +1,127 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/back",
+      "inverse": true
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back",
+      "value": [
+        {
+          "name": "iwunidrobe_mnkgbackpack1"
+        },
+        {
+          "name": "iwunidrobe_mnkgbackpack3"
+        },
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/head/0/name",
+      "value": "visorhead"
+    },
+    {
+      "op": "replace",
+      "path": "/items/override/0/1/0/head/0/name",
+      "value": "iwunidrobe_mkngvisor"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "iwunidrobe_mnkgbackpack1"
+          },
+          {
+            "name": "iwunidrobe_mnkgbackpack3"
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_mkngheavychest",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_mnkgcapbhead"
+          },
+          {
+            "name": "iwunidrobe_mkngheavyhead"
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_mkngheavypants",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "primary": [
+          "spaceplasmarifle"
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "iwunidrobe_mnkgbackpack1"
+          },
+          {
+            "name": "iwunidrobe_mnkgbackpack3"
+          },
+          "",
+          ""
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_mknglightchest",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_mnkgcapahead"
+          },
+          {
+            "name": "iwunidrobe_mnkgglasseshead"
+          },
+          {
+            "name": "iwunidrobe_mknglighthead"
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_mknglightpants",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "primary": [
+          "spaceplasmarifle"
+        ]
+      }
+    }
+  ]
+]

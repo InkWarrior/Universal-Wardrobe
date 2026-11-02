@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_renegadebox",
+  "price" : 500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "A combat attire used by Avian renegades.",
+  "shortdescription" : "Renegade Set",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_renegadebox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "renegadeicon.png",
+  "animation" : "iwunidrobe_avianbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_renegadeboxloot",
+    "level" : 1
+  }
+}

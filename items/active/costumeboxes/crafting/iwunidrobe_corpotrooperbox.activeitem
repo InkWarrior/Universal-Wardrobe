@@ -6,7 +6,7 @@
   "rarity" : "Legendary",
   "category" : "iwuniCostumeSet",
   "description" : "An armor case with a functional combat HazEnv suit inside.",
-  "shortdescription" : "Corporate Trooper Set",
+  "shortdescription" : "^#96cbe7;Corporate Trooper Set^reset;",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
     "objectImage" : "/interface/iwuni_costumebox/iwuni_corpotrooperbox.png"

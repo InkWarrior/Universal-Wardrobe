@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_bighamback", "count" : 1 }
+  ],
+  "output" : { "item" : "iwunidrobe_bighamaltback", "count" : 1 },
+  "groups" : [ "campfire", "consumables", "all" ]
+}

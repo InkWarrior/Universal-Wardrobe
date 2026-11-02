@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "headwear",
-  "description" : "Protects your head when going through currents.",
-  "shortdescription" : "Splasher Hood",
+  "description" : "Don't wear it too much or it's going to fuse with your head.",
+  "shortdescription" : "^#dbfc33;Xenoflower Hat^reset;",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

@@ -774,6 +774,18 @@
           },
           {
             "item": {
+              "name": "iwunidrobe_leafponchochest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_mossyvestchest"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
               "name": "iwunidrobe_floranmerchanthead"
             },
             "rarity": 0.05
@@ -799,6 +811,24 @@
           {
             "item": {
               "name": "iwunidrobe_glowfruitback"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_leafcapeback"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_jarplantback"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_jarplantaltback"
             },
             "rarity": 0.05
           },
@@ -1683,6 +1713,12 @@
           {
             "item": {
               "name": "iwunidrobe_farmerbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_blacksmithbox"
             },
             "rarity": 0.05
           },
@@ -3801,6 +3837,30 @@
       "path": "/floranclothes/0/1/-",
       "value": {
         "item": {
+          "name": "iwunidrobe_mossyvestchest",
+          "parameters": {
+            "colorIndex": 0
+          }
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_leafponchochest",
+          "parameters": {
+            "colorIndex": 0
+          }
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
           "name": "iwunidrobe_floranhat1"
         }
       }
@@ -3846,6 +3906,141 @@
       "path": "/floranclothes/0/1/-",
       "value": {
         "item": {
+          "name": "iwunidrobe_floranhat6"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_floranhat7"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_floranhat8"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_floranhat9"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_floranhat10"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_floranhat11"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_floranhat12"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_floranhat13"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_floranhat14"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_floranhat15"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_floranhat16"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_floranhat17"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_floranhat18"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_floranhat19"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_floranhat20"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
           "name": "iwunidrobe_floranmerchanthead"
         }
       }
@@ -3856,6 +4051,60 @@
       "value": {
         "item": {
           "name": "iwunidrobe_bigfloranpack"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_glowfruitback"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_floranbannerback"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_bighamback"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_leafcapeback"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_jarplantback"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/floranclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_jarplantaltback"
         }
       }
     },
@@ -6450,6 +6699,15 @@
       "value": {
         "item": {
           "name": "iwunidrobe_farmerbox"
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/novakidclothes/0/1/-",
+      "value": {
+        "item": {
+          "name": "iwunidrobe_blacksmithbox"
         }
       }
     },

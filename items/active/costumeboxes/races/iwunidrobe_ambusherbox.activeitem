@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_ambusherbox",
+  "price" : 500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "A combat attire used by Apex guerillas.",
+  "shortdescription" : "Ambusher Set",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_ambusherbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "ambushericon.png",
+  "animation" : "iwunidrobe_apexbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_ambusherboxloot",
+    "level" : 1
+  }
+}

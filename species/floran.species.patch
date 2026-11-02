@@ -36,6 +36,20 @@
       "op": "add",
       "path": "/defaultBlueprints/tier1/-",
       "value": {
+        "item": "iwunidrobe_mossyvestchest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_leafponchochest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
         "item": "iwunidrobe_floranhat1"
       }
     },
@@ -82,6 +96,16 @@
       "op": "add",
       "path": "/genders/0/shirt/-",
       "value": "iwunidrobe_sawboneschest"
+    },
+    {
+      "op": "add",
+      "path": "/genders/0/shirt/-",
+      "value": "iwunidrobe_mossyvestchest"
+    },
+    {
+      "op": "add",
+      "path": "/genders/0/shirt/-",
+      "value": "iwunidrobe_leafponchochest"
     }
   ],
   [
@@ -114,6 +138,16 @@
       "op": "add",
       "path": "/genders/1/shirt/-",
       "value": "iwunidrobe_sawboneschest"
+    },
+    {
+      "op": "add",
+      "path": "/genders/1/shirt/-",
+      "value": "iwunidrobe_mossyvestchest"
+    },
+    {
+      "op": "add",
+      "path": "/genders/1/shirt/-",
+      "value": "iwunidrobe_leafponchochest"
     }
   ],
   [

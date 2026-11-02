@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/tiles/403/brush/0/1/parameters/scriptConfig/merchant/categories/default/-",
+    "value": "iwuni_floranclothes"
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/403/brush/0/1/parameters/scriptConfig/merchant/numItems",
+    "value": 24
+  }
+]

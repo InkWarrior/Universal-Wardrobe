@@ -1,16 +1,32 @@
 [
-    {
-        "op": "test",
-        "path": "/items/floran/0/1/0/back",
-        "inverse": true
-    },
-    {
-        "op": "add",
-        "path": "/items/floran/0/1/0/back",
-        "value": [
-            {
-                "name": "iwunidrobe_bigfungalpack"
-            }
-        ]
-    }
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/back"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back",
+            "value": [
+                {
+                    "name": "iwunidrobe_bigfungalpack"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/floran/0/1/0/back"
+        },
+        {
+            "op": "add",
+            "path": "/items/floran/0/1/0/back",
+            "value": [
+                {
+                    "name": "iwunidrobe_bigfungalpack"
+                }
+            ]
+        }
+    ]
 ]

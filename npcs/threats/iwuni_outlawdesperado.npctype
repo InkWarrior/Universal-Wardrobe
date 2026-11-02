@@ -1,0 +1,82 @@
+{
+  "type" : "iwuni_outlawdesperado",
+  "baseType" : "hostile",
+
+  "levelVariance" : [1, 1.5],
+
+  "dropPools" : [ "money", "iwunidrobe_novathreatBaseTreasure" ],
+
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "friendlyNpcTypes" : ["crewmemberoutlaw"]
+    },
+
+    "dialog" : {
+      "attack" : {
+        "default" : {
+          "default" : [
+            "Attack!"
+          ]
+        },
+        "novakid" : {
+          "default" : [
+            "This town ain't big enough for the both of us!",
+            "Let's settle this with a duel!",
+            "You better start running kiddo!",
+            "Are you challenging me? you ain't got an idea who I am?!"
+          ]
+        }
+      }
+    }
+  },
+
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "iwunidrobe_desperadohead", "parameters" : { "colorIndex" : [1,4,5,11] } },
+              { "name" : "iwunidrobe_novamask1", "parameters" : { "colorIndex" : [1,4,5,11] } },
+              { "name" : "iwunidrobe_novamask2", "parameters" : { "colorIndex" : [1,4,5,11] } },
+              { "name" : "iwunidrobe_novamask3", "parameters" : { "colorIndex" : [1,4,5,11] } },
+              { "name" : "iwunidrobe_novamask4", "parameters" : { "colorIndex" : [1,4,5,11] } },
+              { "name" : "iwunidrobe_novamask5", "parameters" : { "colorIndex" : [1,4,5,11] } },
+              { "name" : "iwunidrobe_novamask6", "parameters" : { "colorIndex" : [1,4,5,11] } },
+              { "name" : "iwunidrobe_novamask7", "parameters" : { "colorIndex" : [1,4,5,11] } }
+            ],
+            "chest" : [
+              { "name" : "iwunidrobe_desperadochest", "parameters" : { "colorIndex" : [1,4,5,11] } },
+              { "name" : "novatier5achest", "parameters" : { "colorIndex" : [1,4,5,11] } }
+            ],
+            "legs" : [
+              { "name" : "iwunidrobe_desperadopants", "parameters" : { "colorIndex" : [1,4,5,11] } },
+              { "name" : "novatier5apants", "parameters" : { "colorIndex" : [1,4,5,11] } },
+              { "name" : "novatier3pants", "parameters" : { "colorIndex" : [1,4,5,11] } },
+              { "name" : "novatier2pants", "parameters" : { "colorIndex" : [1,4,5,11] } }
+            ],
+            "back" : [
+              { "name" : "raggedcapeback", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "shortcapeback", "parameters" : { "colorIndex" : 1 } }
+            ],
+            "primary" : [ "npcpetcapturepod" ],
+            "sheathedprimary" : [ "npcassaultrifle", "npcsniperrifle" ]
+          }
+        ] ]
+    ]
+  },
+
+  "statusControllerSettings" : {    
+    "stats" : {
+      "maxHealth" : {
+        "baseValue" : 250.0
+      },
+      "powerMultiplier" : {
+        "baseValue" : 1.0
+      },
+      "protection" : {
+        "baseValue" : 1.0
+      }
+    }
+  }
+}

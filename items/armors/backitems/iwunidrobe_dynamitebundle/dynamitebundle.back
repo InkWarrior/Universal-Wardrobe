@@ -1,8 +1,8 @@
 {
   //Made by Tea-Loving Lad
   "itemName" : "iwunidrobe_dynamitebundle",
-  "price" : 100,
-  "inventoryIcon" : "icons.png:back",
+  "price" : 250,
+  "inventoryIcon" : "icon.png",
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "backwear",

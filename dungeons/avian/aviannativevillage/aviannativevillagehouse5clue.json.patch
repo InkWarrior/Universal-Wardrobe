@@ -1,0 +1,35 @@
+[
+  {
+    "op": "add",
+    "path": "/layers/5/objects/-",
+    "value": {
+      "height": 8,
+      "id": 1034,
+      "name": "",
+      "properties": {
+        "npc": "avian",
+        "typeName": "iwuni_avian_clothingmerchant"
+      },
+      "propertytypes": {
+        "npc": "string",
+        "typeName": "string"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 232,
+      "y": 232
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/layers/8/visible",
+    "value": false
+  },
+  {
+    "op": "replace",
+    "path": "/nextobjectid",
+    "value": 1035
+  }
+]

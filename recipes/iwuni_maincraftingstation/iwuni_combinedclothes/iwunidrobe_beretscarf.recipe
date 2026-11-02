@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "berethead", "count" : 1 },
+    { "item" : "winterscarfhead", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_beretscarf", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_combinedclothes" ]
+}

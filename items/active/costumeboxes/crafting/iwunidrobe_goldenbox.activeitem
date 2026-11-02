@@ -6,7 +6,7 @@
   "rarity" : "Legendary",
   "category" : "iwuniCostumeSet",
   "description" : "A set of old protective mining armor, seems to be usable!",
-  "shortdescription" : "Golden Armor Case",
+  "shortdescription" : "^#ffe287;Golden Armor Case^reset;",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
     "objectImage" : "/interface/iwuni_costumebox/iwuni_goldenbox.png"

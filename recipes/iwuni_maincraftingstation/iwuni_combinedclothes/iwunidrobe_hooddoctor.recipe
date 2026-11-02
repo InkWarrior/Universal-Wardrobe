@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "plainhoodhead", "count" : 1 },
+    { "item" : "plaguedoctorhead", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_hooddoctor", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_combinedclothes" ]
+}

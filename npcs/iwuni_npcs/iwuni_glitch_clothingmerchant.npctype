@@ -1,0 +1,106 @@
+{
+  "type" : "iwuni_glitch_clothingmerchant",
+  "baseType" : "merchant",
+  "displayTitle" : "Tailor",
+  
+  "scriptConfig" : {
+    "merchant" : {
+      "waitTime" : 40,
+      "storeRadius" : -1,
+      "poolsFile" : "/npcs/merchantpools.config",
+      "categories" : {
+        "default" : ["iwuni_glitchclothes"],
+        "apex" : ["iwuni_glitchclothes"]
+      },
+      "buyFactorRange" : [ 0.9, 1.2 ],
+      "sellFactorRange" : [ 0.2, 0.2 ],
+      "numItems" : 12,
+      "paneLayoutOverride" : {
+        "windowtitle" : {
+          "title" : "  Tailor",
+          "subtitle" : "  ^#b9b5b2;Only the best clothes for you!"
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "glitch" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "iwunidrobe_glitchhat4a", "parameters" : { "colorIndex" : 5 } },
+              { "name" : "iwunidrobe_glitchhat6", "parameters" : { "colorIndex" : 5 } }, 
+              { "name" : "iwunidrobe_glitchhat7", "parameters" : { "colorIndex" : 5 } }, 
+              { "name" : "iwunidrobe_glitchhat7b", "parameters" : { "colorIndex" : 5 } },
+              { "name" : "iwunidrobe_glitchhat7a", "parameters" : { "colorIndex" : 5 } },
+              { "name" : "iwunidrobe_glitchhat8", "parameters" : { "colorIndex" : 5 } },
+              { "name" : "iwunidrobe_glitchhat10a", "parameters" : { "colorIndex" : 5 } },
+              { "name" : "iwunidrobe_glitchhat3a", "parameters" : { "colorIndex" : 5 } },
+              { "name" : "gnomecaphead", "parameters" : { "colorIndex" : 5 } },
+              { "name" : "jesterhead", "parameters" : { "colorIndex" : 5 } },
+              { "name" : "phrygiancaphead", "parameters" : { "colorIndex" : 5 } },
+              { "name" : "plainhoodhead", "parameters" : { "colorIndex" : 5 } }
+            ],
+            "back" : [
+              { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "wizardback", "parameters" : { "colorIndex" : 0 } }, 
+              { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
+            ],
+            "chest" : [
+              { "name" : "iwunidrobe_minstrelchest", "parameters" : { "colorIndex" : 5 } }
+            ],
+            "legs" : [
+              { "name" : "iwunidrobe_minstrelpants", "parameters" : { "colorIndex" : 5 } }
+            ]
+          },
+          {
+            "head" : [
+              { "name" : "wizardhead", "parameters" : { "colorIndex" : [5,8] } },
+              { "name" : "iwunidrobe_glitchhat11", "parameters" : { "colorIndex" : [0,5] } }, 
+              { "name" : "iwunidrobe_glitchhat11a", "parameters" : { "colorIndex" : [0,5] } }
+            ],
+            "back" : [
+              { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "wizardback", "parameters" : { "colorIndex" : 0 } }, 
+              { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
+            ],
+            "chest" : [
+              { "name" : "wizardchest", "parameters" : { "colorIndex" : 5 } }
+            ],
+            "legs" : [
+              { "name" : "wizardlegs", "parameters" : { "colorIndex" : 5 } }
+            ]
+          },
+          {
+            "head" : [
+              { "name" : "wizardhead", "parameters" : { "colorIndex" : [5,8] } },
+              { "name" : "iwunidrobe_glitchhat11", "parameters" : { "colorIndex" : [0,5] } }, 
+              { "name" : "iwunidrobe_glitchhat11a", "parameters" : { "colorIndex" : [0,5] } },
+              { "name" : "plaguemasterhead", "parameters" : { "colorIndex" : [1,5] } }
+            ],
+            "back" : [
+              { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "wizardback", "parameters" : { "colorIndex" : 0 } }, 
+              { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
+            ],
+            "chest" : [
+              { "name" : "wizardchest", "parameters" : { "colorIndex" : 5 } },
+              { "name" : "iwunidrobe_monkchest", "parameters" : { "colorIndex" : 5 } }
+            ],
+            "legs" : [
+              { "name" : "wizardlegs", "parameters" : { "colorIndex" : 5 } },
+              { "name" : "iwunidrobe_monkpants", "parameters" : { "colorIndex" : 5 } }
+            ]
+          }
+      ]]
+    ]
+  }
+}
+

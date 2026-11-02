@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "For when you need to watch far-away distances.",
-  "shortdescription" : "Onlooker Helmet",
+  "shortdescription" : "^#ffe287;Onlooker Helmet^reset;",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

@@ -54,7 +54,9 @@
     [0, {
       "pool" : [
         {"weight" : 0.0003, "item" : [ "iwunidrobe_lurkerbox", 1]},
-        {"weight" : 0.0003, "item" : [ "iwunidrobe_overgrownbox", 1]}
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_overgrownbox", 1]},
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_hemiparasitebox", 1]},
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_barkplatebox", 1]}
       ],
       "poolRounds" : [
         [1, 1]
@@ -65,7 +67,7 @@
   "iwunidrobe_apexcustomeboxes" : [
     [0, {
       "pool" : [
-        {"weight" : 0.0003, "item" : [ "iwunidrobe_novakidstuffbox", 1]}
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_ambusherbox", 1]}
       ],
       "poolRounds" : [
         [1, 1]
@@ -87,7 +89,7 @@
   "iwunidrobe_aviancustomeboxes" : [
     [0, {
       "pool" : [
-        {"weight" : 0.0003, "item" : [ "iwunidrobe_novakidstuffbox", 1]}
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_renegadebox", 1]}
       ],
       "poolRounds" : [
         [1, 1]
@@ -98,7 +100,7 @@
   "iwunidrobe_glitchcustomeboxes" : [
     [0, {
       "pool" : [
-        {"weight" : 0.0003, "item" : [ "iwunidrobe_novakidstuffbox", 1]}
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_roguebox", 1]}
       ],
       "poolRounds" : [
         [1, 1]

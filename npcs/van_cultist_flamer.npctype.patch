@@ -1,0 +1,162 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/head"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_cultisthead3",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_cultisthead8",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_cultisthead9",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_cultisthead12",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_cultistarmor3head",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_cultistarmor4head",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/chest/0/name",
+      "value": "cultistchest"
+    },
+    {
+      "op": "replace",
+      "path": "/items/override/0/1/0/chest/0/name",
+      "value": "iwunidrobe_cultistarmor3chest"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/chest"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_cultistarmor3achest",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_cultistarmor3bchest",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_cultistarmor4chest",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_cultistarmor4achest",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_cultistarmor4bchest",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/legs"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_cultistarmor3pants",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_cultistarmor4pants",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    }
+  ]
+]

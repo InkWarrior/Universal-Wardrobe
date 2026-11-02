@@ -1,264 +1,466 @@
 [
-    [
-        {
-            "op": "test",
-            "path": "/dropPools"
-        },
-        {
-            "op": "add",
-            "path": "/dropPools/-",
-            "value": "iwunidrobe_floranthreatBaseTreasure"
+  [
+    {
+      "op": "test",
+      "path": "/dropPools"
+    },
+    {
+      "op": "add",
+      "path": "/dropPools/-",
+      "value": "iwunidrobe_floranthreatBaseTreasure"
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "sabertoothhelm"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "goathead"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "alienskullhead"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_skulldeadbeathead"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_skullagaranhead"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_lurkeralthead",
+        "parameters": {
+          "colorIndex": [
+            4,
+            7,
+            11
+          ]
         }
-    ],
-    [
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "sabertoothhelm"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "goathead"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "alienskullhead"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_skulldeadbeathead"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_skullagaranhead"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_lurkeralthead",
-                "parameters": {
-                   "colorIndex": [
-                     4,
-                     7,
-                     11
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_lurkerhead",
-                "parameters": {
-                   "colorIndex": [
-                     4,
-                     7,
-                     11
-                    ]
-                }
-            }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_lurkerhead",
+        "parameters": {
+          "colorIndex": [
+            4,
+            7,
+            11
+          ]
         }
-    ],
-    [
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_ribwoollychest"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_ribwoollyachest"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_ribwoollybchest"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_ribstrapschest"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_ribstrapsachest"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_ribstrapsbchest"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_ribpeltchest"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_ribpeltachest"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_ribpeltbchest"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_ribleafchest"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_ribleafachest"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_ribleafbchest"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_ribhunterchest"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_ribhunterachest"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_ribhunterbchest"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_ribfurnivourchest"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_ribfurnivourachest"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_ribfurnivourbchest"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_lurkeraltchest",
-                "parameters": {
-                   "colorIndex": [
-                     4,
-                     7,
-                     11
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_lurkerchest",
-                "parameters": {
-                   "colorIndex": [
-                     4,
-                     7,
-                     11
-                    ]
-                }
-            }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_hemiparasitehead",
+        "parameters": {
+          "colorIndex": [
+            4,
+            7,
+            11
+          ]
         }
-    ],
-    [
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/legs/-",
-            "value": {
-                "name": "iwunidrobe_lurkeraltlegs",
-                "parameters": {
-                   "colorIndex": [
-                     4,
-                     7,
-                     11
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/legs/-",
-            "value": {
-                "name": "iwunidrobe_lurkerpants",
-                "parameters": {
-                   "colorIndex": [
-                     4,
-                     7,
-                     11
-                    ]
-                }
-            }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_floranbandithead5",
+        "parameters": {
+          "colorIndex": [
+            4,
+            7,
+            11
+          ]
         }
-    ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_floranbandithead6",
+        "parameters": {
+          "colorIndex": [
+            4,
+            7,
+            11
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_floranbandithead7",
+        "parameters": {
+          "colorIndex": [
+            4,
+            7,
+            11
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_floranbandithead8",
+        "parameters": {
+          "colorIndex": [
+            4,
+            7,
+            11
+          ]
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_ribwoollychest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_ribwoollyachest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_ribwoollybchest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_ribstrapschest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_ribstrapsachest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_ribstrapsbchest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_ribpeltchest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_ribpeltachest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_ribpeltbchest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_ribleafchest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_ribleafachest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_ribleafbchest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_ribhunterchest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_ribhunterachest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_ribhunterbchest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_ribfurnivourchest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_ribfurnivourachest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_ribfurnivourbchest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_lurkeraltchest",
+        "parameters": {
+          "colorIndex": [
+            4,
+            7,
+            11
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_lurkerchest",
+        "parameters": {
+          "colorIndex": [
+            4,
+            7,
+            11
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_hemiparasitechest",
+        "parameters": {
+          "colorIndex": [
+            4,
+            7,
+            11
+          ]
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_lurkeraltlegs",
+        "parameters": {
+          "colorIndex": [
+            4,
+            7,
+            11
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_lurkerpants",
+        "parameters": {
+          "colorIndex": [
+            4,
+            7,
+            11
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_hemiparasitepants",
+        "parameters": {
+          "colorIndex": [
+            4,
+            7,
+            11
+          ]
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/back"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bighamback",
+        "parameters": {
+          "colorIndex": [
+            4,
+            7,
+            11
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bighamaltback",
+        "parameters": {
+          "colorIndex": [
+            4,
+            7,
+            11
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_floranbannerback",
+        "parameters": {
+          "colorIndex": [
+            4,
+            7,
+            11
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_glowfruitback",
+        "parameters": {
+          "colorIndex": [
+            4,
+            7,
+            11
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_leafcapeback",
+        "parameters": {
+          "colorIndex": [
+            4,
+            7,
+            11
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_jarplantback",
+        "parameters": {
+          "colorIndex": [
+            4,
+            7,
+            11
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_jarplantaltback",
+        "parameters": {
+          "colorIndex": [
+            4,
+            7,
+            11
+          ]
+        }
+      }
+    }
+  ]
 ]

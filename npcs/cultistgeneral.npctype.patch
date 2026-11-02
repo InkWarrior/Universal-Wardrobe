@@ -344,6 +344,163 @@
     [
         {
             "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_purpurehead"
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_purpurechest"
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_purpurepants"
+                    }
+                ],
+                "back": [
+                    {
+                        "name": "simplecapeback",
+                        "parameters": {
+                            "colorIndex": [
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "oxygentank",
+                        "parameters": {
+                            "colorIndex": [
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "oxygentank",
+                        "parameters": {
+                            "colorIndex": [
+                                2
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_oldbreatheppback"
+                    },
+                    {
+                        "name": "iwunidrobe_oldbreatheppback",
+                        "parameters": {
+                            "colorIndex": [
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_oldradiationeppback",
+                        "parameters": {
+                            "colorIndex": [
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_oldradiationeppback"
+                    },
+                    {
+                        "name": "iwunidrobe_oldcoldeppback",
+                        "parameters": {
+                            "colorIndex": [
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_oldcoldeppback"
+                    },
+                    {
+                        "name": "iwunidrobe_oldheateppback",
+                        "parameters": {
+                            "colorIndex": [
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_oldheateppback"
+                    },
+                    {
+                        "name": "xenonpack",
+                        "parameters": {
+                            "colorIndex": [
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "xenonpack",
+                        "parameters": {
+                            "colorIndex": [
+                                2
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_regularplssback",
+                        "parameters": {
+                            "colorIndex": [
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_regularplssback",
+                        "parameters": {
+                            "colorIndex": [
+                                2
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_mk7outriderback",
+                        "parameters": {
+                            "colorIndex": [
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "armoredcultistback"
+                    }
+                ],
+                "primary": [
+                    "npcpetcapturepod"
+                ],
+                "sheathedprimary": [
+                    "doomcannon",
+                    "chargegun",
+                    "electricrailgun",
+                    "exmachina",
+                    "remotegrenadelauncher",
+                    "spaceplasmarifle",
+                    "raygun",
+                    "evileye",
+                    "gristlegun",
+                    "tentaclegun",
+                    "wormgun"
+                ],
+                "alt": [
+                    "energywhip",
+                    "eyesword",
+                    "npccultistbroadsword"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
             "path": "/statusControllerSettings/stats/maxEnergy",
             "value": {
                 "baseValue": 100

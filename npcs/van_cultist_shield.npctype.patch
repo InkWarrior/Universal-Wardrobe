@@ -1,0 +1,376 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/head"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_banditvisor1cultist"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_banditvisor3cultist"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_banditvisor6cultist"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_banditvisor7cultist"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_cultistvisor1alt"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_cultistvisor2alt"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_cultistvisor3alt"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_cultistvisor4alt"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_cultistvisor5alt"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_cultisthead5"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_cultisthead12"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_cultistvisor1"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_cultistvisor2"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_cultistvisor3"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_cultistvisor4"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_cultistvisor5"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_banditvisor1"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_banditvisor3"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_banditvisor6"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_banditvisor7"
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "alt": [
+          "commonlargeshield"
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_cultistarmor1chest"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor1achest"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor1bchest"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor2chest"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor2achest"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor2bchest"
+          }
+        ],
+        "head": [
+          {
+            "name": "cultisthead"
+          },
+          {
+            "name": "iwunidrobe_cultisthead1"
+          },
+          {
+            "name": "iwunidrobe_cultisthead7"
+          },
+          {
+            "name": "iwunidrobe_cultisthead10"
+          },
+          {
+            "name": "iwunidrobe_cultisthead11"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor1head"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor2head"
+          }
+        ],
+        "legs": [
+          {
+            "name": "cultistlegs"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor1pants"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor2pants"
+          }
+        ],
+        "primary": [
+          "npcpistol",
+          "npcpistol",
+          "npcmachinepistol"
+        ],
+        "sheathedalt": [
+          "commonlargeshield"
+        ],
+        "sheathedprimary": [
+          "npccultistshortsword"
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "alt": [
+          "commonlargeshield"
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_cultistarmor3chest"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor3achest"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor3bchest"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor4chest"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor4achest"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor4bchest"
+          }
+        ],
+        "head": [
+          {
+            "name": "cultisthead"
+          },
+          {
+            "name": "iwunidrobe_cultisthead3"
+          },
+          {
+            "name": "iwunidrobe_cultisthead8"
+          },
+          {
+            "name": "iwunidrobe_cultisthead9"
+          },
+          {
+            "name": "iwunidrobe_cultisthead12"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor3head"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor4head"
+          }
+        ],
+        "legs": [
+          {
+            "name": "cultistlegs"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor3pants"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor4pants"
+          }
+        ],
+        "primary": [
+          "npcpistol",
+          "npcpistol",
+          "npcmachinepistol"
+        ],
+        "sheathedalt": [
+          "commonlargeshield"
+        ],
+        "sheathedprimary": [
+          "npccultistshortsword"
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "alt": [
+          "commonlargeshield"
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_cultistarmor5chest"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor5achest"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor5bchest"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor6chest"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor6achest"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor6bchest"
+          }
+        ],
+        "head": [
+          {
+            "name": "cultisthead"
+          },
+          {
+            "name": "iwunidrobe_cultisthead2"
+          },
+          {
+            "name": "iwunidrobe_cultisthead4"
+          },
+          {
+            "name": "iwunidrobe_cultisthead5"
+          },
+          {
+            "name": "iwunidrobe_cultisthead6"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor5head"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor6head"
+          }
+        ],
+        "legs": [
+          {
+            "name": "cultistlegs"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor5pants"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor6pants"
+          }
+        ],
+        "primary": [
+          "npcpistol",
+          "npcpistol",
+          "npcmachinepistol"
+        ],
+        "sheathedalt": [
+          "commonlargeshield"
+        ],
+        "sheathedprimary": [
+          "npccultistshortsword"
+        ]
+      }
+    }
+  ]
+]

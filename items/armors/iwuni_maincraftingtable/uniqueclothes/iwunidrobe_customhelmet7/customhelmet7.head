@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "A helmet fully made of metal. Cool.",
-  "shortdescription" : "Steel Berserker Helm",
+  "shortdescription" : "^#96cbe7;Steel Berserker Helm^reset;",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "fabric", "count" : 20 },
+    { "item" : "cottonwool", "count" : 2 },
+    { "item" : "leather", "count" : 1 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "iwunidrobe_blacksmithchest", "count" : 1 },
+  "groups" : [ "craftingwheel", "clothes" ]
+}

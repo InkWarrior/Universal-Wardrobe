@@ -1,8 +1,8 @@
 {
   "itemName" : "iwunidrobe_bigglitchpack",
-  "price" : 250,
+  "price" : 2500,
   "inventoryIcon" : "icon.png",
-  "rarity" : "Uncommon",
+  "rarity" : "Rare",
   "category" : "backwear",
   "description" : "A barrel with a lot of stored goods! Do you think the Glitch have salted pork?",
   "shortdescription" : "Merchant's Barrel",

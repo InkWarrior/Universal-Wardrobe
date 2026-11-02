@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_mnkgcaphead", "count" : 1 },
+    { "item" : "iwunidrobe_mnkgglasseshead", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_mnkgcapahead", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_combinedclothes" ]
+}

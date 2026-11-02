@@ -1,10 +1,10 @@
 {
   //Made by Tea-Loving Lad
   "itemName" : "iwunidrobe_minerbackpack",
-  "price" : 100,
+  "price" : 500,
   "inventoryIcon" : "icons.png:back",
   "maxStack" : 1,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "category" : "backwear",
   "description" : "Seems like this backpack has some space for mining equipment.",
   "shortdescription" : "Prospector Backpack",

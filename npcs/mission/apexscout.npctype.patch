@@ -64,6 +64,9 @@
                         "name": "iwunidrobe_mkngvisor"
                     },
                     {
+                        "name": "iwunidrobe_mnkgcapbhead"
+                    },
+                    {
                         "name": "iwunidrobe_mkngheavyhead"
                     }
                 ],
@@ -108,6 +111,9 @@
                 "head": [
                     {
                         "name": "iwunidrobe_mkngvisor"
+                    },
+                    {
+                        "name": "iwunidrobe_mnkgcapbhead"
                     },
                     {
                         "name": "iwunidrobe_mknglighthead"

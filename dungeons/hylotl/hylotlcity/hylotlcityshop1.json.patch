@@ -1,0 +1,30 @@
+[
+  {
+    "op": "add",
+    "path": "/layers/5/objects/-",
+    "value": {
+      "height": 8,
+      "id": 1004,
+      "name": "",
+      "properties": {
+        "npc": "hylotl",
+        "typeName": "iwuni_hylotl_clothingmerchant"
+      },
+      "propertytypes": {
+        "npc": "string",
+        "typeName": "string"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 280,
+      "y": 320
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/nextobjectid",
+    "value": 1005
+  }
+]

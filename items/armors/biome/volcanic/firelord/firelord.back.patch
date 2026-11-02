@@ -8,7 +8,7 @@
     {
       "op": "replace",
       "path": "/colorOptions/0/ffca8a",
-      "value": "fffcc6"
+      "value": "f4988c"
     }
   ],
   [
@@ -20,7 +20,7 @@
     {
       "op": "replace",
       "path": "/colorOptions/0/e0975c",
-      "value": "fff548"
+      "value": "d93a3a"
     }
   ],
   [
@@ -32,7 +32,7 @@
     {
       "op": "replace",
       "path": "/colorOptions/0/a85636",
-      "value": "ffc029"
+      "value": "932625"
     }
   ],
   [
@@ -44,7 +44,7 @@
     {
       "op": "replace",
       "path": "/colorOptions/0/6f2919",
-      "value": "ed6e24"
+      "value": "601119"
     }
   ]
 ]

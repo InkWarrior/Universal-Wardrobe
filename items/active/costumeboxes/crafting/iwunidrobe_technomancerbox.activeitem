@@ -6,7 +6,7 @@
   "rarity" : "Legendary",
   "category" : "iwuniCostumeSet",
   "description" : "With hacking technology so advanced you might as well be a wizard.",
-  "shortdescription" : "Technomancer Armor Case",
+  "shortdescription" : "^#ffe287;Technomancer Armor Case^reset;",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
     "objectImage" : "/interface/iwuni_costumebox/iwuni_technomancerbox.png"

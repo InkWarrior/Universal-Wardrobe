@@ -1,0 +1,94 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "iwunidrobe_oldbreatheppback",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_acolytechest",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_acolytehead",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_acolytepants",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "primary": [
+          {
+            "name": "van_soluskatana"
+          }
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "iwunidrobe_mk7outriderback",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_purpurechest",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_purpurehead",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_purpurepants",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "primary": [
+          {
+            "name": "van_soluskatana"
+          }
+        ]
+      }
+    }
+  ]
+]

@@ -1,0 +1,8 @@
+{
+// For the Customization Desk
+
+  "iwunidrobe_craftingtable1" : {
+    "type" : "tutorial",
+    "text" : "I see that you created a ^orange;Customization Desk^white;! You can customize your clothes and accesories here. More options shall appear as you find more clothes."
+  }
+}

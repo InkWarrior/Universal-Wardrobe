@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "plantfibre", "count" : 15 },
+    { "item" : "leather", "count" : 1 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "iwunidrobe_mossyvestchest", "count" : 1 },
+  "groups" : [ "craftingwheel", "clothes" ]
+}

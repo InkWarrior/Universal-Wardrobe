@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_mnkgbackpack2", "count" : 1 },
+    { "item" : "ironbar", "count" : 3 },
+    { "item" : "wire", "count" : 3 }
+
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_mnkgbackpack3", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}

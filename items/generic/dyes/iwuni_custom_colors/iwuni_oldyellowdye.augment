@@ -7,7 +7,7 @@
   "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
   "shortdescription" : "^#c49675;Old^reset; Yellow Dye",
 
-  "dyeDirectives" : {"ffca8a" : "685157", "e0975c" : "4d353c", "a85636" : "2a1c20", "6f2919" : "12070a"},
+  "dyeDirectives" : {"ffca8a" : "b2a675", "e0975c" : "9f862b", "a85636" : "67571b", "6f2919" : "322a10"},
   "dyeColorIndex": false,
 
   "radioMessagesOnPickup" : [ "pickupdye" ],

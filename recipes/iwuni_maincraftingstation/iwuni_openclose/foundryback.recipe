@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "foundryforemanback", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "foundryback", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_openclosed" ]
+}

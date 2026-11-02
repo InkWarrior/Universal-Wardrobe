@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "What remains of a stone golem's head.",
-  "shortdescription" : "Moss Golem Head",
+  "shortdescription" : "^#dbfc33;Moss Golem Head^reset;",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
@@ -14,7 +14,7 @@
   "mask" : "mask.png",
 
   "colorOptions" : [
-    // DEFAULT - WARGROOVE FLORAN GREEN
+    // DEFAULT - LIVELY GREEN
     { "ffca8a" : "f2d865", "e0975c" : "aacb07", "a85636" : "65900a", "6f2919" : "42670c" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },

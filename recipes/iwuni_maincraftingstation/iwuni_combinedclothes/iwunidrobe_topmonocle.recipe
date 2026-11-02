@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "tophathead", "count" : 1 },
+    { "item" : "glasses2head", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_topmonocle", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_combinedclothes" ]
+}

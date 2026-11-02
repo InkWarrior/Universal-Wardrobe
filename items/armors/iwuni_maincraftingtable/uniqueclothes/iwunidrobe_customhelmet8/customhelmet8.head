@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "Makes you feel like inside a videogame! But you aren't, just to be clear.",
-  "shortdescription" : "Starfighter Helmet",
+  "shortdescription" : "^#96cbe7;Starfighter Helmet^reset;",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

@@ -1,8 +1,8 @@
 {
   "itemName" : "iwunidrobe_bighylotlpack",
-  "price" : 250,
+  "price" : 2500,
   "inventoryIcon" : "icon.png",
-  "rarity" : "Uncommon",
+  "rarity" : "Rare",
   "category" : "backwear",
   "description" : "A bunch of baskets and goods tied together to a stick. Very handy!",
   "shortdescription" : "Merchant's Wares",

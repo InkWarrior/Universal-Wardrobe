@@ -1,0 +1,120 @@
+{
+  "type" : "iwuni_apexguerilla",
+  "baseType" : "hostile",
+
+  "dropPools" : [ "money", "iwunidrobe_apexthreatBaseTreasure" ],
+
+  "scriptConfig" : {
+    "dialog" : {
+      "attack" : {
+        "default" : {
+          "default" : [
+            "Intruder!"
+          ]
+        },
+        "apex" : {
+          "default" : [
+            "Get them!",
+            "An interloper! Kill them!",
+            "Don't interfere in our business",
+            "We'll fight for our freedom!",
+            "It has to be a Big Ape agent, get them!",
+            "An infiltrator!",
+            "You won't take me!"
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              "",
+              { "name" : "medichead", "parameters" : { "colorIndex" : [0] } }, 
+              { "name" : "eyepatchhead", "parameters" : { "colorIndex" : [1] } },
+              { "name" : "berethead", "parameters" : { "colorIndex" : [1] } },
+              { "name" : "captainshead", "parameters" : { "colorIndex" : [1,2] } },
+              { "name" : "apextier5mhead", "parameters" : { "colorIndex" : [1,2] } },
+              { "name" : "apextier5shead", "parameters" : { "colorIndex" : [1,2,3,4,11] } },
+              { "name" : "iwunidrobe_rebeldothood", "parameters" : { "colorIndex" : [1,2,4,11] } },
+              { "name" : "iwunidrobe_coldcoverup", "parameters" : { "colorIndex" : [1,2,11] } },
+              { "name" : "iwunidrobe_mnkgcaphead", "parameters" : { "colorIndex" : [1,2,11] } },
+              { "name" : "iwunidrobe_apexrebeldhat1", "parameters" : { "colorIndex" : [0,1,2,4,11] } },
+              { "name" : "iwunidrobe_apexrebeldhat1a", "parameters" : { "colorIndex" : [0,1,2,4,11] } },
+              { "name" : "iwunidrobe_apexrebeldhat2", "parameters" : { "colorIndex" : [0,1,2,4,11] } },
+              { "name" : "iwunidrobe_apexrebeldhat2a", "parameters" : { "colorIndex" : [0,1,2,4,11] } },
+              { "name" : "iwunidrobe_apexrebeldhat3", "parameters" : { "colorIndex" : [0,1,2,4,11] } },
+              { "name" : "iwunidrobe_apexrebeldhat3a", "parameters" : { "colorIndex" : [0,1,2,4,11] } },
+              { "name" : "iwunidrobe_apexrebeldhat4", "parameters" : { "colorIndex" : [0,1,2,4,11] } },
+              { "name" : "iwunidrobe_apexrebeldhat4a", "parameters" : { "colorIndex" : [0,1,2,4,11] } },
+              { "name" : "iwunidrobe_apexrebeldhat5", "parameters" : { "colorIndex" : [0,1,2,4,11] } },
+              { "name" : "iwunidrobe_apexrebeldhat5a", "parameters" : { "colorIndex" : [0,1,2,4,11] } }
+            ],
+            "chest" : [
+              { "name" : "medicchest", "parameters" : { "colorIndex" : [0,2,11] } },
+              { "name" : "apextier4chest", "parameters" : { "colorIndex" : [0,2,11] } }
+            ],
+            "legs" : [
+              { "name" : "mediclegs", "parameters" : { "colorIndex" : [0,2,11] } },
+              { "name" : "apextier4pants", "parameters" : { "colorIndex" : [0,2,11] } }
+            ],
+            "back" : [
+              { "name" : "survivalgearback", "parameters" : { "colorIndex" : [11] } },
+              { "name" : "foundryforemanback", "parameters" : { "colorIndex" : [0,1,2,11] } },
+              { "name" : "iwunidrobe_haversack1back", "parameters" : { "colorIndex" : [0,1,2,11] } },
+              { "name" : "iwunidrobe_radiobackpack", "parameters" : { "colorIndex" : [0,1,2,11] } },
+              { "name" : "iwunidrobe_rucksack1back", "parameters" : { "colorIndex" : [0,1,2,11] } },
+			  "",
+			  "",
+			  "",
+			  "",
+			  ""
+            ],
+            "primary" : [
+              "npcassaultrifle",
+              "npcpistol",
+              "npcmachinepistol",
+              "npcshotgun",
+              "npcsniperrifle"
+            ]
+          },
+          {
+            "head" : [
+              "",
+              { "name" : "iwunidrobe_ambusherhead", "parameters" : { "colorIndex" : [1,4,5,8] } }
+            ],
+            "chest" : [
+              { "name" : "iwunidrobe_ambusherchest", "parameters" : { "colorIndex" : [0,2,11] } }
+            ],
+            "legs" : [
+              { "name" : "iwunidrobe_ambusherpants", "parameters" : { "colorIndex" : [0,2,11] } }
+            ],
+            "back" : [
+              { "name" : "survivalgearback", "parameters" : { "colorIndex" : [11] } },
+              { "name" : "foundryforemanback", "parameters" : { "colorIndex" : [0,1,2,11] } },
+              { "name" : "iwunidrobe_haversack1back", "parameters" : { "colorIndex" : [0,1,2,11] } },
+              { "name" : "iwunidrobe_radiobackpack", "parameters" : { "colorIndex" : [0,1,2,11] } },
+              { "name" : "iwunidrobe_rucksack1back", "parameters" : { "colorIndex" : [0,1,2,11] } },
+			  "",
+			  "",
+			  "",
+			  "",
+			  ""
+            ],
+            "primary" : [
+              "npcdagger",
+              "npcshortsword",
+              "npcassaultrifle",
+              "npcpistol",
+              "npcmachinepistol",
+              "npcshotgun",
+              "npcsniperrifle"
+            ]
+          }
+        ] ]
+    ]
+  }
+}

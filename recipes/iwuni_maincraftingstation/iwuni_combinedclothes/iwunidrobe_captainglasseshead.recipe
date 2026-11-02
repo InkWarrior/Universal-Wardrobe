@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "captainshead", "count" : 1 },
+    { "item" : "sunglasses1head", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_captainglasseshead", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_combinedclothes" ]
+}

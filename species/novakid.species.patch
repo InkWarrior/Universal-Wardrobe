@@ -36,6 +36,20 @@
       "op": "add",
       "path": "/defaultBlueprints/tier1/-",
       "value": {
+        "item": "iwunidrobe_blacksmithchest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_blacksmithpants"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
         "item": "iwunidrobe_novahat1alt"
       }
     },
@@ -89,6 +103,11 @@
       "op": "add",
       "path": "/genders/0/shirt/-",
       "value": "iwunidrobe_farmerchest"
+    },
+    {
+      "op": "add",
+      "path": "/genders/0/shirt/-",
+      "value": "iwunidrobe_blacksmithchest"
     }
   ],
   [
@@ -105,6 +124,11 @@
       "op": "add",
       "path": "/genders/0/pants/-",
       "value": "iwunidrobe_farmerpants"
+    },
+    {
+      "op": "add",
+      "path": "/genders/0/pants/-",
+      "value": "iwunidrobe_blacksmithpants"
     }
   ],
   [
@@ -121,6 +145,11 @@
       "op": "add",
       "path": "/genders/1/shirt/-",
       "value": "iwunidrobe_farmerchest"
+    },
+    {
+      "op": "add",
+      "path": "/genders/1/shirt/-",
+      "value": "iwunidrobe_blacksmithchest"
     }
   ],
   [
@@ -137,6 +166,11 @@
       "op": "add",
       "path": "/genders/1/pants/-",
       "value": "iwunidrobe_farmerpants"
+    },
+    {
+      "op": "add",
+      "path": "/genders/1/pants/-",
+      "value": "iwunidrobe_blacksmithpants"
     }
   ]
 ]

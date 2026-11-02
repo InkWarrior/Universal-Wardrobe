@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_roguebox",
+  "price" : 500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "A bunch of tattered clothes, used by Glitch thieves.",
+  "shortdescription" : "Rogue Set",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_roguebox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "rogueicon.png",
+  "animation" : "iwunidrobe_glitchbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_rogueboxloot",
+    "level" : 1
+  }
+}

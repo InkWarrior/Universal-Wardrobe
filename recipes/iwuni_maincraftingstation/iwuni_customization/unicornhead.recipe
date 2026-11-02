@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "horsehead", "count" : 1 },
+    { "item" : "prisiliteore", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "unicornhead", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}

@@ -6,7 +6,7 @@
   "rarity" : "Legendary",
   "category" : "iwuniCostumeSet",
   "description" : "The ideal set for people who want to feel safe and express their artistic side all at once.",
-  "shortdescription" : "IronClad Armor Case",
+  "shortdescription" : "^#ffe287;IronClad Armor Case^reset;",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
     "objectImage" : "/interface/iwuni_costumebox/iwuni_ironcladbox.png"

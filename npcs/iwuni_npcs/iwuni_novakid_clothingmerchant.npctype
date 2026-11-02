@@ -1,0 +1,108 @@
+{
+  "type" : "iwuni_novakid_clothingmerchant",
+  "baseType" : "merchant",
+  "displayTitle" : "Cordwainer",
+  
+  "scriptConfig" : {
+    "merchant" : {
+      "waitTime" : 40,
+      "storeRadius" : -1,
+      "poolsFile" : "/npcs/merchantpools.config",
+      "categories" : {
+        "default" : ["iwuni_novakidclothes"],
+        "novakid" : ["iwuni_novakidclothes"]
+      },
+      "buyFactorRange" : [ 0.9, 1.2 ],
+      "sellFactorRange" : [ 0.2, 0.2 ],
+      "numItems" : 12,
+      "paneLayoutOverride" : {
+        "windowtitle" : {
+          "title" : "  Cordwainer",
+          "subtitle" : "  ^#b9b5b2;Only the best clothes for you!"
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "novakid" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "iwunidrobe_wheatstem", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "iwunidrobe_novahat1", "parameters" : { "colorIndex" : 11 } }, 
+              { "name" : "iwunidrobe_novahat2", "parameters" : { "colorIndex" : 11 } }, 
+              { "name" : "iwunidrobe_novahat3", "parameters" : { "colorIndex" : 11 } },
+              { "name" : "iwunidrobe_trapperheada", "parameters" : { "colorIndex" : 11 } },
+              { "name" : "cowboyhead", "parameters" : { "colorIndex" : 11 } },
+              { "name" : "novatier1head", "parameters" : { "colorIndex" : 11 } }
+            ],
+            "back" : [
+              { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "boilerback", "parameters" : { "colorIndex" : 0 } }, 
+              { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
+            ],
+            "chest" : [
+              { "name" : "iwunidrobe_diggerchest", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "iwunidrobe_dustychest", "parameters" : { "colorIndex" : 11 } },
+              { "name" : "novatier5achest", "parameters" : { "colorIndex" : 11 } }
+            ],
+            "legs" : [
+              { "name" : "iwunidrobe_diggerpants", "parameters" : { "colorIndex" : 11 } }
+            ]
+          },
+          {
+            "head" : [
+              { "name" : "iwunidrobe_novahat2", "parameters" : { "colorIndex" : 1 } }, 
+              { "name" : "iwunidrobe_novakidmerchanthead", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "clocktophathead", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "tophathead", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "toptophathead", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "hottophathead", "parameters" : { "colorIndex" : 1 } }
+            ],
+            "back" : [
+              { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "boilerback", "parameters" : { "colorIndex" : 0 } }, 
+              { "name" : "moneybagsback", "parameters" : { "colorIndex" : 1 } }, 
+              { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
+            ],
+            "chest" : [
+              { "name" : "moneybagschest", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "neckruffle", "parameters" : { "colorIndex" : 1 } }
+            ],
+            "legs" : [
+              { "name" : "moneybagspants", "parameters" : { "colorIndex" : 1 } }
+            ]
+          },
+          {
+            "head" : [
+              { "name" : "iwunidrobe_wheatstem", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "iwunidrobe_novahat4", "parameters" : { "colorIndex" : 11 } }, 
+              { "name" : "iwunidrobe_novahat5", "parameters" : { "colorIndex" : 4 } }, 
+              { "name" : "iwunidrobe_novahat6alt", "parameters" : { "colorIndex" : 11 } },
+              { "name" : "iwunidrobe_trapperheada", "parameters" : { "colorIndex" : 11 } },
+              { "name" : "iwunidrobe_prospectorhead", "parameters" : { "colorIndex" : 11 } }
+            ],
+            "back" : [
+              { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "boilerback", "parameters" : { "colorIndex" : 0 } }, 
+              { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
+            ],
+            "chest" : [
+              { "name" : "iwunidrobe_prospectorchest", "parameters" : { "colorIndex" : 11 } }
+            ],
+            "legs" : [
+              { "name" : "iwunidrobe_prospectorpants", "parameters" : { "colorIndex" : 11 } }
+            ]
+          }
+      ]]
+    ]
+  }
+}
+

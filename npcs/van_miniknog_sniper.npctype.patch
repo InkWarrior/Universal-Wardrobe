@@ -1,0 +1,59 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/back",
+      "inverse": true
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back",
+      "value": [
+        {
+          "name": "iwunidrobe_mnkgbackpack2"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "iwunidrobe_mnkgbackpack2"
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_mknglightchest",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_mnkgassassinhead"
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_mknglightpants",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "primary": [
+          "npcsniperriflelongrange"
+        ]
+      }
+    }
+  ]
+]

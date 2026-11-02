@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "This piece of log has grown to become something resembling a head.",
-  "shortdescription" : "Haunted Loghead",
+  "shortdescription" : "^#dbfc33;Haunted Loghead^reset;",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
@@ -14,7 +14,7 @@
   "mask" : "mask.png",
 
   "colorOptions" : [
-    // DEFAULT - LIVELY WOOD
+    // DEFAULT - LIVELY BROWN
     { "ffca8a" : "d09858", "e0975c" : "b06c36", "a85636" : "834c27", "6f2919" : "5c2119" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },

@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_hemiparasitebox",
+  "price" : 500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "An evergrowing hemiparasitic plant, can be worn as armor.",
+  "shortdescription" : "Hemiparasite Set",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_hemiparasitebox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "hemiparasiteicon.png",
+  "animation" : "iwunidrobe_floranbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_hemiparasiteboxloot",
+    "level" : 1
+  }
+}

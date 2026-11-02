@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "deadbeathornhelmhead", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "deadbeathelmhead", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}

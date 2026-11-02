@@ -6,7 +6,7 @@
   "rarity" : "Legendary",
   "category" : "iwuniCostumeSet",
   "description" : "An armor case with a functional HazEnv suit inside.",
-  "shortdescription" : "Corporate Researcher Set",
+  "shortdescription" : "^#96cbe7;Corporate Researcher Set^reset;",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
     "objectImage" : "/interface/iwuni_costumebox/iwuni_corporesearcherbox.png"

@@ -13,19 +13,28 @@
     ],
     [
         {
+            "op": "test",
+            "path": "/items/override/0/1/0/head"
+        },
+        {
             "op": "add",
             "path": "/items/override/0/1/0/head/-",
             "value": {
                 "name": "iwunidrobe_mknglighthead"
             }
-        }
-    ],
-    [
+        },
         {
             "op": "add",
             "path": "/items/override/0/1/0/head/-",
             "value": {
                 "name": "iwunidrobe_mnkgcaphead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_mnkgcapahead"
             }
         }
     ],
@@ -70,6 +79,9 @@
                 "head": [
                     {
                         "name": "iwunidrobe_mnkgglasseshead"
+                    },
+                    {
+                        "name": "iwunidrobe_mnkgcapahead"
                     },
                     {
                         "name": "iwunidrobe_mknglighthead"

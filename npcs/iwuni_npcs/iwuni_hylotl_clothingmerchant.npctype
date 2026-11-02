@@ -1,0 +1,83 @@
+{
+  "type" : "iwuni_hylotl_clothingmerchant",
+  "baseType" : "merchant",
+  "displayTitle" : "Seamster",
+  
+  "scriptConfig" : {
+    "merchant" : {
+      "waitTime" : 40,
+      "storeRadius" : -1,
+      "poolsFile" : "/npcs/merchantpools.config",
+      "categories" : {
+        "default" : ["iwuni_hylotlclothes"],
+        "hylotl" : ["iwuni_hylotlclothes"]
+      },
+      "buyFactorRange" : [ 0.9, 1.2 ],
+      "sellFactorRange" : [ 0.2, 0.2 ],
+      "numItems" : 12,
+      "paneLayoutOverride" : {
+        "windowtitle" : {
+          "title" : "  Seamster",
+          "subtitle" : "  ^#b9b5b2;Only the best clothes for you!"
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "hylotl" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "iwunidrobe_hylotlmerchanthead", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "iwunidrobe_hylotlhat1", "parameters" : { "colorIndex" : 0 } }, 
+              { "name" : "iwunidrobe_hylotlhat2", "parameters" : { "colorIndex" : 0 } }, 
+              { "name" : "iwunidrobe_hylotlhat3", "parameters" : { "colorIndex" : 8 } },
+              { "name" : "iwunidrobe_hylotlhat5", "parameters" : { "colorIndex" : 8 } },
+              { "name" : "iwunidrobe_fablemask", "parameters" : { "colorIndex" : 8 } },
+              { "name" : "glasses3eyes", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "back" : [
+              { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, 
+              { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
+            ],
+            "chest" : [
+              { "name" : "iwunidrobe_calligrapherchest", "parameters" : { "colorIndex" : 8 } }
+            ],
+            "legs" : [
+              { "name" : "iwunidrobe_calligrapherlegs", "parameters" : { "colorIndex" : 8 } }
+            ]
+          },
+          {
+            "head" : [
+              { "name" : "iwunidrobe_hylotlmerchanthead", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "iwunidrobe_hylotlhat1", "parameters" : { "colorIndex" : 0 } }, 
+              { "name" : "iwunidrobe_hylotlhat2", "parameters" : { "colorIndex" : 0 } }, 
+              { "name" : "iwunidrobe_hylotlhat3", "parameters" : { "colorIndex" : 8 } },
+              { "name" : "iwunidrobe_hylotlhat5", "parameters" : { "colorIndex" : 8 } },
+              { "name" : "iwunidrobe_fablemask", "parameters" : { "colorIndex" : 8 } },
+              { "name" : "glasses3eyes", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "thinkingcaphead", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "back" : [
+              { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, 
+              { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
+            ],
+            "chest" : [
+              { "name" : "smartchest", "parameters" : { "colorIndex" : 8 } }
+            ],
+            "legs" : [
+              { "name" : "smartpants", "parameters" : { "colorIndex" : 8 } }
+            ]
+          }
+      ]]
+    ]
+  }
+}
+

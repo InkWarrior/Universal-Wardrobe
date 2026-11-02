@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "Sail the endless starry oceans, safely!",
-  "shortdescription" : "Steersman Helmet",
+  "shortdescription" : "^#ffe287;Steersman Helmet^reset;",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

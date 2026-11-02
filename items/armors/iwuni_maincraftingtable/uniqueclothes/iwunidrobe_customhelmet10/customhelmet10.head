@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "This mask, made of plants and wood, feels like a living thing.",
-  "shortdescription" : "Dryad Visage",
+  "shortdescription" : "^#dbfc33;Dryad Visage^reset;",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

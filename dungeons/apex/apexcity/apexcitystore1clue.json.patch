@@ -1,0 +1,30 @@
+[
+  {
+    "op": "add",
+    "path": "/layers/5/objects/-",
+    "value": {
+      "height": 8,
+      "id": 1005,
+      "name": "",
+      "properties": {
+        "npc": "apex",
+        "typeName": "iwuni_apex_clothingmerchant"
+      },
+      "propertytypes": {
+        "npc": "string",
+        "typeName": "string"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 168,
+      "y": 288
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/nextobjectid",
+    "value": 1006
+  }
+]

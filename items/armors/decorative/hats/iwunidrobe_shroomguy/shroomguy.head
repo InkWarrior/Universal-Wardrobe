@@ -14,8 +14,8 @@
   "mask" : "mask.png",
   
   "colorOptions" : [
-    // DEFAULT - LIVELY WOOD
-    { "ffca8a" : "d09858", "e0975c" : "b06c36", "a85636" : "834c27", "6f2919" : "5c2119" },
+    // DEFAULT - BONE
+    { "ffca8a" : "e7dfbd", "e0975c" : "bcad80", "a85636" : "8d7b58", "6f2919" : "5d4f34" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

@@ -17,6 +17,13 @@
             "value": {
                 "name": "iwunidrobe_mkngvisor"
             }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_mnkgglasseshead"
+            }
         }
     ]
 ]

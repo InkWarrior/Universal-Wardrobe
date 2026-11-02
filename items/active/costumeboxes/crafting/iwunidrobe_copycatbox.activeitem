@@ -6,7 +6,7 @@
   "rarity" : "Legendary",
   "category" : "iwuniCostumeSet",
   "description" : "A copy of a copy of a copy of a copy of...",
-  "shortdescription" : "Copycat Set",
+  "shortdescription" : "^#dbfc33;Copycat Set^reset;",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
     "objectImage" : "/interface/iwuni_costumebox/iwuni_copycatbox.png"

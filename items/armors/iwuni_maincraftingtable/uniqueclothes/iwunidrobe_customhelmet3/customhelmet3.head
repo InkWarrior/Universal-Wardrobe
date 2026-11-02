@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "It reminds you of a videogame you've played...",
-  "shortdescription" : "Respirator Helmet",
+  "shortdescription" : "^#ffe287;Respirator Helmet^reset;",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

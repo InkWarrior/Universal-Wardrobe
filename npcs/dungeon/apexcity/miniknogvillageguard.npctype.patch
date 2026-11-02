@@ -52,6 +52,9 @@
                         "name": "iwunidrobe_mkngvisor"
                     },
                     {
+                        "name": "iwunidrobe_mnkgcapbhead"
+                    },
+                    {
                         "name": "iwunidrobe_mkngheavyhead"
                     }
                 ],
@@ -91,6 +94,9 @@
                 "head": [
                     {
                         "name": "iwunidrobe_mkngvisor"
+                    },
+                    {
+                        "name": "iwunidrobe_mnkgcapbhead"
                     },
                     {
                         "name": "iwunidrobe_mknglighthead"
@@ -140,6 +146,12 @@
                     },
                     {
                         "name": "iwunidrobe_mnkgcaphead"
+                    },
+                    {
+                        "name": "iwunidrobe_mnkgcapahead"
+                    },
+                    {
+                        "name": "iwunidrobe_mnkgcapbhead"
                     }
                 ],
                 "chest": [
@@ -186,6 +198,12 @@
                     },
                     {
                         "name": "iwunidrobe_mnkgcaphead"
+                    },
+                    {
+                        "name": "iwunidrobe_mnkgcapahead"
+                    },
+                    {
+                        "name": "iwunidrobe_mnkgcapbhead"
                     }
                 ],
                 "chest": [

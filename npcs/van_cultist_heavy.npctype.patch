@@ -1,0 +1,184 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/head"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_cultistvisor1alt",
+        "parameters": {
+          "colorIndex": 6
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_cultistvisor2alt",
+        "parameters": {
+          "colorIndex": 6
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "chest": [
+          {
+            "name": "iwunidrobe_cultistarmor5chest",
+            "parameters": {
+              "colorIndex": 6
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_cultistarmor5head",
+            "parameters": {
+              "colorIndex": 6
+            }
+          },
+          {
+            "name": "iwunidrobe_cultisthead2",
+            "parameters": {
+              "colorIndex": 6
+            }
+          },
+          {
+            "name": "iwunidrobe_cultisthead5",
+            "parameters": {
+              "colorIndex": 6
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "armoredcultistlegs",
+            "parameters": {
+              "colorIndex": 6
+            }
+          }
+        ],
+        "primary": [
+          "npccultistbroadsword"
+        ],
+        "sheathedprimary": [
+          "npcshotgun",
+          "npcshotgun",
+          "npcrocketlauncher"
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "chest": [
+          {
+            "name": "iwunidrobe_cultistarmor4chest",
+            "parameters": {
+              "colorIndex": 6
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_cultistarmor4head",
+            "parameters": {
+              "colorIndex": 6
+            }
+          },
+          {
+            "name": "iwunidrobe_cultisthead3",
+            "parameters": {
+              "colorIndex": 6
+            }
+          },
+          {
+            "name": "iwunidrobe_cultisthead9",
+            "parameters": {
+              "colorIndex": 6
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "armoredcultistlegs",
+            "parameters": {
+              "colorIndex": 6
+            }
+          }
+        ],
+        "primary": [
+          "npccultistbroadsword"
+        ],
+        "sheathedprimary": [
+          "npcshotgun",
+          "npcshotgun",
+          "npcrocketlauncher"
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "chest": [
+          {
+            "name": "iwunidrobe_cultistarmor1chest",
+            "parameters": {
+              "colorIndex": 6
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_cultistarmor1head",
+            "parameters": {
+              "colorIndex": 6
+            }
+          },
+          {
+            "name": "iwunidrobe_cultisthead10",
+            "parameters": {
+              "colorIndex": 6
+            }
+          },
+          {
+            "name": "iwunidrobe_cultisthead1",
+            "parameters": {
+              "colorIndex": 6
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "armoredcultistlegs",
+            "parameters": {
+              "colorIndex": 6
+            }
+          }
+        ],
+        "primary": [
+          "npccultistbroadsword"
+        ],
+        "sheathedprimary": [
+          "npcshotgun",
+          "npcshotgun",
+          "npcrocketlauncher"
+        ]
+      }
+    }
+  ]
+]

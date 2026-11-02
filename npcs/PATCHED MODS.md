@@ -139,3 +139,17 @@
 -scp_citymerchant_miner
 -scp_minersguildnpc_base
 -scp_techguildnpc_base
+
+//VANILLA DUNGEONS & ENCOUNTERS
+-van_cultist_assaulter
+-van_cultist_heavy
+-van_cultist_katana
+-van_cultist_rocket
+-van_cultist_shield
+-van_cultist_sniper
+-van_cultist_flamer
+-van_miniknog_sniper
+-van_miniknog
+-van_uscm
+-van_uscm_sniper
+-van_uscm_rocket

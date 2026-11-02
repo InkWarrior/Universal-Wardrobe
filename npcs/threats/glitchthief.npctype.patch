@@ -1,0 +1,72 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/dropPools"
+    },
+    {
+      "op": "add",
+      "path": "/dropPools/-",
+      "value": "iwunidrobe_glitchthreatBaseTreasure"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "raggedcapeback",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_roguechest",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1
+              ]
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_roguehead",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1
+              ]
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_roguepants",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1
+              ]
+            }
+          }
+        ],
+        "primary": [
+          "npcdagger"
+        ],
+        "sheathedprimary": [
+          "npcbow"
+        ]
+      }
+    }
+  ]
+]

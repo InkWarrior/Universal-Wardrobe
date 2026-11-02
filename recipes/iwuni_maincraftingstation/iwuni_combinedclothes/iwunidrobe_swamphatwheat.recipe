@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "swamphat", "count" : 1 },
+    { "item" : "iwunidrobe_wheatstem", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_swamphatwheat", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_combinedclothes" ]
+}

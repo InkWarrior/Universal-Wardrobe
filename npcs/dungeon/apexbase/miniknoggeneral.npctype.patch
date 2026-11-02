@@ -116,6 +116,18 @@
                         "parameters": {
                             "colorIndex": 3
                         }
+                    },
+                    {
+                        "name": "iwunidrobe_mnkgcaptainscap1",
+                        "parameters": {
+                            "colorIndex": 3
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_mnkgcaptainscap2",
+                        "parameters": {
+                            "colorIndex": 3
+                        }
                     }
                 ],
                 "chest": [
@@ -156,6 +168,18 @@
                         "parameters": {
                             "colorIndex": 3
                         }
+                    },
+                    {
+                        "name": "iwunidrobe_mnkgcaptainscap1",
+                        "parameters": {
+                            "colorIndex": 3
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_mnkgcaptainscap2",
+                        "parameters": {
+                            "colorIndex": 3
+                        }
                     }
                 ],
                 "chest": [
@@ -193,6 +217,18 @@
                 "head": [
                     {
                         "name": "captainshead",
+                        "parameters": {
+                            "colorIndex": 3
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_mnkgcaptainscap1",
+                        "parameters": {
+                            "colorIndex": 3
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_mnkgcaptainscap2",
                         "parameters": {
                             "colorIndex": 3
                         }
