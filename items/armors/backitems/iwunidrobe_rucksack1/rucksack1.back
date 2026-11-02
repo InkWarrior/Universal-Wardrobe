@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "backwear",
-  "description" : "A rucksack used by military troops, often used to transport a lot of stuff.",
+  "description" : "A rucksack used by military troops, often used to carry a lot of stuff.",
   "shortdescription" : "Military Rucksack",
   "tooltipKind" : "back",
 

@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Uncommon",
   "category" : "iwuniCostumeSet",
-  "description" : "A set of hunting attire made out of pelt alongside a skull reinforced with bones and leather.",
+  "description" : "A set of hunting attire made out of pelt, alongside a skull reinforced with bones and leather.",
   "shortdescription" : "Armored Lurker Set",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

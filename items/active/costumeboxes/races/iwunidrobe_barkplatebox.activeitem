@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Common",
   "category" : "iwuniCostumeSet",
-  "description" : "A bunch of bark and vines, ready to be made into an armor.",
+  "description" : "A bunch of bark scraps and vines, ready to be made into armor.",
   "shortdescription" : "Barkplate Set",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

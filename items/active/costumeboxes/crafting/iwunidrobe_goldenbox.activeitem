@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Legendary",
   "category" : "iwuniCostumeSet",
-  "description" : "A set of old protective mining armor, seems to be usable!",
+  "description" : "A set of old protective mining gear, seems to be usable!",
   "shortdescription" : "^#ffe287;Golden Armor Case^reset;",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
