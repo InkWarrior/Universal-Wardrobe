@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestwear",
-  "description" : "A poncho made out of leaves, careful with the bugs!",
-  "shortdescription" : "Leaf-woven Poncho",
+  "description" : "A shawl made out of leaves, careful with the bugs!",
+  "shortdescription" : "Leaf-woven Shawl",
   "tooltipKind" : "armor",
   
   "maleFrames" : {

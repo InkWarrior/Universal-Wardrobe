@@ -3,6 +3,6 @@
 
   "iwunidrobe_craftingtable1" : {
     "type" : "tutorial",
-    "text" : "I see that you created a ^orange;Customization Desk^white;! You can customize your clothes and accesories here. More options shall appear as you find more clothes."
+    "text" : "I see that you created a ^orange;Customization Desk^white;! This desk will allow you to customize your clothes and accesories. As you discover more clothes, more customization options will appear."
   }
 }

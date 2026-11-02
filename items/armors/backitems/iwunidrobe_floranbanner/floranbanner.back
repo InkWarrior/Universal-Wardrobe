@@ -13,8 +13,8 @@
   "maxStack" : 1,
   
   "colorOptions" : [
-    // DEFAULT - AEGISALT GREEN
-    { "ffca8a" : "d2e160", "e0975c" : "9bba3e", "a85636" : "48832f", "6f2919" : "1d4c2a" },
+    // DEFAULT - RED
+    { "ffca8a" : "f4988c", "e0975c" : "d93a3a", "a85636" : "932625", "6f2919" : "601119" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

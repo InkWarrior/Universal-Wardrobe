@@ -14,8 +14,8 @@
   "mask" : "mask.png",
 
   "colorOptions" : [
-    // DEFAULT - WARGROOVE FLORAN GREEN
-    { "ffca8a" : "f2d865", "e0975c" : "aacb07", "a85636" : "65900a", "6f2919" : "42670c" },
+    // DEFAULT - XENOFLOWER PURPLE
+    { "ffca8a" : "b84f85", "e0975c" : "b84f85", "a85636" : "4f355a", "6f2919" : "291c32" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

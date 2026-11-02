@@ -13,6 +13,22 @@
   [
     {
       "op": "test",
+      "path": "/items/override/0/1/0/head"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat3b",
+        "parameters": {
+          "colorIndex": 7
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
       "path": "/items/override/0/1"
     },
     {
@@ -29,8 +45,7 @@
             "name": "iwunidrobe_roguechest",
             "parameters": {
               "colorIndex": [
-                0,
-                1
+                7
               ]
             }
           }
@@ -40,8 +55,7 @@
             "name": "iwunidrobe_roguehead",
             "parameters": {
               "colorIndex": [
-                0,
-                1
+                7
               ]
             }
           }
@@ -51,8 +65,7 @@
             "name": "iwunidrobe_roguepants",
             "parameters": {
               "colorIndex": [
-                0,
-                1
+                7
               ]
             }
           }

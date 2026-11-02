@@ -15,36 +15,6 @@
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
         "value": {
-            "item": "iwunidrobe_c1customhelmet5"
-        }
-    },
-    {
-        "op": "add",
-        "path": "/defaultBlueprints/tier1/-",
-        "value": {
-            "item": "iwunidrobe_customhelmet5"
-        }
-    },
-    {
-        "op": "add",
-        "path": "/defaultBlueprints/tier1/-",
-        "value": {
-            "item": "iwunidrobe_customhelmet5"
-        }
-    },
-    {
-        "op": "add",
-        "path": "/defaultBlueprints/tier1/-",
-        "value": {
-            "item": "iwunidrobe_customhelmet5"
-        }
-    },
-
-
-    {
-        "op": "add",
-        "path": "/defaultBlueprints/tier1/-",
-        "value": {
             "item": "iwunidrobe_spacescientist2box"
         }
     },
