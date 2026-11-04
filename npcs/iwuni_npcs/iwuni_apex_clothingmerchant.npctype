@@ -1,7 +1,7 @@
 {
   "type" : "iwuni_apex_clothingmerchant",
   "baseType" : "merchant",
-  "displayTitle" : "Sewer",
+  "displayTitle" : "Clothes Supplier",
   
   "scriptConfig" : {
     "merchant" : {
@@ -17,7 +17,7 @@
       "numItems" : 12,
       "paneLayoutOverride" : {
         "windowtitle" : {
-          "title" : "  Sewer",
+          "title" : "  Clothes Supplier",
           "subtitle" : "  ^#b9b5b2;Only the best clothes for you!"
         }
       }
