@@ -1,6 +1,7 @@
 {
   "type" : "iwuni_apexguerilla",
   "baseType" : "hostile",
+  "displayTitle" : "Apex Guerilla",
 
   "dropPools" : [ "money", "iwunidrobe_apexthreatBaseTreasure" ],
 

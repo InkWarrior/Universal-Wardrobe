@@ -1,0 +1,30 @@
+[
+  {
+    "op": "add",
+    "path": "/0/1/-",
+    "value": [
+      [
+        "generic"
+      ],
+      {
+        "name": "Apex guerrillas",
+        "species": "apex",
+        "typeName": "iwuni_apexguerilla"
+      }
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/0/1/-",
+    "value": [
+      [
+        "generic"
+      ],
+      {
+        "name": "Avian renegades",
+        "species": "avian",
+        "typeName": "iwuni_avianrenegade"
+      }
+    ]
+  }
+]

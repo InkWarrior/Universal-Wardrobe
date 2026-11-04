@@ -1,0 +1,17 @@
+[
+  {
+    "op": "add",
+    "path": "/0/1/-",
+    "value": [
+      [
+        "generic"
+      ],
+      {
+        "name": "lone desperado",
+        "species": "novakid",
+        "typeName": "iwuni_outlawdesperado",
+        "seed": "stable"
+      }
+    ]
+  }
+]

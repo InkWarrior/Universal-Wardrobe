@@ -1,6 +1,7 @@
 {
   "type" : "iwuni_avianrenegade",
   "baseType" : "hostile",
+  "displayTitle" : "Avian Renegade",
 
   "dropPools" : [ "money", "iwunidrobe_avianthreatBaseTreasure" ],
 
@@ -19,26 +20,26 @@
             "Anhingaaa!",
             "Kill the non-believers!",
             "No place for the faithless!",
-            "We're Kluex truest warriors!"
+            "Witness me Kluex!"
           ]
         }
       }
     }
   },
 
-  "matchColorIndices" : true,
+
   "items" : {
     "override" : [
       [0, [
           {
             "head" : [
-              { "name" : "iwunidrobe_renegadehead", "parameters" : { "colorIndex" : [6] } }
+              { "name" : "iwunidrobe_renegadehead", "parameters" : { "colorIndex" : [0] } }
             ],
             "chest" : [
-              { "name" : "iwunidrobe_renegadechest", "parameters" : { "colorIndex" : [1,4,5,8,11] } }
+              { "name" : "iwunidrobe_renegadechest", "parameters" : { "colorIndex" : [1,4,5,,7,8,11] } }
             ],
             "legs" : [
-              { "name" : "iwunidrobe_renegadepants", "parameters" : { "colorIndex" : [1,4,5,8,11] } }
+              { "name" : "iwunidrobe_renegadepants", "parameters" : { "colorIndex" : [1,4,5,7,8,11] } }
             ],
             "primary" : [
               "npcspear",
@@ -58,13 +59,13 @@
           },
           {
             "head" : [
-              { "name" : "iwunidrobe_renegadehead", "parameters" : { "colorIndex" : [6] } }
+              { "name" : "iwunidrobe_renegadehead", "parameters" : { "colorIndex" : [0] } }
             ],
             "chest" : [
-              { "name" : "iwunidrobe_renegadechest", "parameters" : { "colorIndex" : [1,4,5,8,11] } }
+              { "name" : "iwunidrobe_renegadechest", "parameters" : { "colorIndex" : [1,4,5,7,8,11] } }
             ],
             "legs" : [
-              { "name" : "iwunidrobe_renegadepants", "parameters" : { "colorIndex" : [1,4,5,8,11] } }
+              { "name" : "iwunidrobe_renegadepants", "parameters" : { "colorIndex" : [1,4,5,7,8,11] } }
             ],
             "primary" : [
               "npcassaultrifle",
