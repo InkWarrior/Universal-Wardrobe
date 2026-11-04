@@ -1,191 +1,216 @@
 [
-    [
-        {
-            "op": "test",
-            "path": "/matchColorIndices",
-            "inverse": true
-        },
-        {
-            "op": "add",
-            "path": "/matchColorIndices",
-            "value": true
+  [
+    {
+      "inverse": true,
+      "op": "test",
+      "path": "/matchColorIndices"
+    },
+    {
+      "op": "add",
+      "path": "/matchColorIndices",
+      "value": true
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/legs"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_mpscientistlegs",
+        "parameters": {
+          "colorIndex": [
+            1,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
         }
-    ],
-    [
-        {
-            "op": "test",
-            "path": "/items/override/0/1"
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/-",
-            "value": {
-                "head": [
-                    {
-                        "name": "scientisthead"
-                    },
-                    ""
-                ],
-                "chest": [
-                    {
-                        "name": "iwunidrobe_spacescientist1chest",
-                        "parameters": {
-                            "colorIndex": [
-                                0,
-                                1,
-                                2,
-                                3,
-                                4,
-                                5,
-                                6,
-                                7,
-                                8,
-                                9,
-                                10,
-                                11
-                            ]
-                        }
-                    }
-                ],
-                "legs": [
-                    {
-                        "name": "iwunidrobe_spacescientist1legs",
-                        "parameters": {
-                            "colorIndex": [
-                                0,
-                                1,
-                                2,
-                                3,
-                                4,
-                                5,
-                                6,
-                                7,
-                                8,
-                                9,
-                                10,
-                                11
-                            ]
-                        }
-                    }
-                ],
-                "sheathedprimary": [
-                    "npcpistol"
-                ]
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "chest": [
+          {
+            "name": "iwunidrobe_spacescientist1chest",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+              ]
             }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/-",
-            "value": {
-                "head": [
-                    {
-                        "name": "scientisthead"
-                    },
-                    ""
-                ],
-                "chest": [
-                    {
-                        "name": "iwunidrobe_spacescientist2chest",
-                        "parameters": {
-                            "colorIndex": [
-                                0,
-                                1,
-                                2,
-                                3,
-                                4,
-                                5,
-                                6,
-                                7,
-                                8,
-                                9,
-                                10,
-                                11
-                            ]
-                        }
-                    }
-                ],
-                "legs": [
-                    {
-                        "name": "iwunidrobe_spacescientist2legs",
-                        "parameters": {
-                            "colorIndex": [
-                                0,
-                                1,
-                                2,
-                                3,
-                                4,
-                                5,
-                                6,
-                                7,
-                                8,
-                                9,
-                                10,
-                                11
-                            ]
-                        }
-                    }
-                ],
-                "sheathedprimary": [
-                    "npcpistol"
-                ]
+          }
+        ],
+        "head": [
+          {
+            "name": "scientisthead"
+          },
+          ""
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_spacescientist1legs",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+              ]
             }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/-",
-            "value": {
-                "head": [
-                    {
-                        "name": "scientisthead"
-                    },
-                    ""
-                ],
-                "chest": [
-                    {
-                        "name": "iwunidrobe_spacescientist3chest",
-                        "parameters": {
-                            "colorIndex": [
-                                0,
-                                1,
-                                2,
-                                3,
-                                4,
-                                5,
-                                6,
-                                7,
-                                8,
-                                9,
-                                10,
-                                11
-                            ]
-                        }
-                    }
-                ],
-                "legs": [
-                    {
-                        "name": "iwunidrobe_spacescientist3legs",
-                        "parameters": {
-                            "colorIndex": [
-                                0,
-                                1,
-                                2,
-                                3,
-                                4,
-                                5,
-                                6,
-                                7,
-                                8,
-                                9,
-                                10,
-                                11
-                            ]
-                        }
-                    }
-                ],
-                "sheathedprimary": [
-                    "npcpistol"
-                ]
+          }
+        ],
+        "sheathedprimary": [
+          "npcpistol"
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "chest": [
+          {
+            "name": "iwunidrobe_spacescientist2chest",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+              ]
             }
-        }
-    ]
+          }
+        ],
+        "head": [
+          {
+            "name": "scientisthead"
+          },
+          ""
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_spacescientist2legs",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+              ]
+            }
+          }
+        ],
+        "sheathedprimary": [
+          "npcpistol"
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "chest": [
+          {
+            "name": "iwunidrobe_spacescientist3chest",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+              ]
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "scientisthead"
+          },
+          ""
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_spacescientist3legs",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+              ]
+            }
+          }
+        ],
+        "sheathedprimary": [
+          "npcpistol"
+        ]
+      }
+    }
+  ]
 ]
