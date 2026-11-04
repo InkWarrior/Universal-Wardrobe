@@ -1,0 +1,19 @@
+{
+  "kind" : "iwunidrobe_hamsteam",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/iwuni_steam/iwuni_steam.animation",
+    "position" : [-0.75, 2],
+    "fade" : 1,
+    "destructionAction" : "shrink",
+    "destructionTime" : 0.85,
+    "initialVelocity" : [0, 0.5],
+    "approach" : [10, 2],
+    "timeToLive" : 0.85,
+    "size" : 1,
+    "layer" : "front",
+    "variance" : {
+      "position" : [-0.5, 2]
+    }
+  }
+}

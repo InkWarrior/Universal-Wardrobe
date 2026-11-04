@@ -11,6 +11,8 @@
   "maleFrames" : "back.png",
   "femaleFrames" : "back.png",
   "maxStack" : 1,
+
+  "effectSources" : [ "iwunidrobe_hamsteam" ],
   
   "colorOptions" : [
     // DEFAULT - COOKED HAM
