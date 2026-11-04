@@ -27,7 +27,6 @@
     }
   },
 
-
   "items" : {
     "override" : [
       [0, [
@@ -36,7 +35,7 @@
               { "name" : "iwunidrobe_renegadehead", "parameters" : { "colorIndex" : [0] } }
             ],
             "chest" : [
-              { "name" : "iwunidrobe_renegadechest", "parameters" : { "colorIndex" : [1,4,5,,7,8,11] } }
+              { "name" : "iwunidrobe_renegadechest", "parameters" : { "colorIndex" : [1,4,5,7,8,11] } }
             ],
             "legs" : [
               { "name" : "iwunidrobe_renegadepants", "parameters" : { "colorIndex" : [1,4,5,7,8,11] } }
