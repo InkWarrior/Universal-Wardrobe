@@ -29,8 +29,9 @@
       [0, [
           {
             "head" : [
+              { "name" : "iwunidrobe_apexmerchanthead", "parameters" : { "colorIndex" : 0 } },
               { "name" : "berethead", "parameters" : { "colorIndex" : 8 } },
-              { "name" : "bandithat1", "parameters" : { "colorIndex" : 8 } }, 
+              { "name" : "bandithat1", "parameters" : { "colorIndex" : 8 } },
               { "name" : "bandithat2", "parameters" : { "colorIndex" : 8 } }, 
               { "name" : "m1helmethead", "parameters" : { "colorIndex" : 8 } },
               { "name" : "visorhead", "parameters" : { "colorIndex" : 8 } },
@@ -43,7 +44,7 @@
               { "name" : "pilotback", "parameters" : { "colorIndex" : 8 } }, 
               { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } },
               { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
-              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
+              { "name" : "iwunidrobe_bigapexpack", "parameters" : { "colorIndex" : [0,1,11] } }
             ],
             "chest" : [
               { "name" : "iwunidrobe_epsilonchest", "parameters" : { "colorIndex" : 1 } }
@@ -54,6 +55,7 @@
           },
           {
             "head" : [
+              { "name" : "iwunidrobe_apexmerchanthead", "parameters" : { "colorIndex" : 0 } },
               { "name" : "bettyhead", "parameters" : { "colorIndex" : 8 } },
               { "name" : "berethead", "parameters" : { "colorIndex" : 8 } },
               { "name" : "bandithat1", "parameters" : { "colorIndex" : 8 } }, 
@@ -68,8 +70,7 @@
               { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } },
               { "name" : "pilotback", "parameters" : { "colorIndex" : 8 } }, 
               { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } },
-              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
-              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
+              { "name" : "iwunidrobe_bigapexpack", "parameters" : { "colorIndex" : [0,1,11] } }
             ],
             "chest" : [
               { "name" : "bettychest", "parameters" : { "colorIndex" : 8 } }
@@ -80,6 +81,7 @@
           },
           {
             "head" : [
+              { "name" : "iwunidrobe_apexmerchanthead", "parameters" : { "colorIndex" : 0 } },
               { "name" : "pilothead", "parameters" : { "colorIndex" : 8 } },
               { "name" : "berethead", "parameters" : { "colorIndex" : 8 } },
               { "name" : "bandithat1", "parameters" : { "colorIndex" : 8 } }, 
@@ -94,8 +96,7 @@
               { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } },
               { "name" : "pilotback", "parameters" : { "colorIndex" : 8 } }, 
               { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } },
-              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
-              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
+              { "name" : "iwunidrobe_bigapexpack", "parameters" : { "colorIndex" : [0,1,11] } }
             ],
             "chest" : [
               { "name" : "pilotchest", "parameters" : { "colorIndex" : 1 } },

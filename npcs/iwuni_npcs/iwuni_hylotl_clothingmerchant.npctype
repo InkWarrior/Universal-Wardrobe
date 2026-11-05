@@ -41,8 +41,7 @@
               { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } },
               { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, 
               { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } },
-              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
-              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
+              { "name" : "iwunidrobe_bighylotlpack", "parameters" : { "colorIndex" : [0,1,11] } }
             ],
             "chest" : [
               { "name" : "iwunidrobe_calligrapherchest", "parameters" : { "colorIndex" : 8 } }
@@ -66,8 +65,7 @@
               { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } },
               { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, 
               { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } },
-              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
-              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
+              { "name" : "iwunidrobe_bighylotlpack", "parameters" : { "colorIndex" : [0,1,11] } }
             ],
             "chest" : [
               { "name" : "smartchest", "parameters" : { "colorIndex" : 8 } }

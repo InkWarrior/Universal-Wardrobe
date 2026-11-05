@@ -44,8 +44,7 @@
               { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } },
               { "name" : "toxicflowerback", "parameters" : { "colorIndex" : 0 } }, 
               { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } },
-              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
-              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
+              { "name" : "iwunidrobe_bigfloranpack", "parameters" : { "colorIndex" : [0,1,11] } }
             ],
             "chest" : [
               { "name" : "iwunidrobe_sawboneschest", "parameters" : { "colorIndex" : 7 } },
@@ -72,8 +71,7 @@
               { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } },
               { "name" : "toxicflowerback", "parameters" : { "colorIndex" : 0 } }, 
               { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } },
-              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
-              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
+              { "name" : "iwunidrobe_bigfloranpack", "parameters" : { "colorIndex" : [0,1,11] } }
             ],
             "chest" : [
               { "name" : "wildfunguschest", "parameters" : { "colorIndex" : 7 } }
@@ -95,8 +93,7 @@
               { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } },
               { "name" : "toxicflowerback", "parameters" : { "colorIndex" : 0 } }, 
               { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } },
-              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
-              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
+              { "name" : "iwunidrobe_bigfloranpack", "parameters" : { "colorIndex" : [0,1,11] } }
             ],
             "chest" : [
               { "name" : "predatorychest", "parameters" : { "colorIndex" : 7 } }

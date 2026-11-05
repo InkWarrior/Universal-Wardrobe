@@ -41,8 +41,7 @@
               { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } },
               { "name" : "boilerback", "parameters" : { "colorIndex" : 0 } }, 
               { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } },
-              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
-              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
+              { "name" : "iwunidrobe_bignovapack", "parameters" : { "colorIndex" : [0,1,11] } }
             ],
             "chest" : [
               { "name" : "iwunidrobe_diggerchest", "parameters" : { "colorIndex" : 1 } },
@@ -59,16 +58,14 @@
               { "name" : "iwunidrobe_novakidmerchanthead", "parameters" : { "colorIndex" : 1 } },
               { "name" : "clocktophathead", "parameters" : { "colorIndex" : 1 } },
               { "name" : "tophathead", "parameters" : { "colorIndex" : 1 } },
-              { "name" : "toptophathead", "parameters" : { "colorIndex" : 1 } },
-              { "name" : "hottophathead", "parameters" : { "colorIndex" : 1 } }
+              { "name" : "toptophathead", "parameters" : { "colorIndex" : 1 } }
             ],
             "back" : [
               { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } },
               { "name" : "boilerback", "parameters" : { "colorIndex" : 0 } }, 
               { "name" : "moneybagsback", "parameters" : { "colorIndex" : 1 } }, 
               { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } },
-              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
-              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
+              { "name" : "iwunidrobe_bignovapack", "parameters" : { "colorIndex" : [0,1,11] } }
             ],
             "chest" : [
               { "name" : "moneybagschest", "parameters" : { "colorIndex" : 1 } },
@@ -91,8 +88,7 @@
               { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } },
               { "name" : "boilerback", "parameters" : { "colorIndex" : 0 } }, 
               { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } },
-              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
-              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
+              { "name" : "iwunidrobe_bignovapack", "parameters" : { "colorIndex" : [0,1,11] } }
             ],
             "chest" : [
               { "name" : "iwunidrobe_prospectorchest", "parameters" : { "colorIndex" : 11 } }

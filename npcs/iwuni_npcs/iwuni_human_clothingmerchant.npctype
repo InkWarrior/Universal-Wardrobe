@@ -10,7 +10,7 @@
       "poolsFile" : "/npcs/merchantpools.config",
       "categories" : {
         "default" : ["iwuni_humanclothes"],
-        "floran" : ["iwuni_humanclothes"]
+        "human" : ["iwuni_humanclothes"]
       },
       "buyFactorRange" : [ 0.9, 1.2 ],
       "sellFactorRange" : [ 0.2, 0.2 ],
@@ -30,7 +30,7 @@
           {
             "head" : [
               { "name" : "iwunidrobe_foxtrapperhead", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } },
-              { "name" : "iwunidrobe_hovertruckercap", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } }, 
+              { "name" : "iwunidrobe_humanmerchanthead", "parameters" : { "colorIndex" : 0 } }, 
               { "name" : "glasses1head", "parameters" : { "colorIndex" : 1 } }, 
               { "name" : "iwunidrobe_hovertruckercap", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } },
               { "name" : "iwunidrobe_sunvisor1", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } },
@@ -42,8 +42,7 @@
               { "name" : "survivalgearback", "parameters" : { "colorIndex" : [1, 11] } },
               { "name" : "medicback", "parameters" : { "colorIndex" : [1, 11] } }, 
               { "name" : "hikerback", "parameters" : { "colorIndex" : [1, 11] } },
-              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
-              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
+              { "name" : "iwunidrobe_bigglitchpack", "parameters" : { "colorIndex" : [0,1,11] } }
             ],
             "chest" : [
               { "name" : "iwunidrobe_camperchest", "parameters" : { "colorIndex" : 6 } },
@@ -57,30 +56,8 @@
           },
           {
             "head" : [
-              { "name" : "copperarmorhead", "parameters" : { "colorIndex" : 0 } },
-              { "name" : "foundrygoggleshead", "parameters" : { "colorIndex" : 0 } }, 
-              { "name" : "industrialcrewhead", "parameters" : { "colorIndex" : 0 } }, 
-              { "name" : "t2helm2", "parameters" : { "colorIndex" : 0 } },
-              { "name" : "weldershelmethead", "parameters" : { "colorIndex" : 0 } },
-              { "name" : "iwunidrobe_weldervisor", "parameters" : { "colorIndex" : 0 } }
-            ],
-            "back" : [
-              { "name" : "survivalgearback", "parameters" : { "colorIndex" : [1, 11] } },
-              { "name" : "medicback", "parameters" : { "colorIndex" : [1, 11] } }, 
-              { "name" : "hikerback", "parameters" : { "colorIndex" : [1, 11] } },
-              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
-              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
-            ],
-            "chest" : [
-              { "name" : "copperarmorchest", "parameters" : { "colorIndex" : 0 } }
-            ],
-            "legs" : [
-              { "name" : "copperarmorpants", "parameters" : { "colorIndex" : 0 } }
-            ]
-          },
-          {
-            "head" : [
               { "name" : "iwunidrobe_foxtrapperhead", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } },
+              { "name" : "iwunidrobe_humanmerchanthead", "parameters" : { "colorIndex" : 0 } }, 
               { "name" : "caphead", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } }, 
               { "name" : "glasses1head", "parameters" : { "colorIndex" : 1 } }, 
               { "name" : "coolfezhead", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } },
@@ -95,7 +72,6 @@
               { "name" : "survivalgearback", "parameters" : { "colorIndex" : [1, 11] } },
               { "name" : "medicback", "parameters" : { "colorIndex" : [1, 11] } }, 
               { "name" : "hikerback", "parameters" : { "colorIndex" : [1, 11] } },
-              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
               { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
             ],
             "chest" : [
@@ -108,7 +84,7 @@
           {
             "head" : [
               { "name" : "iwunidrobe_foxtrapperhead", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } },
-              { "name" : "iwunidrobe_hovertruckercap", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } }, 
+              { "name" : "iwunidrobe_humanmerchanthead", "parameters" : { "colorIndex" : 0 } }, 
               { "name" : "glasses1head", "parameters" : { "colorIndex" : 1 } }, 
               { "name" : "iwunidrobe_hovertruckercap", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } },
               { "name" : "iwunidrobe_sunvisor1", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } },
@@ -119,7 +95,6 @@
               { "name" : "survivalgearback", "parameters" : { "colorIndex" : [1, 11] } },
               { "name" : "medicback", "parameters" : { "colorIndex" : [1, 11] } }, 
               { "name" : "hikerback", "parameters" : { "colorIndex" : [1, 11] } },
-              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
               { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
             ],
             "chest" : [

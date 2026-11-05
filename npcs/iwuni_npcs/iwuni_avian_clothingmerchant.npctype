@@ -44,8 +44,7 @@
               { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } },
               { "name" : "medicback", "parameters" : { "colorIndex" : 0 } }, 
               { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } },
-              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
-              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
+              { "name" : "iwunidrobe_bigavianpack", "parameters" : { "colorIndex" : [0,1,11] } }
             ],
             "chest" : [
               { "name" : "iwunidrobe_traderchest", "parameters" : { "colorIndex" : 4 } },
@@ -69,35 +68,14 @@
               { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } },
               { "name" : "pirateback", "parameters" : { "colorIndex" : 0 } }, 
               { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } },
-              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
-              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
+              { "name" : "iwunidrobe_bigavianpack", "parameters" : { "colorIndex" : [0,1,11] } }
             ],
             "chest" : [
-              { "name" : "buccaneerchest", "parameters" : { "colorIndex" : 0 } }
-            ],
-            "legs" : [
-              { "name" : "buccaneerlegs", "parameters" : { "colorIndex" : 0 } }
-            ]
-          },
-          {
-            "head" : [
-              { "name" : "buccaneerhead", "parameters" : { "colorIndex" : 4 } },
-              { "name" : "eyepatchhead", "parameters" : { "colorIndex" : 0 } }, 
-              { "name" : "tricornhat", "parameters" : { "colorIndex" : 4 } },
-              { "name" : "piratehead", "parameters" : { "colorIndex" : 4 } },
-              { "name" : "iwunidrobe_owlearhathead", "parameters" : { "colorIndex" : 4 } }
-            ],
-            "back" : [
-              { "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } },
-              { "name" : "pirateback", "parameters" : { "colorIndex" : 0 } }, 
-              { "name" : "hikerback", "parameters" : { "colorIndex" : 1 } },
-              { "name" : "iwunidrobe_spacestoreback", "parameters" : { "colorIndex" : 0 } },
-              { "name" : "iwunidrobe_bigbackpack", "parameters" : { "colorIndex" : [0,1,11] } }
-            ],
-            "chest" : [
+              { "name" : "buccaneerchest", "parameters" : { "colorIndex" : 4 } },
               { "name" : "piratechest", "parameters" : { "colorIndex" : 4 } }
             ],
             "legs" : [
+              { "name" : "buccaneerlegs", "parameters" : { "colorIndex" : 4 } },
               { "name" : "piratelegs", "parameters" : { "colorIndex" : 4 } }
             ]
           }
