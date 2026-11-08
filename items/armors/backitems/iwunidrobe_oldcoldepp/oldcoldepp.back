@@ -5,7 +5,7 @@
   "rarity" : "Rare",
   "category" : "enviroProtectionPack",
   "description" : "An old predecessor to heating EPPs. ^red;Extreme cold protection only.^reset;",
-  "shortdescription" : "Heating Generator",
+  "shortdescription" : "Heat Generator",
   "tooltipKind" : "back",
 
   "maleFrames" : "back.png",

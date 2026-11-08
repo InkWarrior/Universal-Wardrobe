@@ -4,7 +4,7 @@
   "inventoryIcon" : "icon.png",
   "rarity" : "Uncommon",
   "category" : "backwear",
-  "description" : "A standard military backpack used by Miniknog troops.",
+  "description" : "A standard issue military backpack used by Miniknog troops.",
   "shortdescription" : "MNKG Standard Backpack",
   "tooltipKind" : "back",
 
