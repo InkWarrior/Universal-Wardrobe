@@ -12,12 +12,16 @@
   ],
   [
     {
+      "op": "test",
+      "path": "/items/override/0/1/0/head"
+    },
+    {
       "op": "add",
       "path": "/items/override/0/1/0/head/-",
       "value": {
-        "name": "iwunidrobe_floranhat4c",
+        "name": "florantier5shead",
         "parameters": {
-          "colorIndex": 0
+          "colorIndex": 7
         }
       }
     },
@@ -25,7 +29,7 @@
       "op": "add",
       "path": "/items/override/0/1/0/head/-",
       "value": {
-        "name": "iwunidrobe_floranhat2",
+        "name": "florantier5ahead",
         "parameters": {
           "colorIndex": 7
         }
@@ -34,12 +38,16 @@
   ],
   [
     {
+      "op": "test",
+      "path": "/items/override/0/1/1/head"
+    },
+    {
       "op": "add",
       "path": "/items/override/0/1/1/head/-",
       "value": {
         "name": "iwunidrobe_floranhat4a",
         "parameters": {
-          "colorIndex": 11
+          "colorIndex": 0
         }
       }
     },
@@ -47,21 +55,25 @@
       "op": "add",
       "path": "/items/override/0/1/1/head/-",
       "value": {
-        "name": "iwunidrobe_floranhat5a",
+        "name": "iwunidrobe_floranhat4c",
         "parameters": {
-          "colorIndex": 0
+          "colorIndex": 11
         }
       }
     }
   ],
   [
     {
+      "op": "test",
+      "path": "/items/override/0/1/2/head"
+    },
+    {
       "op": "add",
       "path": "/items/override/0/1/2/head/-",
       "value": {
         "name": "iwunidrobe_floranhat4a",
         "parameters": {
-          "colorIndex": 11
+          "colorIndex": 0
         }
       }
     },
@@ -69,14 +81,18 @@
       "op": "add",
       "path": "/items/override/0/1/2/head/-",
       "value": {
-        "name": "iwunidrobe_floranhat5a",
+        "name": "iwunidrobe_floranhat4cs",
         "parameters": {
-          "colorIndex": 0
+          "colorIndex": 11
         }
       }
     }
   ],
   [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/4/head"
+    },
     {
       "op": "add",
       "path": "/items/override/0/1/4/head/-",
@@ -86,9 +102,33 @@
           "colorIndex": 0
         }
       }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/4/head/-",
+      "value": {
+        "name": "sabertoothhelm",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/4/head/-",
+      "value": {
+        "name": "skullmaskhead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
     }
   ],
   [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/6/head"
+    },
     {
       "op": "add",
       "path": "/items/override/0/1/6/head/-",
@@ -101,6 +141,10 @@
     }
   ],
   [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/6/chest"
+    },
     {
       "op": "add",
       "path": "/items/override/0/1/6/chest/-",
@@ -134,6 +178,10 @@
   ],
   [
     {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
       "op": "add",
       "path": "/items/override/0/1/-",
       "value": {
@@ -156,7 +204,25 @@
             }
           },
           {
-            "name": "iwunidrobe_floranhat4a",
+            "name": "iwunidrobe_floranbandithead13",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead14",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead15",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead16",
             "parameters": {
               "colorIndex": 0
             }
@@ -167,6 +233,106 @@
             "name": "iwunidrobe_lurkerpants",
             "parameters": {
               "colorIndex": 0
+            }
+          }
+        ],
+        "primary": [
+          "npcspear",
+          "npcbroadsword",
+          "npcshortsword"
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "alt": [
+          "floranshield"
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_hemiparasitechest",
+            "parameters": {
+              "colorIndex": 4
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_hemiparasitehead",
+            "parameters": {
+              "colorIndex": 4
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead6",
+            "parameters": {
+              "colorIndex": 4
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead7",
+            "parameters": {
+              "colorIndex": 4
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_hemiparasitepants",
+            "parameters": {
+              "colorIndex": 4
+            }
+          }
+        ],
+        "primary": [
+          "npcspear",
+          "npcbroadsword",
+          "npcshortsword"
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "alt": [
+          "floranshield"
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_hemiparasitechest",
+            "parameters": {
+              "colorIndex": 6
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_hemiparasitehead",
+            "parameters": {
+              "colorIndex": 6
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead6",
+            "parameters": {
+              "colorIndex": 6
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead7",
+            "parameters": {
+              "colorIndex": 6
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_hemiparasitepants",
+            "parameters": {
+              "colorIndex": 6
             }
           }
         ],

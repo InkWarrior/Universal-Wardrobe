@@ -12,6 +12,46 @@
   ],
   [
     {
+      "op": "test",
+      "path": "/items/override/0/1/0/head"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "alienskullhead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "dreadfulskullhead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "sabertoothhelm",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
       "op": "add",
       "path": "/items/override/0/1/-",
       "value": {
@@ -29,11 +69,92 @@
             "parameters": {
               "colorIndex": 0
             }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead13a",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead14",
+            "parameters": {
+              "colorIndex": 1
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead15",
+            "parameters": {
+              "colorIndex": 1
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead16",
+            "parameters": {
+              "colorIndex": 1
+            }
           }
         ],
         "legs": [
           {
             "name": "iwunidrobe_lurkeraltlegs",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "primary": [
+          "npchammer"
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "chest": [
+          {
+            "name": "iwunidrobe_barkplatechest",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_barkplatehead",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead9",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead10",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead11",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead12",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_barkplatepants",
             "parameters": {
               "colorIndex": 0
             }

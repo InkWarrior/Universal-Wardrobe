@@ -1,0 +1,125 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/dropPools"
+    },
+    {
+      "op": "add",
+      "path": "/dropPools/-",
+      "value": "iwunidrobe_floranthreatBaseTreasure"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "iwunidrobe_leafcapeback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_overgrownchest",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_overgrownhead",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead1"
+          },
+          {
+            "name": "iwunidrobe_floranbandithead2"
+          },
+          {
+            "name": "iwunidrobe_floranbandithead3"
+          },
+          {
+            "name": "iwunidrobe_floranbandithead4"
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_overgrownpants",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "primary": [
+          "npcfloranassaultrifle"
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "iwunidrobe_jarplantback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_hemiparasitechest",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_hemiparasitehead",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead5",
+            "parameters": {
+              "directives": "?replace;ffca8a=ec3b45;e0975c=bb2c46;a85636=761934;6f2919=3c0717"
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead8",
+            "parameters": {
+              "directives": "?replace;ffca8a=ec3b45;e0975c=bb2c46;a85636=761934;6f2919=3c0717"
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_hemiparasitepants",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "primary": [
+          "npcfloranassaultrifle"
+        ]
+      }
+    }
+  ]
+]

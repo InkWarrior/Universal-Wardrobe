@@ -12,6 +12,10 @@
   ],
   [
     {
+      "op": "test",
+      "path": "/items/override/0/1/0/head"
+    },
+    {
       "op": "add",
       "path": "/items/override/0/1/0/head/-",
       "value": {
@@ -34,6 +38,10 @@
   ],
   [
     {
+      "op": "test",
+      "path": "/items/override/0/1/0/back"
+    },
+    {
       "op": "add",
       "path": "/items/override/0/1/0/back/-",
       "value": {
@@ -42,9 +50,23 @@
           "colorIndex": 11
         }
       }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_leafcapeback",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
     }
   ],
   [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
     {
       "op": "add",
       "path": "/items/override/0/1/-",
@@ -68,7 +90,7 @@
             }
           },
           {
-            "name": "floweryback",
+            "name": "iwunidrobe_bighamback",
             "parameters": {
               "colorIndex": 0
             }
@@ -122,13 +144,109 @@
         ],
         "back": [
           {
-            "name": "predatoryback",
+            "name": "floweryback",
             "parameters": {
-              "colorIndex": 4
+              "colorIndex": 0
             }
           },
           {
+            "name": "iwunidrobe_jarplantback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_jarplantaltback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_hemiparasitechest",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_hemiparasitehead",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead5",
+            "parameters": {
+              "directives": "?replace;ffca8a=ec3b45;e0975c=bb2c46;a85636=761934;6f2919=3c0717"
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead6",
+            "parameters": {
+              "directives": "?replace;ffca8a=ec3b45;e0975c=bb2c46;a85636=761934;6f2919=3c0717"
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead7",
+            "parameters": {
+              "directives": "?replace;ffca8a=ec3b45;e0975c=bb2c46;a85636=761934;6f2919=3c0717"
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead8",
+            "parameters": {
+              "directives": "?replace;ffca8a=ec3b45;e0975c=bb2c46;a85636=761934;6f2919=3c0717"
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_hemiparasitepants",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "primary": [
+          "npcspear",
+          "npcaxe",
+          "npchammer",
+          "npcbroadsword",
+          "npcdagger",
+          "npcshortsword"
+        ],
+        "sheathedprimary": [
+          "npcfloranassaultrifle"
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "alt": [
+          {
+            "name": "floranshield"
+          }
+        ],
+        "back": [
+          {
             "name": "spearback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_bighamback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbannerback",
             "parameters": {
               "colorIndex": 0
             }
@@ -148,11 +266,125 @@
             "parameters": {
               "colorIndex": 0
             }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead13a",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead14",
+            "parameters": {
+              "colorIndex": 1
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead15",
+            "parameters": {
+              "colorIndex": 1
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead16",
+            "parameters": {
+              "colorIndex": 1
+            }
           }
         ],
         "legs": [
           {
             "name": "iwunidrobe_lurkeraltlegs",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "primary": [
+          "npcspear",
+          "npcaxe",
+          "npchammer",
+          "npcbroadsword",
+          "npcdagger",
+          "npcshortsword"
+        ],
+        "sheathedprimary": [
+          "npcfloranassaultrifle"
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "alt": [
+          {
+            "name": "floranshield"
+          }
+        ],
+        "back": [
+          {
+            "name": "iwunidrobe_glowfruitback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_jarplantback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbannerback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_barkplatechest",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_barkplatehead",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead9",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead10",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead11",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_floranbandithead12",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_barkplatepants",
             "parameters": {
               "colorIndex": 0
             }
